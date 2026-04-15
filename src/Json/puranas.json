@@ -1,0 +1,367 @@
+{
+  "puranas": [
+    {
+      "id": "markandeya-purana",
+      "book": {
+        "title": "Markandeya Purana (मार्कण्डेय पुराण)",
+        "translator": "F.E. Pargiter",
+        "description": "The Markandeya Purana is one of the oldest among the eighteen Mahapuranas, consisting of 137 chapters. It is unique as it is the only Purana that is not attributed to Vyasa. The text is presented as a dialogue between the sage Jaimini and the ancient sage Markandeya. It is most famous for containing the Devi Mahatmya (also known as Durga Saptashati or Chandi Path), which is one of the most important texts in Shaktism. The Purana covers a wide range of topics including cosmology, mythology, genealogy, and Dharma. It also includes the story of King Harishchandra, known for his unwavering commitment to truth.",
+        "coverImage": "https://example.com/images/markandeya-purana-cover.jpg",
+        "meta": {
+          "genre": "Mahapurana / Scripture",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "850",
+          "publisher": "Indological Book House",
+          "price": "₹1,100.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Markandeya",
+        "image": "https://example.com/images/markandeya.jpg",
+        "description": "Markandeya was an ancient sage who is said to have been blessed with eternal youth.||According to legend, he was saved from death by Lord Shiva when Lord Yama came to claim his life.||The Purana is presented as his teachings to the sage Jaimini, who had questions about the Mahabharata.||Markandeya is considered a chiranjivi (immortal being) who still resides on earth."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Devi Mahatmya",
+          "coverImage": "https://example.com/images/devi-mahatmya-cover.jpg",
+          "description": "The most important text on Goddess Durga from this Purana"
+        }
+      ]
+    },
+    {
+      "id": "brahma-purana",
+      "book": {
+        "title": "Brahma Purana (ब्रह्म पुराण)",
+        "translator": "Board of Scholars",
+        "description": "The Brahma Purana is one of the eighteen Mahapuranas and is traditionally considered the first in the series. It consists of 245 chapters and 14,000 verses. Although named after Brahma, the creator god, it primarily glorifies Lord Vishnu and Shiva, reflecting the syncretic nature of Puranic literature. The text contains detailed descriptions of the creation of the universe, genealogies of gods and sages, and the glory of various pilgrimage sites, particularly Puri Jagannath in Odisha. It also includes the story of Rama and Krishna, and provides instructions for various rituals and vows. The Purana serves as both a religious text and a geographical guide to sacred places.",
+        "coverImage": "https://example.com/images/brahma-purana-cover.jpg",
+        "meta": {
+          "genre": "Mahapurana / Scripture",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "1,200",
+          "publisher": "Motilal Banarsidass",
+          "price": "₹1,500.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Vyasa",
+        "image": "https://example.com/images/vyasa.jpg",
+        "description": "Vyasa is traditionally credited with compiling the Brahma Purana.||The text is said to have been originally recited by Lord Brahma to the sage Marichi, one of his mind-born sons.||Vyasa organized this knowledge into its current form for the benefit of humanity in Kali Yuga."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Puranic Encyclopedia",
+          "coverImage": "https://example.com/images/puranic-encyclopedia-cover.jpg",
+          "description": "Comprehensive reference work on Puranic mythology"
+        }
+      ]
+    },
+    {
+      "id": "skanda-purana",
+      "book": {
+        "title": "Skanda Purana (स्कन्द पुराण)",
+        "translator": "Board of Scholars",
+        "description": "The Skanda Purana is the largest of the eighteen Mahapuranas, consisting of over 81,000 verses. It is dedicated to Skanda (also known as Kartikeya or Murugan), the son of Shiva and Parvati and the god of war. The text is an encyclopedic work divided into seven khandas (sections), each focusing on different pilgrimage sites and religious teachings. It contains detailed descriptions of sacred geography, particularly of Shiva temples and tirthas (pilgrimage sites). The Purana also includes numerous legends, rituals, and philosophical discourses. Due to its immense size, it is sometimes called the 'Kashi Purana' as it extensively describes the glory of Varanasi (Kashi).",
+        "coverImage": "https://example.com/images/skanda-purana-cover.jpg",
+        "meta": {
+          "genre": "Mahapurana / Shaiva Scripture",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "2,800",
+          "publisher": "Nag Publishers",
+          "price": "₹3,200.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Vyasa",
+        "image": "https://example.com/images/vyasa.jpg",
+        "description": "Vyasa is traditionally credited with compiling the Skanda Purana.||The text is believed to have been originally narrated by Lord Skanda himself to the sages in the forest.||Due to its enormous size, it is said that Vyasa taught different sections to different disciples for preservation."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Kashi Khanda",
+          "coverImage": "https://example.com/images/kashi-khanda-cover.jpg",
+          "description": "Section of Skanda Purana dedicated to the glory of Varanasi"
+        }
+      ]
+    },
+    {
+      "id": "padma-purana",
+      "book": {
+        "title": "Padma Purana (पद्म पुराण)",
+        "translator": "N.A. Deshpande",
+        "description": "The Padma Purana is one of the eighteen Mahapuranas, consisting of 55,000 verses divided into five sections: Srishti Khanda (creation), Bhumi Khanda (earth), Svarga Khanda (heaven), Patala Khanda (netherworld), and Uttara Khanda (later section). It is a Vaishnava text that glorifies Lord Vishnu and contains numerous legends, particularly about Rama and Krishna. The Purana includes the famous stories of Dhruva, Prahlada, and the churning of the ocean (Samudra Manthan). It also provides detailed descriptions of various festivals, rituals, and pilgrimage sites. The text is notable for its comprehensive treatment of Bhakti (devotion) as the path to liberation.",
+        "coverImage": "https://example.com/images/padma-purana-cover.jpg",
+        "meta": {
+          "genre": "Mahapurana / Vaishnava Scripture",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "1,800",
+          "publisher": "Motilal Banarsidass",
+          "price": "₹2,200.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Vyasa",
+        "image": "https://example.com/images/vyasa.jpg",
+        "description": "Vyasa is traditionally credited with compiling the Padma Purana.||The text is said to have been originally narrated by Lord Vishnu to the sage Pulastya.||It is called 'Padma' (lotus) either because it emerged from the lotus navel of Vishnu or because it describes the cosmic lotus from which Brahma originated."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Bhagavata Purana",
+          "coverImage": "https://example.com/images/bhagavata-purana-cover.jpg",
+          "description": "Another important Vaishnava Purana focusing on Krishna"
+        }
+      ]
+    },
+    {
+      "id": "narada-purana",
+      "book": {
+        "title": "Narada Purana (नारद पुराण)",
+        "translator": "G.V. Tagare",
+        "description": "The Narada Purana is one of the eighteen Mahapuranas, presented as a dialogue between the divine sage Narada and Sanatkumara. It consists of two parts: the Purvabhaga (first part) with 125 chapters and the Uttarabhaga (later part) with 82 chapters. The text covers a wide range of topics including cosmology, mythology, genealogy, music, and Dharma. It is particularly known for its detailed descriptions of various festivals, vows, and rituals. The Purana emphasizes Bhakti (devotion) as the supreme path to liberation and contains numerous stories illustrating the power of devotion to Vishnu. It also includes sections on politics, economics, and the duties of different social classes.",
+        "coverImage": "https://example.com/images/narada-purana-cover.jpg",
+        "meta": {
+          "genre": "Mahapurana / Vaishnava Scripture",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "1,400",
+          "publisher": "Motilal Banarsidass",
+          "price": "₹1,700.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Vyasa through Narada",
+        "image": "https://example.com/images/narada.jpg",
+        "description": "Vyasa is traditionally credited with compiling the Narada Purana.||The text is presented as having been originally narrated by Lord Vishnu to Narada, who then taught it to Sanatkumara.||Narada is the divine sage known as a traveling musician and storyteller who carries knowledge between different worlds."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Narada Bhakti Sutra",
+          "coverImage": "https://example.com/images/narada-bhakti-sutra-cover.jpg",
+          "description": "Narada's aphorisms on the path of devotion"
+        }
+      ]
+    },
+    {
+      "id": "vishnu-purana",
+      "book": {
+        "title": "Vishnu Purana (विष्णु पुराण)",
+        "translator": "H.H. Wilson",
+        "description": "The Vishnu Purana is one of the eighteen Mahapuranas and is considered one of the most important. It primarily glorifies Lord Vishnu and his avatars, particularly Krishna. The text is divided into six parts (amsas) and covers a wide range of topics including cosmology, mythology, genealogy of kings, and teachings on dharma. It presents a comprehensive view of the universe's creation, its periodic destruction, and recreation. The Vishnu Purana is notable for its literary quality and philosophical depth, containing the well-known Vishnu Sahasranama (thousand names of Vishnu) and detailed descriptions of Vishnu's incarnations.",
+        "coverImage": "https://example.com/images/vishnu-purana-cover.jpg",
+        "meta": {
+          "genre": "Mahapurana / Vaishnava Scripture",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "900",
+          "publisher": "Nag Publishers",
+          "price": "₹1,200.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Parashara",
+        "image": "https://example.com/images/parashara.jpg",
+        "description": "Parashara was a revered Vedic sage, the grandson of Vasishtha and father of Vyasa.||He is credited with composing the Vishnu Purana as well as works on astronomy and astrology.||According to tradition, he received the knowledge of this Purana through his spiritual lineage and was inspired to compile it for the benefit of humanity in Kali Yuga."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Bhagavata Purana",
+          "coverImage": "https://example.com/images/bhagavata-purana-cover.jpg",
+          "description": "The most celebrated Purana focusing on Krishna's life and teachings"
+        }
+      ]
+    },
+    {
+      "id": "bhagavata-purana",
+      "book": {
+        "title": "Bhagavata Purana (भागवत पुराण)",
+        "translator": "Swami Prabhupada",
+        "description": "The Bhagavata Purana, also known as Srimad Bhagavatam, is the most celebrated of the Puranas and is devoted to the worship of Vishnu in his form as Krishna. It consists of 18,000 verses divided into twelve cantos. The text covers topics ranging from cosmology and philosophy to the stories of various avatars, with particular emphasis on Krishna's life and teachings. The Tenth Canto, which describes Krishna's childhood and youth in Vrindavan, is especially beloved. The Bhagavata Purana has profoundly influenced Indian spirituality, art, literature, and culture and is considered the essence of all Vedic literature.",
+        "coverImage": "https://example.com/images/bhagavata-purana-cover.jpg",
+        "meta": {
+          "genre": "Mahapurana / Vaishnava Scripture",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "1,800",
+          "publisher": "Bhaktivedanta Book Trust",
+          "price": "₹2,500.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Vyasa",
+        "image": "https://example.com/images/vyasa.jpg",
+        "description": "Vyasa, also known as Krishna Dvaipayana, is the compiler of the Vedas and author of the Mahabharata.||According to tradition, he composed the Bhagavata Purana after being instructed by his guru Narada to celebrate the glorious pastimes of Lord Krishna.||The text is considered his masterpiece and the ripened fruit of all Vedic knowledge."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Vishnu Purana",
+          "coverImage": "https://example.com/images/vishnu-purana-cover.jpg",
+          "description": "Another important Vaishnava Purana focusing on Vishnu's glory"
+        }
+      ]
+    },
+    {
+      "id": "shiva-purana",
+      "book": {
+        "title": "Shiva Purana (शिव पुराण)",
+        "translator": "Board of Scholars",
+        "description": "The Shiva Purana is one of the eighteen Mahapuranas dedicated primarily to Lord Shiva. It consists of 24,000 verses divided into seven samhitas. The text glorifies Shiva as the Supreme Being and describes his various forms, attributes, and divine acts. It includes detailed accounts of Shiva's marriage to Parvati, his role in the universe's creation and destruction, and the stories of his devotees. The Purana also explains the significance of Shiva linga worship, sacred pilgrimage sites associated with Shiva, and various rituals and vows for attaining his blessings. It presents a comprehensive view of Shaiva philosophy and practice.",
+        "coverImage": "https://example.com/images/shiva-purana-cover.jpg",
+        "meta": {
+          "genre": "Mahapurana / Shaiva Scripture",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "1,500",
+          "publisher": "Motilal Banarsidass",
+          "price": "₹1,800.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Vyasa",
+        "image": "https://example.com/images/vyasa.jpg",
+        "description": "Vyasa is traditionally credited with compiling all the Puranas, including the Shiva Purana.||He received the knowledge through the guru-disciple lineage and organized it into its present form.||The text is said to have been originally narrated by Lord Shiva himself to Goddess Parvati."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Linga Purana",
+          "coverImage": "https://example.com/images/linga-purana-cover.jpg",
+          "description": "Another important Shaiva text focusing on Shiva's symbolic form"
+        }
+      ]
+    },
+    {
+      "id": "devi-bhagavata-purana",
+      "book": {
+        "title": "Devi Bhagavata Purana (देवी भागवत पुराण)",
+        "translator": "Swami Vijnanananda",
+        "description": "The Devi Bhagavata Purana, also known as Srimad Devi Bhagavatam, is one of the most important texts in Shaktism (goddess worship). It consists of 18,000 verses divided into twelve skandhas. The Purana presents the Divine Feminine as the Supreme Ultimate Reality, the source of all creation, preservation, and destruction. It contains detailed descriptions of the goddess's various forms, including Durga, Kali, and Lakshmi, and narrates her battles against demons. The text also includes philosophical discussions, rituals for goddess worship, and the stories of her devotees. It is considered complementary to the Vaishnava Bhagavata Purana.",
+        "coverImage": "https://example.com/images/devi-bhagavata-cover.jpg",
+        "meta": {
+          "genre": "Mahapurana / Shakta Scripture",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "1,600",
+          "publisher": "Dover Publications",
+          "price": "₹1,750.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Vyasa",
+        "image": "https://example.com/images/vyasa.jpg",
+        "description": "Vyasa is traditionally credited with composing the Devi Bhagavata Purana.||According to tradition, he was inspired to compile this text to reveal the supreme truth of the Divine Feminine.||The Purana is said to have been originally narrated by Lord Vishnu to the sage Narada."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Durga Saptashati",
+          "coverImage": "https://example.com/images/durga-saptashati-cover.jpg",
+          "description": "The most important text for Goddess Durga worship"
+        }
+      ]
+    },
+    {
+      "id": "garuda-purana",
+      "book": {
+        "title": "Garuda Purana (गरुड़ पुराण)",
+        "translator": "Board of Scholars",
+        "description": "The Garuda Purana is one of the Vishnu-related Mahapuranas, presented as a dialogue between Lord Vishnu and his vehicle, Garuda. The text is known for its detailed description of the afterlife, funeral rites, and the journey of the soul after death. It contains information about various hells and heavens, the law of karma, and methods for attaining liberation. The Purana also includes sections on medicine, astronomy, grammar, and gemology. While parts of it deal with ominous topics, it also provides spiritual guidance for righteous living and devotion to Vishnu. It is traditionally recited during funeral ceremonies.",
+        "coverImage": "https://example.com/images/garuda-purana-cover.jpg",
+        "meta": {
+          "genre": "Mahapurana / Vaishnava Scripture",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "1,200",
+          "publisher": "Eastern Book Linkers",
+          "price": "₹1,450.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Vyasa",
+        "image": "https://example.com/images/vyasa.jpg",
+        "description": "Vyasa is traditionally credited with compiling the Garuda Purana.||The text is presented as a dialogue between Vishnu and Garuda, which Vyasa recorded for the benefit of humanity.||It is considered an important text for understanding Hindu eschatology and the science of karma."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Yama Samhita",
+          "coverImage": "https://example.com/images/yama-samhita-cover.jpg",
+          "description": "Text dealing with the laws of dharma and the afterlife"
+        }
+      ]
+    },
+    {
+      "id": "agni-purana",
+      "book": {
+        "title": "Agni Purana (अग्नि पुराण)",
+        "translator": "M.N. Dutt",
+        "description": "The Agni Purana is one of the eighteen Mahapuranas, narrated by the fire god Agni to the sage Vasishtha. It is an encyclopedia of diverse knowledge, covering topics such as cosmology, mythology, genealogy, politics, law, medicine, poetry, grammar, dramaturgy, and architecture. The text contains descriptions of various incarnations of Vishnu, particularly Rama and Krishna, and provides instructions for worshiping different deities. It also includes sections on yoga, tantra, and spiritual practices. The Agni Purana is unique for its comprehensive treatment of both sacred and secular knowledge, making it a valuable source for understanding ancient Indian sciences and arts.",
+        "coverImage": "https://example.com/images/agni-purana-cover.jpg",
+        "meta": {
+          "genre": "Mahapurana / Encyclopedic Scripture",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "1,400",
+          "publisher": "Parimal Publications",
+          "price": "₹1,600.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Vyasa",
+        "image": "https://example.com/images/vyasa.jpg",
+        "description": "Vyasa is traditionally credited with compiling the Agni Purana.||The text is presented as having been originally narrated by Agni to Vasishtha, which Vyasa then compiled.||It represents the comprehensive knowledge that Agni, as witness to all sacrifices and rituals, possesses about all aspects of existence."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Vastu Shastra",
+          "coverImage": "https://example.com/images/vastu-shastra-cover.jpg",
+          "description": "Ancient Indian science of architecture and design"
+        }
+      ]
+    }
+  ]
+}

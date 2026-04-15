@@ -1,0 +1,160 @@
+{
+  "templeName": "Omkareshwar",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c1/Omkareshwar_temple_and_Narmada_river.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/74/Omkareshwar_Temple_from_Narmada_River.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/44/Omkareshwar_Jyotirlinga_Temple.jpg"
+    ],
+    "quotes": [
+      "Where the sacred Narmada embraces the island shaped like 'Om'.",
+      "Omkareshwar and Mamleshwar: Two forms of a single divine presence.",
+      "A pilgrimage of serenity, divinity, and natural beauty."
+    ],
+    "quoteIcon": "🕉️"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Omkareshwar and Mamleshwar Temples" },
+        { "label": "Location", "value": "Mandhata Island, Khandwa, Madhya Pradesh" },
+        { "label": "Deity", "value": "Lord Shiva as Omkareshwar (Lord of the 'Om' Sound)" },
+        { "label": "Significance", "value": "The Jyotirlinga is split into two halves" },
+        { "label": "Temple Type", "value": "Island Jyotirlinga" },
+        { "label": "River", "value": "On the Narmada River" },
+        { "label": "Best Time to Visit", "value": "October to March" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Morning Puja", "value": "5:30 AM" },
+        { "label": "Afternoon Bhog", "value": "12:20 PM" },
+        { "label": "Evening Aarti", "value": "8:20 PM" },
+        { "label": "Shayan Aarti", "value": "9:30 PM" }
+      ],
+      "note": "A complete pilgrimage involves visiting both Omkareshwar temple on the island and Mamleshwar temple on the mainland.",
+      "quote": {
+        "text": "“Circumnavigating the Mandhata island by boat, with chants of 'Narmade Har', is a deeply spiritual and cleansing experience.”",
+        "author": "— A Traveller's Diary"
+      },
+      "description": "The lingam is not smooth but has a textured, natural form, adding to its ancient and powerful aura."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Omkareshwar Temple",
+    "titleIcon": "🕉️",
+    "floatingIcons": ["🕉️", "🌊"],
+    "overview": {
+      "title": "Overview",
+      "text": "Omkareshwar Jyotirlinga is uniquely situated on an 'Om' shaped island called Mandhata, at the confluence of the Narmada and Kaveri rivers. The Jyotirlinga is considered to be a single entity split into two temples: Omkareshwar on the island and Mamleshwar on the mainland."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "There are two main legends. One tells of Vindhya Parvat's penance to please Shiva, who appeared here. Another narrates the story of King Mandhata, who performed severe penance, leading Shiva to manifest himself as a Jyotirlinga. At the request of the Devas, the linga split into two, Omkareshwar and Mamleshwar."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "The Omkareshwar temple is built in the Nagara style of architecture.",
+        "The main sanctum has a low roof, and the lingam is always partially submerged in water.",
+        "The temple is adorned with intricately carved pillars and a multi-storied shikhara.",
+        "The Mamleshwar temple, located on the south bank, is an ancient stone structure with inscriptions dating back centuries.",
+        "Pedestrian bridges connect the island to the mainland, offering scenic views of the Narmada."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "The island itself is considered a sacred symbol, shaped like the primordial sound 'Om'.",
+        "The Jyotirlinga is technically one but worshipped in two forms, signifying the form and formless aspects of God.",
+        "A 'Parikrama' (circumambulation) of the Mandhata island is considered a highly meritorious act.",
+        "The Narmada river is one of the holiest rivers in Hinduism, and a dip here is spiritually purifying."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "Ancient Era", "event": "References to this holy site are found in ancient scriptures." },
+        { "period": "11th Century CE", "event": "The region was a prominent center of Shaivism under the Paramara dynasty." },
+        { "period": "18th Century CE", "event": "The temple was renovated and patronized by the Holkar queen, Ahilyabai." }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "🙏", "text": "It is believed that Lord Shiva and Goddess Parvati visit here daily to play a game of dice (Chaupar)." },
+        { "icon": "🕉️", "text": "The natural shape of the island as 'Om' makes the entire landmass sacred." },
+        { "icon": "📜", "text": "Adi Shankaracharya is said to have met his guru, Govinda Bhagavatpada, in a cave here." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "Omkareshwar offers a pilgrimage that is deeply intertwined with nature. The sacred island, the holy Narmada, and the dual temples create a unique spiritual ambiance that brings peace and solace to every visitor.",
+      "website": "https://shriomkareshwar.org/"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Maha Shivratri – The biggest festival, celebrated with great enthusiasm.",
+        "Narmada Jayanti – The birth of the river Narmada is celebrated with special rituals.",
+        "Kartik Purnima – The temple is beautifully decorated and a fair is held."
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Siddhanath Temple – A fine example of early medieval Brahminical architecture.",
+        "24 Avatars – A group of Hindu and Jain temples.",
+        "Kajal Rani Cave – A scenic spot offering panoramic views.",
+        "Mamleshwar Temple – The other half of the Jyotirlinga on the mainland."
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Omkareshwar is easily accessible by road from major cities like Indore, Ujjain, and Khandwa." },
+      { "title": "By Helicopter", "description": "Not applicable for regular travel." },
+      { "title": "Nearest Railway", "description": "Omkareshwar Road Railway Station (12 km) is on a local line. The major nearby station is Indore (77 km)." },
+      { "title": "Nearest Airport", "description": "Devi Ahilya Bai Holkar Airport, Indore (IDR), is approximately 80 km away." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "Situated on Mandhata island in the Narmada river, in the Khandwa district of Madhya Pradesh.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3689986.633941133!2d73.99171007540397!3d25.42145615413437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962bdfe25a5853f%3A0xb2ec9da93195f90d!2sShri%20Omkareshwar%20Jyotirlinga%20Temple!5e0!3m2!1sen!2sin!4v1757960956222!5m2!1sen!2sin"
+  },
+  "blogSection": {
+    "title": "Blogs & Experiences",
+    "posts": [
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Omkareshwar_temple_and_Narmada_river.jpg",
+        "title": "A Boat Ride on the Holy Narmada",
+        "intro": "The serene experience of the island Parikrama and temple darshan from the river.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Mamleshwar_temple.jpg",
+        "title": "Completing the Pilgrimage: Mamleshwar",
+        "intro": "Understanding the significance of visiting the other half of the Jyotirlinga.",
+        "link": "#"
+      }
+    ]
+  }
+}

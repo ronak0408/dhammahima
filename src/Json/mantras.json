@@ -1,0 +1,985 @@
+{
+  "title": "Sacred Mantras Collection",
+  "categories": [
+    "Vedic", "Puranic", "Tantric", "Daily", "Healing", "Planetary"
+  ],
+"mantras": [
+      {
+      "id": "mantra-001",
+      "name": "Gayatri Mantra",
+      "sanskritName": "गायत्री मन्त्र",
+      "link": "/mantras/gayatri",
+      "text": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्",
+      "meaning": "We meditate on the divine light of the supreme Sun God, may it illuminate our minds",
+      "benefits": [
+        "Wisdom enhancement",
+        "Mental purification",
+        "Spiritual awakening",
+        "Divine protection"
+      ],
+      "deity": {
+        "name": "Savitr (Sun God)",
+        "icon": "/icons/sun.png"
+      },
+      "category": "Vedic",
+      "bestTimes": ["sunrise", "noon", "sunset"],
+      "idealCount": 108,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/gayatri-recitation.mp3",
+        "explanation": "/audio/gayatri-meaning.mp3"
+      },
+      "related": ["mantra-002", "mantra-019"]
+    },
+    {
+      "id": "mantra-002",
+      "name": "Mahamrityunjaya Mantra",
+      "sanskritName": "महामृत्युंजय मन्त्र",
+      "link": "/mantras/mahamrityunjaya",
+      "text": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् उर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्",
+      "meaning": "We worship the three-eyed Lord Shiva who nourishes all beings, may He liberate us from death",
+      "benefits": [
+        "Healing",
+        "Longevity",
+        "Protection from accidents",
+        "Spiritual liberation"
+      ],
+      "deity": {
+        "name": "Shiva",
+        "icon": "/icons/shiva.png"
+      },
+      "category": "Vedic",
+      "bestTimes": ["early_morning", "shivaratri"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/mahamrityunjaya-recitation.mp3",
+        "explanation": "/audio/mahamrityunjaya-meaning.mp3"
+      },
+      "related": ["mantra-001", "mantra-007"]
+    },
+    {
+      "id": "mantra-003",
+      "name": "Om Namo Narayanaya",
+      "sanskritName": "ॐ नमो नारायणाय",
+      "link": "/mantras/om-namo-narayanaya",
+      "text": "ॐ नमो नारायणाय",
+      "meaning": "Om, salutations to Lord Narayana (Vishnu)",
+      "benefits": [
+        "Divine protection",
+        "Peace and harmony",
+        "Spiritual growth",
+        "Obstacle removal"
+      ],
+      "deity": {
+        "name": "Vishnu",
+        "icon": "/icons/vishnu.png"
+      },
+      "category": "Puranic",
+      "bestTimes": ["morning", "evening"],
+      "idealCount": 108,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/om-namo-narayanaya-recitation.mp3",
+        "explanation": "/audio/om-namo-narayanaya-meaning.mp3"
+      },
+      "related": ["mantra-004", "mantra-005"]
+    },
+    {
+      "id": "mantra-004",
+      "name": "Hare Krishna Mahamantra",
+      "sanskritName": "हरे कृष्ण महामन्त्र",
+      "link": "/mantras/hare-krishna",
+      "text": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे हरे राम हरे राम राम राम हरे हरे",
+      "meaning": "O Lord Krishna, O Lord Rama, please engage me in Your devotional service",
+      "benefits": [
+        "Consciousness purification",
+        "Divine love awakening",
+        "Liberation from attachments",
+        "Spiritual ecstasy"
+      ],
+      "deity": {
+        "name": "Krishna/Rama",
+        "icon": "/icons/krishna.png"
+      },
+      "category": "Puranic",
+      "bestTimes": ["any_time", "congregational"],
+      "idealCount": 108,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/hare-krishna-recitation.mp3",
+        "explanation": "/audio/hare-krishna-meaning.mp3"
+      },
+      "related": ["mantra-003", "mantra-005"]
+    },
+    {
+      "id": "mantra-005",
+      "name": "Vishnu Sahasranama",
+      "sanskritName": "विष्णु सहस्रनाम",
+      "link": "/mantras/vishnu-sahasranama",
+      "text": "विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः... (1000 names)",
+      "meaning": "The thousand names of Lord Vishnu describing his divine qualities and forms",
+      "benefits": [
+        "Divine protection",
+        "Sin removal",
+        "Desire fulfillment",
+        "Spiritual evolution"
+      ],
+      "deity": {
+        "name": "Vishnu",
+        "icon": "/icons/vishnu.png"
+      },
+      "category": "Stotram",
+      "bestTimes": ["thursday", "ekadashi"],
+      "idealCount": 1,
+      "difficulty": "advanced",
+      "audio": {
+        "recitation": "/audio/vishnu-sahasranama-recitation.mp3",
+        "explanation": "/audio/vishnu-sahasranama-meaning.mp3"
+      },
+      "related": ["mantra-003", "mantra-014"]
+    },
+    {
+      "id": "mantra-006",
+      "name": "Lakshmi Mantra",
+      "sanskritName": "लक्ष्मी मन्त्र",
+      "link": "/mantras/lakshmi",
+      "text": "ॐ श्रीं महालक्ष्म्यै नमः",
+      "meaning": "Om, I bow to the great Goddess Lakshmi",
+      "benefits": [
+        "Wealth attraction",
+        "Prosperity",
+        "Abundance",
+        "Good fortune"
+      ],
+      "deity": {
+        "name": "Lakshmi",
+        "icon": "/icons/lakshmi.png"
+      },
+      "category": "Tantric",
+      "bestTimes": ["friday", "diwali"],
+      "idealCount": 108,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/lakshmi-recitation.mp3",
+        "explanation": "/audio/lakshmi-meaning.mp3"
+      },
+      "related": ["mantra-007", "mantra-012"]
+    },
+    {
+      "id": "mantra-007",
+      "name": "Om Namah Shivaya",
+      "sanskritName": "ॐ नमः शिवाय",
+      "link": "/mantras/om-namah-shivaya",
+      "text": "ॐ नमः शिवाय",
+      "meaning": "Om, I bow to Lord Shiva",
+      "benefits": [
+        "Transformation",
+        "Liberation",
+        "Meditation enhancement",
+        "Protection"
+      ],
+      "deity": {
+        "name": "Shiva",
+        "icon": "/icons/shiva.png"
+      },
+      "category": "Puranic",
+      "bestTimes": ["monday", "shivaratri"],
+      "idealCount": 108,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/om-namah-shivaya-recitation.mp3",
+        "explanation": "/audio/om-namah-shivaya-meaning.mp3"
+      },
+      "related": ["mantra-002", "mantra-008"]
+    },
+    {
+      "id": "mantra-008",
+      "name": "Shiva Tandava Stotram",
+      "sanskritName": "शिव ताण्डव स्तोत्रम्",
+      "link": "/mantras/shiva-tandava",
+      "text": "जटाटवीगलज्जलप्रवाहपावितस्थले... (16 verses)",
+      "meaning": "Hymn describing Shiva's cosmic dance of creation, preservation and destruction",
+      "benefits": [
+        "Fear removal",
+        "Energy enhancement",
+        "Artistic expression",
+        "Protection"
+      ],
+      "deity": {
+        "name": "Shiva",
+        "icon": "/icons/shiva.png"
+      },
+      "category": "Stotram",
+      "bestTimes": ["evening", "shiva_rituals"],
+      "idealCount": 1,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/shiva-tandava-recitation.mp3",
+        "explanation": "/audio/shiva-tandava-meaning.mp3"
+      },
+      "related": ["mantra-007", "mantra-009"]
+    },
+    {
+      "id": "mantra-009",
+      "name": "Rudra Gayatri",
+      "sanskritName": "रुद्र गायत्री",
+      "link": "/mantras/rudra-gayatri",
+      "text": "ॐ तत्पुरुषाय विद्महे महादेवाय धीमहि तन्नो रुद्रः प्रचोदयात्",
+      "meaning": "Om, let us meditate on the great purusha, the great God, may that Rudra inspire our intellect",
+      "benefits": [
+        "Powerful protection",
+        "Negative energy removal",
+        "Spiritual power",
+        "Transformation"
+      ],
+      "deity": {
+        "name": "Rudra (Shiva)",
+        "icon": "/icons/shiva.png"
+      },
+      "category": "Gayatri",
+      "bestTimes": ["rudrabhishek", "shiva_puja"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/rudra-gayatri-recitation.mp3",
+        "explanation": "/audio/rudra-gayatri-meaning.mp3"
+      },
+      "related": ["mantra-001", "mantra-007"]
+    },
+    {
+      "id": "mantra-010",
+      "name": "Shiva Mahimna Stotra",
+      "sanskritName": "शिव महिम्नः स्तोत्र",
+      "link": "/mantras/shiva-mahimna",
+      "text": "महिम्नः पारं ते परमविदुषो यद्यसदृशी... (43 verses)",
+      "meaning": "Hymn praising the glory and greatness of Lord Shiva",
+      "benefits": [
+        "Devotion enhancement",
+        "Sin removal",
+        "Divine grace",
+        "Desire fulfillment"
+      ],
+      "deity": {
+        "name": "Shiva",
+        "icon": "/icons/shiva.png"
+      },
+      "category": "Stotram",
+      "bestTimes": ["monday", "shiva_worship"],
+      "idealCount": 1,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/shiva-mahimna-recitation.mp3",
+        "explanation": "/audio/shiva-mahimna-meaning.mp3"
+      },
+      "related": ["mantra-007", "mantra-008"]
+    },
+    {
+      "id": "mantra-011",
+      "name": "Durga Mantra",
+      "sanskritName": "दुर्गा मन्त्र",
+      "link": "/mantras/durga",
+      "text": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+      "meaning": "Om, I bow to Chamunda, the fierce form of Durga",
+      "benefits": [
+        "Powerful protection",
+        "Negative energy destruction",
+        "Obstacle removal",
+        "Courage and strength"
+      ],
+      "deity": {
+        "name": "Durga",
+        "icon": "/icons/durga.png"
+      },
+      "category": "Tantric",
+      "bestTimes": ["tuesday", "navaratri"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/durga-recitation.mp3",
+        "explanation": "/audio/durga-meaning.mp3"
+      },
+      "related": ["mantra-012", "mantra-013"]
+    },
+    {
+      "id": "mantra-012",
+      "name": "Saraswati Mantra",
+      "sanskritName": "सरस्वती मन्त्र",
+      "link": "/mantras/saraswati",
+      "text": "ॐ ऐं सरस्वत्यै नमः",
+      "meaning": "Om, I bow to Goddess Saraswati",
+      "benefits": [
+        "Learning enhancement",
+        "Memory improvement",
+        "Artistic talents",
+        "Wisdom bestowal"
+      ],
+      "deity": {
+        "name": "Saraswati",
+        "icon": "/icons/saraswati.png"
+      },
+      "category": "Tantric",
+      "bestTimes": ["wednesday", "vasant_panchami"],
+      "idealCount": 108,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/saraswati-recitation.mp3",
+        "explanation": "/audio/saraswati-meaning.mp3"
+      },
+      "related": ["mantra-001", "mantra-006"]
+    },
+    {
+      "id": "mantra-013",
+      "name": "Navarna Mantra",
+      "sanskritName": "नवर्ण मन्त्र",
+      "link": "/mantras/navarna",
+      "text": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+      "meaning": "Om, Aim Hreem Kleem to Chamunda, the fierce form of Durga",
+      "benefits": [
+        "Complete protection",
+        "Obstacle removal",
+        "Karma destruction",
+        "Desire fulfillment"
+      ],
+      "deity": {
+        "name": "Chamunda (Durga)",
+        "icon": "/icons/durga.png"
+      },
+      "category": "Tantric",
+      "bestTimes": ["navaratri", "difficult_times"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/navarna-recitation.mp3",
+        "explanation": "/audio/navarna-meaning.mp3"
+      },
+      "related": ["mantra-011", "mantra-014"]
+    },
+    {
+      "id": "mantra-014",
+      "name": "Lalita Sahasranama",
+      "sanskritName": "ललिता सहस्रनाम",
+      "link": "/mantras/lalita-sahasranama",
+      "text": "श्रीमाता श्रीमहाराज्ञी श्रीमत्सिंहासनेश्वरी... (1000 names)",
+      "meaning": "The thousand names of Goddess Lalita describing her beauty, power and divine attributes",
+      "benefits": [
+        "Divine grace",
+        "Obstacle removal",
+        "Spiritual enlightenment",
+        "Desire fulfillment"
+      ],
+      "deity": {
+        "name": "Lalita",
+        "icon": "/icons/lalita.png"
+      },
+      "category": "Stotram",
+      "bestTimes": ["friday", "goddess_worship"],
+      "idealCount": 1,
+      "difficulty": "advanced",
+      "audio": {
+        "recitation": "/audio/lalita-sahasranama-recitation.mp3",
+        "explanation": "/audio/lalita-sahasranama-meaning.mp3"
+      },
+      "related": ["mantra-005", "mantra-013"]
+    },
+    {
+      "id": "mantra-015",
+      "name": "Ganesh Mantra",
+      "sanskritName": "गणेश मन्त्र",
+      "link": "/mantras/ganesh",
+      "text": "ॐ गं गणपतये नमः",
+      "meaning": "Om, I bow to Lord Ganesha",
+      "benefits": [
+        "Obstacle removal",
+        "Success assurance",
+        "Wisdom enhancement",
+        "Protection"
+      ],
+      "deity": {
+        "name": "Ganesha",
+        "icon": "/icons/ganesha.png"
+      },
+      "category": "Puranic",
+      "bestTimes": ["morning", "ganesh_chaturthi"],
+      "idealCount": 108,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/ganesh-recitation.mp3",
+        "explanation": "/audio/ganesh-meaning.mp3"
+      },
+      "related": ["mantra-016", "mantra-017"]
+    },
+    {
+      "id": "mantra-016",
+      "name": "Ganesh Atharvashirsha",
+      "sanskritName": "गणेश अथर्वशीर्ष",
+      "link": "/mantras/ganesh-atharvashirsha",
+      "text": "ॐ नमस्ते गणपतये... (entire text)",
+      "meaning": "Comprehensive hymn praising Lord Ganesha as the supreme reality",
+      "benefits": [
+        "Complete obstacle removal",
+        "Spiritual enlightenment",
+        "Total protection",
+        "Success in endeavors"
+      ],
+      "deity": {
+        "name": "Ganesha",
+        "icon": "/icons/ganesha.png"
+      },
+      "category": "Upanishadic",
+      "bestTimes": ["important_work", "ganesh_chaturthi"],
+      "idealCount": 1,
+      "difficulty": "advanced",
+      "audio": {
+        "recitation": "/audio/ganesh-atharvashirsha-recitation.mp3",
+        "explanation": "/audio/ganesh-atharvashirsha-meaning.mp3"
+      },
+      "related": ["mantra-015", "mantra-017"]
+    },
+    {
+      "id": "mantra-017",
+      "name": "Vakratunda Mahakaya",
+      "sanskritName": "वक्रतुण्ड महाकाय",
+      "link": "/mantras/vakratunda-mahakaya",
+      "text": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा",
+      "meaning": "O Lord with curved trunk and massive body, please make all my endeavors free of obstacles",
+      "benefits": [
+        "Obstacle removal",
+        "Success assurance",
+        "Divine blessings",
+        "Positive energy"
+      ],
+      "deity": {
+        "name": "Ganesha",
+        "icon": "/icons/ganesha.png"
+      },
+      "category": "Prayer",
+      "bestTimes": ["before_work", "any_time"],
+      "idealCount": 1,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/vakratunda-recitation.mp3",
+        "explanation": "/audio/vakratunda-meaning.mp3"
+      },
+      "related": ["mantra-015", "mantra-016"]
+    },
+    {
+      "id": "mantra-018",
+      "name": "Surya Mantra",
+      "sanskritName": "सूर्य मन्त्र",
+      "link": "/mantras/surya",
+      "text": "ॐ ह्रां ह्रीं ह्रौं सः सूर्याय नमः",
+      "meaning": "Om, I bow to Lord Surya, the sun god",
+      "benefits": [
+        "Vitality enhancement",
+        "Health improvement",
+        "Success and recognition",
+        "Spiritual light"
+      ],
+      "deity": {
+        "name": "Surya",
+        "icon": "/icons/surya.png"
+      },
+      "category": "Planetary",
+      "bestTimes": ["sunday_sunrise"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/surya-recitation.mp3",
+        "explanation": "/audio/surya-meaning.mp3"
+      },
+      "related": ["mantra-001", "mantra-019"]
+    },
+    {
+      "id": "mantra-019",
+      "name": "Chandra Mantra",
+      "sanskritName": "चन्द्र मन्त्र",
+      "link": "/mantras/chandra",
+      "text": "ॐ श्रां श्रीं श्रौं सः चंद्रमसे नमः",
+      "meaning": "Om, I bow to Lord Chandra, the moon god",
+      "benefits": [
+        "Mind calming",
+        "Emotion balancing",
+        "Intuition enhancement",
+        "Mental peace"
+      ],
+      "deity": {
+        "name": "Chandra",
+        "icon": "/icons/chandra.png"
+      },
+      "category": "Planetary",
+      "bestTimes": ["monday_evening", "full_moon"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/chandra-recitation.mp3",
+        "explanation": "/audio/chandra-meaning.mp3"
+      },
+      "related": ["mantra-018", "mantra-020"]
+    },
+    {
+      "id": "mantra-020",
+      "name": "Mangal Mantra",
+      "sanskritName": "मंगल मन्त्र",
+      "link": "/mantras/mangal",
+      "text": "ॐ क्रां क्रीं क्रौं सः भौमाय नमः",
+      "meaning": "Om, I bow to Lord Mangal (Mars), the celestial commander",
+      "benefits": [
+        "Courage enhancement",
+        "Energy for action",
+        "Obstacle removal",
+        "Leadership qualities"
+      ],
+      "deity": {
+        "name": "Mangal",
+        "icon": "/icons/mangal.png"
+      },
+      "category": "Planetary",
+      "bestTimes": ["tuesday_morning"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/mangal-recitation.mp3",
+        "explanation": "/audio/mangal-meaning.mp3"
+      },
+      "related": ["mantra-019", "mantra-021"]
+    },
+    {
+      "id": "mantra-021",
+      "name": "Budh Mantra",
+      "sanskritName": "बुध मन्त्र",
+      "link": "/mantras/budh",
+      "text": "ॐ ब्रां ब्रीं ब्रौं सः बुधाय नमः",
+      "meaning": "Om, I bow to Lord Budh (Mercury), the celestial communicator",
+      "benefits": [
+        "Intelligence enhancement",
+        "Communication skills",
+        "Business success",
+        "Memory sharpening"
+      ],
+      "deity": {
+        "name": "Budh",
+        "icon": "/icons/budh.png"
+      },
+      "category": "Planetary",
+      "bestTimes": ["wednesday_morning"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/budh-recitation.mp3",
+        "explanation": "/audio/budh-meaning.mp3"
+      },
+      "related": ["mantra-012", "mantra-020"]
+    },
+    {
+      "id": "mantra-022",
+      "name": "Guru Mantra",
+      "sanskritName": "गुरु मन्त्र",
+      "link": "/mantras/guru",
+      "text": "ॐ ग्रां ग्रीं ग्रौं सः गुरवे नमः",
+      "meaning": "Om, I bow to Lord Guru (Jupiter), the celestial teacher",
+      "benefits": [
+        "Wisdom and knowledge",
+        "Prosperity and expansion",
+        "Spiritual growth",
+        "Good fortune"
+      ],
+      "deity": {
+        "name": "Guru",
+        "icon": "/icons/guru.png"
+      },
+      "category": "Planetary",
+      "bestTimes": ["thursday_morning"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/guru-recitation.mp3",
+        "explanation": "/audio/guru-meaning.mp3"
+      },
+      "related": ["mantra-021", "mantra-023"]
+    },
+    {
+      "id": "mantra-023",
+      "name": "Shukra Mantra",
+      "sanskritName": "शुक्र मन्त्र",
+      "link": "/mantras/shukra",
+      "text": "ॐ द्रां द्रीं द्रौं सः शुक्राय नमः",
+      "meaning": "Om, I bow to Lord Shukra (Venus), the celestial aesthete",
+      "benefits": [
+        "Artistic talents",
+        "Relationship harmony",
+        "Love and harmony",
+        "Material comforts"
+      ],
+      "deity": {
+        "name": "Shukra",
+        "icon": "/icons/shukra.png"
+      },
+      "category": "Planetary",
+      "bestTimes": ["friday_morning"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/shukra-recitation.mp3",
+        "explanation": "/audio/shukra-meaning.mp3"
+      },
+      "related": ["mantra-006", "mantra-022"]
+    },
+    {
+      "id": "mantra-024",
+      "name": "Shani Mantra",
+      "sanskritName": "शनि मन्त्र",
+      "link": "/mantras/shani",
+      "text": "ॐ प्रां प्रीं प्रौं सः शनैश्चराय नमः",
+      "meaning": "Om, I bow to Lord Shani (Saturn), the celestial disciplinarian",
+      "benefits": [
+        "Life lessons acceptance",
+        "Discipline development",
+        "Karmic debt resolution",
+        "Spiritual maturity"
+      ],
+      "deity": {
+        "name": "Shani",
+        "icon": "/icons/shani.png"
+      },
+      "category": "Planetary",
+      "bestTimes": ["saturday_morning"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/shani-recitation.mp3",
+        "explanation": "/audio/shani-meaning.mp3"
+      },
+      "related": ["mantra-022", "mantra-025"]
+    },
+    {
+      "id": "mantra-025",
+      "name": "Rahu Mantra",
+      "sanskritName": "राहु मन्त्र",
+      "link": "/mantras/rahu",
+      "text": "ॐ भ्रां भ्रीं भ्रौं सः राहवे नमः",
+      "meaning": "Om, I bow to Lord Rahu, the north node of the moon",
+      "benefits": [
+        "Worldly success",
+        "Innovation and originality",
+        "Sudden setback protection",
+        "Unconventional solutions"
+      ],
+      "deity": {
+        "name": "Rahu",
+        "icon": "/icons/rahu.png"
+      },
+      "category": "Planetary",
+      "bestTimes": ["saturday_evening"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/rahu-recitation.mp3",
+        "explanation": "/audio/rahu-meaning.mp3"
+      },
+      "related": ["mantra-024", "mantra-026"]
+    },
+    {
+      "id": "mantra-026",
+      "name": "Ketu Mantra",
+      "sanskritName": "केतु मन्त्र",
+      "link": "/mantras/ketu",
+      "text": "ॐ स्रां स्रीं स्रौं सः केतवे नमः",
+      "meaning": "Om, I bow to Lord Ketu, the south node of the moon",
+      "benefits": [
+        "Spirituality enhancement",
+        "Attachment overcoming",
+        "Liberation from bonds",
+        "Psychic abilities"
+      ],
+      "deity": {
+        "name": "Ketu",
+        "icon": "/icons/ketu.png"
+      },
+      "category": "Planetary",
+      "bestTimes": ["tuesday_evening"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/ketu-recitation.mp3",
+        "explanation": "/audio/ketu-meaning.mp3"
+      },
+      "related": ["mantra-025", "mantra-002"]
+    },
+    {
+      "id": "mantra-027",
+      "name": "Sandhya Mantra",
+      "sanskritName": "सन्ध्या मन्त्र",
+      "link": "/mantras/sandhya",
+      "text": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्",
+      "meaning": "Om, let us meditate on the divine light of the supreme Sun God, may it illuminate our minds",
+      "benefits": [
+        "Mind and body purification",
+        "Spiritual awareness",
+        "Divine protection",
+        "Daily discipline"
+      ],
+      "deity": {
+        "name": "Savitr",
+        "icon": "/icons/sun.png"
+      },
+      "category": "Daily Practice",
+      "bestTimes": ["dawn", "noon", "dusk"],
+      "idealCount": 108,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/sandhya-recitation.mp3",
+        "explanation": "/audio/sandhya-meaning.mp3"
+      },
+      "related": ["mantra-001", "mantra-028"]
+    },
+    {
+      "id": "mantra-028",
+      "name": "Pratah Smarana Mantra",
+      "sanskritName": "प्रातः स्मरण मन्त्र",
+      "link": "/mantras/pratah-smarana",
+      "text": "कराग्रे वसते लक्ष्मीः करमध्ये सरस्वती करमूले तु गोविन्दः प्रभाते करदर्शनम्",
+      "meaning": "At the fingertips resides Lakshmi, in the middle Saraswati, at the base Govinda",
+      "benefits": [
+        "Positive intention setting",
+        "Divine support acknowledgment",
+        "Capability awareness",
+        "Mindful action"
+      ],
+      "deity": {
+        "name": "Multiple",
+        "icon": "/icons/multiple.png"
+      },
+      "category": "Morning Prayer",
+      "bestTimes": ["after_waking"],
+      "idealCount": 1,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/pratah-smarana-recitation.mp3",
+        "explanation": "/audio/pratah-smarana-meaning.mp3"
+      },
+      "related": ["mantra-006", "mantra-012"]
+    },
+    {
+      "id": "mantra-029",
+      "name": "Shanti Mantra (Om Sahanavavatu)",
+      "sanskritName": "शान्ति मन्त्र",
+      "link": "/mantras/shanti",
+      "text": "ॐ सह नाववतु सह नौ भुनक्तु सह वीर्यं करवावहै तेजस्विनावधीतमस्तु मा विद्विषावहै ॐ शान्तिः शान्तिः शान्तिः",
+      "meaning": "Om, may He protect us both, may we work together with energy, may our study be effective",
+      "benefits": [
+        "Peaceful learning environment",
+        "Teacher-student harmony",
+        "Concentration improvement",
+        "Non-hatred promotion"
+      ],
+      "deity": {
+        "name": "Universal",
+        "icon": "/icons/universal.png"
+      },
+      "category": "Peace Mantra",
+      "bestTimes": ["before_studies"],
+      "idealCount": 3,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/shanti-recitation.mp3",
+        "explanation": "/audio/shanti-meaning.mp3"
+      },
+      "related": ["mantra-001", "mantra-027"]
+    },
+    {
+      "id": "mantra-030",
+      "name": "Guru Mantra (Om Shri Gurave Namah)",
+      "sanskritName": "गुरु मन्त्र",
+      "link": "/mantras/guru-mantra",
+      "text": "ॐ श्री गुरवे नमः",
+      "meaning": "Om, I bow to the auspicious guru",
+      "benefits": [
+        "Guru energy connection",
+        "Spiritual ignorance removal",
+        "Teaching receptivity",
+        "Guidance reception"
+      ],
+      "deity": {
+        "name": "Guru",
+        "icon": "/icons/guru.png"
+      },
+      "category": "Guru Mantra",
+      "bestTimes": ["before_practice", "guru_purnima"],
+      "idealCount": 108,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/guru-mantra-recitation.mp3",
+        "explanation": "/audio/guru-mantra-meaning.mp3"
+      },
+      "related": ["mantra-022", "mantra-029"]
+    },
+    {
+      "id": "mantra-031",
+      "name": "Mrityunjaya Mantra (Alternate)",
+      "sanskritName": "मृत्युंजय मन्त्र (विस्तारित)",
+      "link": "/mantras/mrityunjaya-alternate",
+      "text": "ॐ हौं जूं सः ॐ भूर्भुवः स्वः ॐ त्र्यम्बकं यजामहे... मृत्योर्मुक्षीय माऽमृतात् ॐ स्वः भुवः भूः ॐ सः जूं हौं ॐ",
+      "meaning": "Extended version of Mahamrityunjaya Mantra with additional bija mantras",
+      "benefits": [
+        "Enhanced healing",
+        "Life-threatening protection",
+        "Deeper transformation",
+        "Karma removal"
+      ],
+      "deity": {
+        "name": "Shiva",
+        "icon": "/icons/shiva.png"
+      },
+      "category": "Healing",
+      "bestTimes": ["serious_illness", "crisis"],
+      "idealCount": 108,
+      "difficulty": "advanced",
+      "audio": {
+        "recitation": "/audio/mrityunjaya-alt-recitation.mp3",
+        "explanation": "/audio/mrityunjaya-alt-meaning.mp3"
+      },
+      "related": ["mantra-002", "mantra-032"]
+    },
+    {
+      "id": "mantra-032",
+      "name": "Dhanvantri Mantra",
+      "sanskritName": "धन्वन्तरी मन्त्र",
+      "link": "/mantras/dhanvantri",
+      "text": "ॐ नमो भगवते महासुदर्शनाय धन्वन्तरये अमृतकलश हस्ताय सर्वमायविनाशनाय त्रैलोक्यनाथाय श्री महाविष्णवे नमः",
+      "meaning": "Om, I bow to Lord Dhanvantari, the great healer who holds the pot of nectar",
+      "benefits": [
+        "Healing promotion",
+        "Medicine blessing",
+        "Disease removal",
+        "Ayurvedic support"
+      ],
+      "deity": {
+        "name": "Dhanvantri",
+        "icon": "/icons/dhanvantri.png"
+      },
+      "category": "Healing",
+      "bestTimes": ["before_medicine", "dhanteras"],
+      "idealCount": 108,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/dhanvantri-recitation.mp3",
+        "explanation": "/audio/dhanvantri-meaning.mp3"
+      },
+      "related": ["mantra-002", "mantra-031"]
+    },
+    {
+      "id": "mantra-033",
+      "name": "Shanti Mantra (Purna Mantra)",
+      "sanskritName": "शान्ति मन्त्र (पूर्ण मन्त्र)",
+      "link": "/mantras/purna-shanti",
+      "text": "ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते। पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते। ॐ शान्तिः शान्तिः शान्तिः॥",
+      "meaning": "That is infinite, this is infinite; From the infinite, the infinite arises. Taking the infinite from the infinite, The infinite alone remains",
+      "benefits": [
+        "Completeness feeling",
+        "Lack removal",
+        "Non-duality understanding",
+        "Profound peace",
+        "Material detachment"
+      ],
+      "deity": {
+        "name": "Brahman",
+        "icon": "/icons/brahman.png"
+      },
+      "category": "Peace Mantra",
+      "bestTimes": ["spiritual_practice", "meditation"],
+      "idealCount": 3,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/purna-shanti-recitation.mp3",
+        "explanation": "/audio/purna-shanti-meaning.mp3"
+      },
+      "related": ["mantra-034", "mantra-029"]
+    },
+    {
+      "id": "mantra-034",
+      "name": "Shanti Mantra (For Study)",
+      "sanskritName": "शान्ति मन्त्र (अध्ययन)",
+      "link": "/mantras/study-shanti",
+      "text": "ॐ शं नो मित्रः शं वरुणः। शं नो भवत्वर्यमा। शं न इन्द्रो बृहस्पतिः। शं नो विष्णुरुरुक्रमः। नमो ब्रह्मणे। नमस्ते वायो। त्वमेव प्रत्यक्षं ब्रह्मासि। त्वामेव प्रत्यक्षं ब्रह्म वदिष्यामि। ऋतं वदिष्यामि। सत्यं वदिष्यामि। तन्मामवतु। तद्वक्तारमवतु। अवतु माम्। अवतु वक्तारम्। ॐ शान्तिः शान्तिः शान्तिः॥",
+      "meaning": "Om. May all divine forces be peaceful to us. I shall speak truth. May That protect me and my teacher",
+      "benefits": [
+        "Ideal study atmosphere",
+        "Divine learning blessings",
+        "Teacher-student bond",
+        "Focus enhancement",
+        "Truthful communication"
+      ],
+      "deity": {
+        "name": "Universal Forces",
+        "icon": "/icons/universal.png"
+      },
+      "category": "Peace Mantra",
+      "bestTimes": ["before_studies", "new_lesson"],
+      "idealCount": 3,
+      "difficulty": "intermediate",
+      "audio": {
+        "recitation": "/audio/study-shanti-recitation.mp3",
+        "explanation": "/audio/study-shanti-meaning.mp3"
+      },
+      "related": ["mantra-033", "mantra-035"]
+    },
+    {
+      "id": "mantra-035",
+      "name": "Shanti Mantra (Asato Ma)",
+      "sanskritName": "शान्ति मन्त्र (असतो मा)",
+      "link": "/mantras/asato-ma",
+      "text": "ॐ असतो मा सद्गमय। तमसो मा ज्योतिर्गमय। मृत्योर्माऽमृतं गमय। ॐ शान्तिः शान्तिः शान्तिः॥",
+      "meaning": "Om. Lead me from unreal to real, from darkness to light, from mortality to immortality",
+      "benefits": [
+        "Ignorance dispelling",
+        "Self-realization quest",
+        "Truth-seeking courage",
+        "Death fear removal",
+        "Mental clarity"
+      ],
+      "deity": {
+        "name": "Universal Consciousness",
+        "icon": "/icons/consciousness.png"
+      },
+      "category": "Enlightenment Prayer",
+      "bestTimes": ["morning_prayers", "meditation_start"],
+      "idealCount": 3,
+      "difficulty": "beginner",
+      "audio": {
+        "recitation": "/audio/asato-ma-recitation.mp3",
+        "explanation": "/audio/asato-ma-meaning.mp3"
+      },
+      "related": ["mantra-034", "mantra-033"]
+    },
+    {
+      "id": "mantra-036",
+      "name": "Shanti Mantra (Om Charitable)",
+      "sanskritName": "शान्ति मन्त्र (ॐ आप्यायन्तु)",
+      "link": "/mantras/om-charitable",
+      "text": "ॐ आप्यायन्तु ममाङ्गानि वाक् प्राणश्चक्षुः श्रोत्रमथो बलमिन्द्रियाणि च सर्वाणि। सर्वं ब्रह्मौपनिषदं माऽहं ब्रह्म निराकुर्यां मा मा ब्रह्म निराकरोदनिराकरणमस्त्वनिराकरणं मेस्तu। तदात्मनि निरते य उपनिषत्सु धर्मास्तe मयि सन्तु तe मयि सन्तु। ॐ शान्तिः शान्तिः शान्तिः॥",
+      "meaning": "Om. May all my faculties be nourished. All is Brahman. May I never deny Brahman. May all Upanishadic truths be in me",
+      "benefits": [
+        "Holistic strength",
+        "Ultimate truth affirmation",
+        "Teaching internalization",
+        "Doubt prevention",
+        "Self devotion"
+      ],
+      "deity": {
+        "name": "Brahman",
+        "icon": "/icons/brahman.png"
+      },
+      "category": "Strength Prayer",
+      "bestTimes": ["scripture_study", "spiritual_practice"],
+      "idealCount": 3,
+      "difficulty": "advanced",
+      "audio": {
+        "recitation": "/audio/om-charitable-recitation.mp3",
+        "explanation": "/audio/om-charitable-meaning.mp3"
+      },
+      "related": ["mantra-034", "mantra-033"]
+    }
+]
+}
+

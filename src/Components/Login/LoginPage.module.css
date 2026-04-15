@@ -1,0 +1,551 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Philosopher:wght@400;700&display=swap');
+
+.spiritual-login-container {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background: #1a1a2e;
+}
+
+/* Temple Background Gallery */
+.temple-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.temple-slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0;
+    transition: opacity 2s ease-in-out;
+}
+
+.temple-slide.active {
+    opacity: 1;
+}
+
+.temple-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(1px);
+}
+
+.temple-gradient {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(
+        circle at center,
+        rgba(255, 215, 0, 0.1) 0%,
+        rgba(138, 43, 226, 0.2) 30%,
+        rgba(25, 25, 112, 0.4) 60%,
+        rgba(0, 0, 0, 0.7) 100%
+    );
+}
+
+/* Sacred Particles */
+.sacred-particles {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    pointer-events: none;
+}
+
+.particle {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    background: radial-gradient(circle, #ffd700 0%, transparent 70%);
+    border-radius: 50%;
+    animation: floatUp infinite linear;
+}
+
+@keyframes floatUp {
+    0% {
+        transform: translateY(100vh) rotate(0deg);
+        opacity: 0;
+    }
+    10% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(-100vh) rotate(360deg);
+        opacity: 0;
+    }
+}
+
+/* Floating Icons */
+.floating-icons-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    pointer-events: none;
+}
+
+.floating-icon {
+    position: absolute;
+    opacity: 0.3;
+    animation: floatAndGlow infinite ease-in-out;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+    filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.3));
+}
+
+@keyframes floatAndGlow {
+    0%, 100% {
+        transform: translateY(0px) rotate(0deg) scale(1);
+        opacity: 0.2;
+    }
+    25% {
+        opacity: 0.4;
+    }
+    50% {
+        transform: translateY(-30px) rotate(10deg) scale(1.1);
+        opacity: 0.6;
+    }
+    75% {
+        opacity: 0.4;
+    }
+}
+
+.login-content {
+    position: relative;
+    z-index: 10;
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+    margin-top: 60px;
+}
+
+.login-card {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(20px);
+    border-radius: 25px;
+    padding: 5px 20px;
+    
+    border: 2px solid rgba(255, 215, 0, 0.2);
+    box-shadow:
+        0 25px 50px rgba(0, 0, 0, 0.3),
+        inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    position: relative;
+    overflow: hidden;
+}
+
+.login-card::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+        45deg,
+        transparent 30%,
+        rgba(255, 215, 0, 0.03) 50%,
+        transparent 70%
+    );
+    animation: shimmer 8s infinite;
+}
+
+@keyframes shimmer {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Sacred Header */
+.sacred-header {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.divine-logo {
+    margin-bottom: 15px;
+}
+
+.temple-icon {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    filter: drop-shadow(0 0 15px rgba(255, 215, 0, 0.5));
+    animation: pulse 3s infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+}
+
+.sacred-title {
+    font-family: 'Cinzel', serif;
+    font-size: 2.2rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, #ffd700, #ff8c00, #dc143c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 10px;
+    text-shadow: 0 0 30px rgba(255, 215, 0, 0.3);
+}
+
+.spiritual-line {
+    height: 2px;
+    width: 80px;
+    margin: 0 auto 20px;
+    background: linear-gradient(90deg, transparent, #ffd700, transparent);
+    border-radius: 1px;
+}
+
+.blessing-text {
+    font-family: 'Philosopher', sans-serif;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 1rem;
+    line-height: 1.5;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.2);
+}
+
+/* Sacred Form */
+.sacred-form {
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 25px;
+}
+
+.form-group label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: rgba(255, 255, 255, 0.9);
+    font-family: 'Philosopher', sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.label-icon {
+    font-size: 1.1rem;
+    opacity: 0.8;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 11px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 2px solid rgba(255, 215, 0, 0.2);
+    border-radius: 15px;
+    color: white;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(10px);
+}
+
+.form-group input::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+    font-style: italic;
+}
+
+.form-group input:focus {
+    outline: none;
+    border-color: #ffd700;
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+    background: rgba(255, 255, 255, 0.15);
+}
+
+/* Form Options */
+.form-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.remember-checkbox {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: rgba(255, 255, 255, 0.8);
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.remember-checkbox input {
+    display: none;
+}
+
+.custom-checkbox {
+    width: 18px;
+    height: 18px;
+    border: 2px solid rgba(255, 215, 0, 0.5);
+    border-radius: 4px;
+    background: transparent;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.remember-checkbox input:checked + .custom-checkbox {
+    background: #ffd700;
+    border-color: #ffd700;
+}
+
+.remember-checkbox input:checked + .custom-checkbox::after {
+    content: '✓';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #000;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.forgot-link {
+    color: #ffd700;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.forgot-link:hover {
+    color: #ff8c00;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+/* Sacred Login Button */
+.sacred-login-btn {
+    width: 100%;
+    padding: 16px;
+    background: linear-gradient(135deg, #ffd700, #ff8c00);
+    color: #000;
+    border: none;
+    border-radius: 15px;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.sacred-login-btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s ease;
+}
+
+.sacred-login-btn:hover::before {
+    left: 100%;
+}
+
+.sacred-login-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 15px 30px rgba(255, 215, 0, 0.4);
+}
+
+.sacred-login-btn:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.btn-icon {
+    font-size: 1.2rem;
+}
+
+/* Sacred Divider */
+.sacred-divider {
+    display: flex;
+    align-items: center;
+    margin: 30px 0;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 0.9rem;
+}
+
+.divider-line {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(255, 215, 0, 0.3), transparent);
+}
+
+.divider-text {
+    padding: 0 20px;
+    font-family: 'Philosopher', sans-serif;
+    font-style: italic;
+}
+
+/* Google Sacred Button */
+.google-sacred-btn {
+    width: 100%;
+    padding: 14px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+.google-sacred-btn:hover {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: #ffd700;
+    box-shadow: 0 10px 25px rgba(255, 215, 0, 0.2);
+}
+
+.google-icon {
+    width: 20px;
+    height: 20px;
+}
+
+/* Sacred Signup */
+.sacred-signup {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.95rem;
+}
+
+.join-link {
+    color: #ffd700;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 5px;
+    transition: all 0.3s ease;
+}
+
+.join-link:hover {
+    color: #ff8c00;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+/* Sacred Footer */
+.sacred-footer {
+    text-align: center;
+    margin-top: 30px;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.sacred-footer p {
+    font-family: 'Philosopher', sans-serif;
+    font-style: italic;
+    font-size: 0.9rem;
+    margin-bottom: 15px;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    font-size: 1.5rem;
+    opacity: 0.7;
+}
+
+.footer-icons span {
+    animation: gentlePulse 4s infinite;
+    animation-delay: var(--delay, 0s);
+}
+
+.footer-icons span:nth-child(1) { --delay: 0s; }
+.footer-icons span:nth-child(2) { --delay: 1.3s; }
+.footer-icons span:nth-child(3) { --delay: 2.6s; }
+
+@keyframes gentlePulse {
+    0%, 100% { transform: scale(1); opacity: 0.7; }
+    50% { transform: scale(1.1); opacity: 1; }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .login-content {
+        max-width: 380px;
+        padding: 15px;
+    }
+
+    .login-card {
+        padding: 30px 25px;
+    }
+
+    .sacred-title {
+        font-size: 1.8rem;
+    }
+
+    .form-options {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .login-card {
+        padding: 25px 20px;
+    }
+
+    .sacred-title {
+        font-size: 1.6rem;
+    }
+
+    .blessing-text {
+        font-size: 0.9rem;
+    }
+}
+
+/* Loading State */
+.sacred-login-btn:disabled,
+.google-sacred-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.sacred-login-btn:disabled:hover,
+.google-sacred-btn:disabled:hover {
+    transform: none;
+    box-shadow: none;
+}

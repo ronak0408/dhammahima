@@ -1,0 +1,246 @@
+
+
+body {
+  font-family: 'Hind Siliguri', sans-serif;
+  background: linear-gradient(to bottom, 
+      rgba(30, 41, 59, 0.95), 
+      rgba(15, 23, 42, 0.98)),
+      url('"https://www.chardham-pilgrimage-tour.com/assets/images/top-tourist-places-enroute-kedarnath-dham.webp') no-repeat center center fixed;
+  background-size: cover;
+  color: var(--color-light);
+  min-height: 100vh;
+}
+
+.header-glow {
+  text-shadow: 0 0 15px rgba(245, 158, 11, 0.5);
+}
+
+.devotional-card {
+  background: linear-gradient(135deg, 
+      rgba(253, 230, 138, 0.12) 0%, 
+      rgba(252, 211, 77, 0.08) 100%);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(253, 230, 138, 0.15);
+  border-radius: 20px;
+  transition: all 0.4s ease;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+  position: relative;
+}
+
+.devotional-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 5px;
+  background: linear-gradient(to right, #f59e0b, #7c3aed, #ec4899);
+  opacity: 0.7;
+}
+
+.devotional-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+  border-color: rgba(253, 230, 138, 0.3);
+}
+
+.mantra-image {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  transition: all 0.5s ease;
+}
+
+.devotional-card:hover .mantra-image {
+  transform: scale(1.05);
+}
+
+.mantra-image::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 60%;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, transparent 100%);
+}
+
+.deity-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-primary-dark));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 24px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  z-index: 10;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
+.deity-icon:hover {
+  transform: scale(1.1) rotate(10deg);
+}
+
+.category-badge {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  background: linear-gradient(to right, var(--color-primary), var(--color-primary-dark));
+  color: white;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  z-index: 10;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.sanskrit-text {
+  font-family: 'Hind Siliguri', serif;
+  font-size: 1.5rem;
+  line-height: 1.6;
+  color: #fef3c7;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  margin: 1rem 0;
+}
+
+.benefits-list li {
+  position: relative;
+  padding-left: 1.8rem;
+  margin-bottom: 0.6rem;
+}
+
+.benefits-list li:before {
+  content: '✦';
+  position: absolute;
+  left: 0;
+  color: var(--color-primary);
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.play-button {
+  transition: all 0.3s ease;
+  background: linear-gradient(to right, var(--color-primary), var(--color-primary-dark));
+}
+
+.play-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 5px 15px rgba(245, 158, 11, 0.4);
+}
+
+.detail-button {
+  transition: all 0.3s ease;
+  background: rgba(124, 58, 237, 0.2);
+  border: 1px solid rgba(124, 58, 237, 0.4);
+}
+
+.detail-button:hover {
+  background: rgba(124, 58, 237, 0.3);
+  transform: translateY(-2px);
+}
+
+.favorite-button {
+  transition: all 0.3s ease;
+}
+
+.favorite-button:hover {
+  transform: scale(1.2);
+  color: #f87171;
+}
+
+.search-input {
+  background: rgba(253, 230, 138, 0.1);
+  border: 2px solid rgba(253, 230, 138, 0.3);
+  color: #fef3c7;
+  transition: all 0.3s ease;
+}
+
+.search-input:focus {
+  box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.3);
+  border-color: var(--color-primary);
+  background: rgba(253, 230, 138, 0.15);
+}
+
+.search-input::placeholder {
+  color: rgba(254, 243, 199, 0.6);
+}
+
+.filter-select {
+  background: rgba(124, 58, 237, 0.15);
+  border: 2px solid rgba(124, 58, 237, 0.3);
+  color: #fef3c7;
+}
+
+.filter-select:focus {
+  box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.3);
+  border-color: var(--color-secondary);
+}
+
+.feature-badge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.difficulty-beginner {
+  background: rgba(101, 163, 13, 0.2);
+  color: #84cc16;
+  border: 1px solid rgba(101, 163, 13, 0.4);
+}
+
+.difficulty-intermediate {
+  background: rgba(245, 158, 11, 0.2);
+  color: #f59e0b;
+  border: 1px solid rgba(245, 158, 11, 0.4);
+}
+
+.difficulty-advanced {
+  background: rgba(239, 68, 68, 0.2);
+  color: #ef4444;
+  border: 1px solid rgba(239, 68, 68, 0.4);
+}
+
+.stats-box {
+  background: rgba(30, 41, 59, 0.5);
+  border-radius: 12px;
+  padding: 12px;
+  border: 1px solid rgba(253, 230, 138, 0.1);
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+.floating-icon {
+  animation: float 5s ease-in-out infinite;
+}
+
+.mantra-counter {
+  font-variant-numeric: tabular-nums;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+  /* -webkit-background-clip: text; */
+  /* -webkit-text-fill-color: transparent; */
+  font-weight: 700;
+}
+
+.footer {
+  background: linear-gradient(to top, rgba(15, 23, 42, 0.95), transparent);
+  padding: 2rem 0;
+  margin-top: 4rem;
+  border-top: 1px solid rgba(253, 230, 138, 0.1);
+}

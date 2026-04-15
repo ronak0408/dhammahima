@@ -1,0 +1,162 @@
+{
+  "templeName": "Kashi Vishwanath",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kashi_Vishwanath_Temple_in_Varanasi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c3/Kashi_Vishwanath_Temple_Corridor.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/07/Ganges_River_at_sunrise_in_Varanasi.jpg"
+    ],
+    "quotes": [
+      "In the eternal city of Kashi, on the banks of the sacred Ganga, resides the Lord of the Universe.",
+      "Kashi Vishwanath: Where life and death find their ultimate meaning.",
+      "A golden spire that touches the sky, a faith that touches the soul."
+    ],
+    "quoteIcon": "🕉️"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Kashi Vishwanath Temple" },
+        { "label": "Location", "value": "Varanasi, Uttar Pradesh" },
+        { "label": "Deity", "value": "Lord Shiva as Vishwanath (Ruler of the Universe)" },
+        { "label": "Significance", "value": "One of the most sacred Hindu temples" },
+        { "label": "Temple Type", "value": "Jyotirlinga on the banks of a holy river" },
+        { "label": "River", "value": "On the western bank of the Ganga River" },
+        { "label": "Best Time to Visit", "value": "October to March" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Mangala Aarti", "value": "3:00 AM - 4:00 AM" },
+        { "label": "Bhog Aarti", "value": "11:15 AM - 12:20 PM" },
+        { "label": "Sandhya Aarti", "value": "7:00 PM - 8:15 PM" },
+        { "label": "Shayan Aarti", "value": "10:30 PM - 11:00 PM" }
+      ],
+      "note": "The temple complex has recently been renovated and expanded as the Kashi Vishwanath Corridor, making it more accessible.",
+      "quote": {
+        "text": "“A drop of water from the Ganga, a single darshan of Vishwanath, is said to grant liberation from the cycle of rebirth.”",
+        "author": "— Ancient Proverb"
+      },
+      "description": "Devotees from all over the world throng to Varanasi for a darshan and to perform rituals on the ghats of the Ganga."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Kashi Vishwanath Temple",
+    "titleIcon": "🕉️",
+    "floatingIcons": ["🔱", "Ganges-logo.png"],
+    "overview": {
+      "title": "Overview",
+      "text": "The Kashi Vishwanath Temple is one of the most famous Hindu temples dedicated to Lord Shiva, located in Varanasi, the spiritual capital of India. Standing on the western bank of the holy river Ganga, the temple is a central part of Shaivism and a revered Jyotirlinga."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "Kashi (Varanasi) is considered one of the oldest living cities in the world. It is believed that this was the first place where the Jyotirlinga, a fiery pillar of light, broke through the earth's crust. Lord Shiva himself declared this city his eternal abode, promising liberation to anyone who dies here."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "The temple is famous for its golden spires. It has three domes, two of which are plated with gold.",
+        "The current structure was built in 1780 by the Maratha monarch, Maharani Ahilyabai Holkar of Indore.",
+        "The recently inaugurated Kashi Vishwanath Corridor project has expanded the temple area and connected it directly to the Ganga.",
+        "The complex also includes smaller shrines for other deities like Kaalbhairav, Dhandapani, and Vishnu.",
+        "The temple is situated amidst a maze of narrow lanes, typical of old Varanasi."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "It is believed that Varanasi is a city that stands on the trident (Trishul) of Lord Shiva.",
+        "A darshan of the Jyotirlinga and a holy bath in the Ganga is a path to moksha (liberation).",
+        "The temple has been visited by numerous great saints including Adi Shankaracharya, Ramakrishna Paramahamsa, and Swami Vivekananda.",
+        "It is considered the pinnacle of the Hindu pilgrimage circuit."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "Ancient", "event": "Mentioned in the Puranas and the Mahabharata." },
+        { "period": "1194 CE", "event": "Demolished by the army of Qutb-ud-din Aibak." },
+        { "period": "1669 CE", "event": "Demolished again by Mughal emperor Aurangzeb, who built the Gyanvapi Mosque on its site." },
+        { "period": "1780 CE", "event": "The current temple was built adjacent to the mosque by Ahilyabai Holkar." },
+        { "period": "2021 CE", "event": "The Kashi Vishwanath Corridor was inaugurated, transforming the temple complex." }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "🙏", "text": "It is believed that Lord Shiva himself whispers the 'Tarak Mantra' into the ears of those who die in Kashi, granting them salvation." },
+        { "icon": "🔔", "text": "The various Aartis performed throughout the day are grand spectacles of ritual and devotion." },
+        { "icon": "🌊", "text": "The temple's direct connection to the Ganga ghats via the corridor has enhanced its spiritual accessibility." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "Kashi Vishwanath is the heart of Varanasi and the soul of Sanatana Dharma. A visit to this sacred temple is not just a pilgrimage but an immersion into the timeless cycle of life, death, and liberation on the banks of the holy Ganga.",
+      "website": "https://www.shrikashivishwanath.org/"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Maha Shivratri – The city of Varanasi comes alive with grand celebrations.",
+        "Dev Deepawali – The ghats are lit with millions of earthen lamps, a sight to behold.",
+        "Rangbhari Ekadashi – A unique festival where Shiva and Parvati are worshipped with colors."
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Dashashwamedh Ghat – Famous for the spectacular evening Ganga Aarti.",
+        "Sarnath – The place where Lord Buddha gave his first sermon, a short drive away.",
+        "Banaras Hindu University (BHU) – A prestigious university with a beautiful campus and a new Vishwanath Temple.",
+        "Ramnagar Fort – A historic fort on the opposite bank of the Ganga."
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Varanasi is well-connected by road to all major cities in Uttar Pradesh and India." },
+      { "title": "By Helicopter", "description": "Not applicable." },
+      { "title": "Nearest Railway", "description": "Varanasi Junction (BSB) and Manduadih (MUV) are the main railway stations." },
+      { "title": "Nearest Airport", "description": "Lal Bahadur Shastri International Airport, Varanasi (VNS), is about 25 km away." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "Located in the heart of Varanasi, Uttar Pradesh, adjacent to the Dashashwamedh Ghat on the banks of the River Ganga.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14300.449143909943!2d83.00481225!3d25.31087685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398e2e3f29c14fbd%3A0xbcfb49deaad4e179!2sShri%20Kashi%20Vishwanath%20Temple!5e0!3m2!1sen!2sin!4v1690362986207!5m2!1sen!2sin"
+  },
+  "blogSection": {
+    "title": "Blogs & Experiences",
+    "posts": [
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ganges_River_at_sunrise_in_Varanasi.jpg",
+        "title": "The Mesmerizing Ganga Aarti",
+        "intro": "Witnessing the grand evening ritual at Dashashwamedh Ghat is a spiritual spectacle.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Kashi_Vishwanath_Temple_Corridor.jpg",
+        "title": "A Walk Through the Kashi Vishwanath Corridor",
+        "intro": "Exploring the newly transformed temple complex and its direct link to the Ganga.",
+        "link": "#"
+      }
+    ]
+  }
+}

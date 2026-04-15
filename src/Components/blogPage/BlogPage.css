@@ -1,0 +1,118 @@
+/* --- Global & Page Wrapper Styles --- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Inter', system-ui, sans-serif;
+    background-color: #f8f9fa;
+    color: #444;
+}
+
+.goku-page-wrapper {
+    padding-bottom: 3rem;
+}
+
+/* --- Blog Cards Section Styles --- */
+.goku-card-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 0;
+    gap: 2.5rem;
+}
+
+.goku-card {
+    width: 95vw;
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.07);
+    display: flex;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.goku-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+}
+
+.goku-card__image-wrapper {
+    flex-shrink: 0;
+}
+
+.goku-card__image {
+    width: 200px;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.goku-card__content {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.goku-card__title {
+    margin-top: 0;
+    color: #4A3F35;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.goku-card__description {
+    line-height: 1.6;
+    font-size: 1rem;
+    flex-grow: 1; /* Pushes the button to the bottom */
+}
+
+.goku-card__button {
+    background-color: #6C63FF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-top: 1rem;
+    align-self: flex-end; /* Aligns to the right */
+    transition: all 0.3s ease;
+}
+
+.goku-card__button:hover {
+    background-color: #5a52d9;
+    transform: scale(1.05);
+}
+
+/* --- Basic Modal Backdrop Style (as requested) --- */
+/* This ensures you see the overlay when the modal is triggered */
+.goku-modal-backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    padding: 20px;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+    .goku-card {
+        flex-direction: column;
+        width: 90%;
+    }
+    .goku-card__image {
+        width: 100%;
+        height: 200px;
+    }
+}

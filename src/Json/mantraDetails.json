@@ -1,0 +1,1144 @@
+
+
+{
+  "mantras": [
+    {
+      "id": "gayatri-mantra",
+      "mantra": {
+        "title": "Gayatri Mantra",
+        "origin": "Rigveda",
+        "text": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्",
+        "translation": "Om, let us meditate on the glorious light of the Divine Sun, may it illuminate our minds and inspire our intelligence.",
+        "meaning": "The Gayatri Mantra is considered the most powerful and sacred Vedic mantra. It is a prayer to Savitr, the sun deity, for enlightenment and divine wisdom. It represents the essence of all Vedas and is believed to bestow spiritual awakening, protection, and purification when chanted with devotion.",
+        "benefits": "Enhances wisdom and intelligence, purifies the mind, provides spiritual protection, removes negative karma, promotes overall well-being",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/gayatri-mantra.jpg",
+        "meta": {
+          "type": "Universal Mantra",
+          "language": "Sanskrit",
+          "length": "24 syllables",
+          "bestTime": "Sunrise, noon, and sunset (Sandhya times)",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Rishi Vishwamitra",
+        "image": "https://example.com/images/vishwamitra.jpg",
+        "description": "Vishwamitra was a revered sage who attained brahmarishi status through intense tapas.||He revealed the Gayatri Mantra to humanity as a means to attain spiritual enlightenment.||According to tradition, he composed this mantra to provide access to divine wisdom for all people regardless of caste or status."
+      },
+      "relatedMantras": [
+        {
+          "id":"",
+          "title": "Sandhya Mantra",
+          "coverImage": "https://example.com/images/sandhya-mantra.jpg",
+          "description": "The great death-conquering mantra"
+        },
+                {
+                    "id":"",
+          "title": "Mahamrityunjaya Mantra",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6X9Q0Q5Q2Q3Q4Q5Q6Q7Q8Q9Q0Q1Q2Q3Q&s",
+          "description": "The great death-conquering mantra"
+        },
+        {
+            "id":"",
+          "title": "Shanti Mantra",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6X9Q0Q5Q2Q3Q4Q5Q6Q7Q8Q9Q0Q1Q2Q3Q&s",
+          "description": "Mantra for peace and harmony"
+        }
+      ]
+    },
+    {
+      "id": "mahamrityunjaya-mantra",
+      "mantra": {
+        "title": "Mahamrityunjaya Mantra",
+        "origin": "Rigveda",
+        "text": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् उर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय माऽमृतात्",
+        "translation": "Om, we worship the three-eyed Lord Shiva who is fragrant and who nourishes all beings. May He liberate us from death for the sake of immortality, just as a ripe cucumber is severed from its binding stalk.",
+        "meaning": "The Great Death-Conquering Mantra is dedicated to Lord Shiva. It is a prayer for liberation from the cycle of birth and death, for healing, and for overcoming the fear of mortality. It represents the triumph of consciousness over physical limitations.",
+        "benefits": "Promotes healing and longevity, protects from accidents and misfortunes, removes fear of death, provides spiritual liberation, enhances inner strength",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/mahamrityunjaya-mantra.jpg",
+        "meta": {
+          "type": "Healing Mantra",
+          "language": "Sanskrit",
+          "length": "32 syllables",
+          "bestTime": "Early morning or during illness",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Ancient Vedic Rishis",
+        "image": "https://example.com/images/vedic-rishis.jpg",
+        "description": "The Mahamrityunjaya Mantra was revealed to Vedic sages during deep meditative states.||It is said to have been first taught by Lord Shiva himself to his devotees.||The mantra embodies the healing and liberating aspects of Shiva consciousness."
+      },
+      "relatedMantras": [
+       {
+          "id":"gayatri-mantra",
+          "title": "Gayatri Mantra",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcB2w0d5Q0Yp5f3QKv9n4Q2Z4Q6X9Q0Q5Q2Q&s",
+          "description": "The mantra of illumination"
+        },
+        {
+            "id":"",
+          "title": "Shiva Panchakshari Mantra",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6X9Q0Q5Q2Q3Q4Q5Q6Q7Q8Q9Q0Q1Q2Q3Q&s",
+          "description": "Om Namah Shivaya"
+        },
+        {
+            "id":"",
+          "title": "Dhanvantari Mantra",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6X9Q0Q5Q2Q3Q4Q5Q6Q7Q8Q9Q0Q1Q2Q3Q&s",
+          "description": "Healing mantra for health"
+        }
+      ]
+    },
+    {
+      "id": "om-namo-narayanaya",
+      "mantra": {
+        "title": "Om Namo Narayanaya",
+        "origin": "Vaishnava Tradition",
+        "text": "ॐ नमो नारायणाय",
+        "translation": "Om, salutations to Lord Narayana (Vishnu)",
+        "meaning": "This is one of the principal mantras dedicated to Lord Vishnu in his form as Narayana, the cosmic being who rests on the ocean of consciousness. It represents surrender to the divine preserver who maintains cosmic order and protects devotees.",
+        "benefits": "Cultivates devotion to Vishnu, provides divine protection, promotes peace and harmony, removes obstacles, enhances spiritual growth",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/om-namo-narayanaya.jpg",
+        "meta": {
+          "type": "Vaishnava Mantra",
+          "language": "Sanskrit",
+          "length": "5 syllables",
+          "bestTime": "Morning or evening",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Vaishnava Sages",
+        "image": "https://example.com/images/vaishnava-sages.jpg",
+        "description": "This mantra has been chanted by Vaishnava devotees for millennia.||It is particularly associated with the Sri Sampradaya tradition.||The mantra embodies the essence of surrender to Vishnu as the supreme protector and maintainer of the universe."
+      },
+      "relatedMantras": [
+           {
+              "id":"",
+          "title": "Hare Krishna Mahamantra",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6X9Q0Q5Q2Q3Q4Q5Q6Q7Q8Q9Q0Q1Q2Q3Q&s",
+          "description": "Mantra of divine love"
+        },
+        {
+            "id":"",
+          "title": "Vishnu Sahasranama",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6X9Q0Q5Q2Q3Q4Q5Q6Q7Q8Q9Q0Q1Q2Q3Q&s",
+          "description": "The thousand names of Vishnu"
+        },
+        {
+            "id":"",
+          "title": "Lakshmi Mantra",
+          "coverImage": "/icons/lakshmi.png",
+          "description": "Mantra for abundance"
+        }
+      ]
+    },
+    {
+      "id": "hare-krishna-mahamantra",
+      "mantra": {
+        "title": "Hare Krishna Mahamantra",
+        "origin": "Kali Santarana Upanishad",
+        "text": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे हरे राम हरे राम राम राम हरे हरे",
+        "translation": "O Lord Krishna, O Lord Rama, please engage me in Your devotional service",
+        "meaning": "This is the great mantra for deliverance in the age of Kali. It is a prayer to the divine energies of Lord Vishnu (Krishna and Rama) to engage the chanter in loving devotional service. It represents the direct calling upon the divine names for spiritual purification.",
+        "benefits": "Purifies consciousness, awakens divine love, liberates from material attachments, provides spiritual ecstasy, connects with divine energy",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/hare-krishna-mantra.jpg",
+        "meta": {
+          "type": "Mahamantra",
+          "language": "Sanskrit",
+          "length": "16 words",
+          "bestTime": "Any time, especially in congregational chanting",
+          "recommendedRepetitions": 108 
+        }
+      },
+      "author": {
+        "name": "Vedic Sages",
+        "image": "https://example.com/images/vedic-sages.jpg",
+        "description": "The Hare Krishna mantra is recommended in the Kali Santarana Upanishad as the means for spiritual purification in the current age.||It was popularized in the 16th century by Chaitanya Mahaprabhu and more recently by A.C. Bhaktivedanta Swami Prabhupada.||The mantra is considered a direct sound incarnation of the Divine."
+      },
+      "relatedMantras": [
+             {
+          "title": "Om Namo Narayanaya",
+          "coverImage": "/icons/vishnu.png",
+          "description": "Salutations to Vishnu"
+        },
+        {
+          "title": "Govinda Jaya Jaya",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6X9Q0Q5Q2Q3Q4Q5Q6Q7Q8Q9Q0Q1Q2Q3Q&s",
+          "description": "Victory to Lord Govinda"
+        }
+      ]
+    },
+    {
+      "id": "vishnu-sahasranama",
+      "mantra": {
+        "title": "Vishnu Sahasranama",
+        "origin": "Mahabharata",
+        "text": "विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः... (1000 names)",
+        "translation": "The thousand names of Lord Vishnu describing his qualities, forms, and divine attributes",
+        "meaning": "The Vishnu Sahasranama is a sacred hymn containing a thousand names of Lord Vishnu. It appears in the Anushasana Parva of the Mahabharata and is presented as a teaching by Bhishma to Yudhishthira. Each name describes a different aspect of Vishnu's divine nature and power.",
+        "benefits": "Bestows divine protection, removes sins, fulfills righteous desires, promotes spiritual evolution, brings peace and prosperity",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/vishnu-sahasranama.jpg",
+        "meta": {
+          "type": "Stotram",
+          "language": "Sanskrit",
+          "length": "1000 names",
+          "bestTime": "Thursday mornings or Ekadashi",
+          "recommendedRepetitions": 1 
+        }
+      },
+      "author": {
+        "name": "Bhishma through Vyasa",
+        "image": "https://example.com/images/bhishma.jpg",
+        "description": "The Vishnu Sahasranama was revealed by Bhishma while lying on his bed of arrows.||It was compiled by Vyasa in the Mahabharata.||According to tradition, the names were originally given to Bhishma by various sages and deities who had experienced Vishnu's divine qualities."
+      },
+      "relatedMantras": [
+         {
+          "title": "Om Namo Narayanaya",
+          "coverImage": "/icons/vishnu.png",
+          "description": "Salutations to Vishnu"
+        },
+        {
+          "title": "Shiva Sahasranama",
+          "coverImage": "/icons/shiva.png",
+          "description": "Thousand names of Shiva"
+        }
+      ]
+    },
+    {
+      "id": "lakshmi-mantra",
+      "mantra": {
+        "title": "Lakshmi Mantra",
+        "origin": "Lakshmi Tantra",
+        "text": "ॐ श्रीं महालक्ष्म्यै नमः",
+        "translation": "Om, I bow to the great Goddess Lakshmi",
+        "meaning": "This mantra invokes Goddess Lakshmi, the deity of wealth, prosperity, and abundance. The seed syllable 'Shreem' is specifically associated with Lakshmi and represents her divine energy. Chanting this mantra attracts material and spiritual abundance.",
+        "benefits": "Attracts wealth and prosperity, removes financial obstacles, promotes abundance in all areas of life, enhances beauty and grace, brings good fortune",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/lakshmi-mantra.jpg",
+        "meta": {
+          "type": "Devi Mantra",
+          "language": "Sanskrit",
+          "length": "7 syllables",
+          "bestTime": "Friday mornings or during Diwali",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Tantric Sages",
+        "image": "https://example.com/images/tantric-sages.jpg",
+        "description": "Lakshmi mantras originate from the Tantric tradition and various Puranas.||They were revealed to sages who were devoted to the Goddess of abundance.||The mantras are designed to invoke both material and spiritual prosperity through connection with the divine feminine energy of Lakshmi."
+      },
+      "relatedMantras": [
+        {
+            "id":"",
+          "title": "Om Namo Narayanaya",
+          "coverImage": "/icons/vishnu.png",
+          "description": "Salutations to Vishnu"
+        },
+        {
+            "id":"",
+          "title": "Ganesh Mantra",
+          "coverImage": "/icons/ganesha.png",
+          "description": "Mantra for removing obstacles"
+        }
+      ]
+    },
+    {
+      "id": "om-namah-shivaya",
+      "mantra": {
+        "title": "Om Namah Shivaya",
+        "origin": "Shaiva Tradition",
+        "text": "ॐ नमः शिवाय",
+        "translation": "Om, I bow to Lord Shiva",
+        "meaning": "This is the most sacred mantra dedicated to Lord Shiva. It is known as the Panchakshara (five-syllable) mantra and represents the essence of Shaivism. It signifies surrender to Shiva, the transformative aspect of consciousness that dissolves the ego and leads to liberation.",
+        "benefits": "Promotes transformation and liberation, removes negative patterns, enhances meditation, provides protection, connects with Shiva consciousness",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/om-namah-shivaya.jpg",
+        "meta": {
+          "type": "Shaiva Mantra",
+          "language": "Sanskrit",
+          "length": "5 syllables",
+          "bestTime": "Monday mornings or during Maha Shivaratri",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Shaiva Sages",
+        "image": "https://example.com/images/shaiva-sages.jpg",
+        "description": "The Om Namah Shivaya mantra has been chanted by Shiva devotees for thousands of years.||It is mentioned in various Shaiva scriptures including the Tirumurai.||The mantra is said to have been revealed by Shiva himself to his devotees as a means to attain liberation."
+      },
+      "relatedMantras": [
+        {
+          "title": "Mahamrityunjaya Mantra",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6X9Q0Q5Q2Q3Q4Q5Q6Q7Q8Q9Q0Q1Q2Q3Q&s",
+          "description": "The great death-conquering mantra"
+        },
+        {
+          "title": "Shiva Tandava Stotram",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6X9Q0Q5Q2Q3Q4Q5Q6Q7Q8Q9Q0Q1Q2Q3Q&s",
+          "description": "Hymn to Shiva's cosmic dance"
+        },
+        {
+          "title": "Rudra Gayatri Mantra",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6X9Q0Q5Q2Q3Q4Q5Q6Q7Q8Q9Q0Q1Q2Q3Q&s",
+          "description": "Mantra for Lord Shiva"
+        }
+      ]
+    },
+    {
+      "id": "shiva-tandava-stotram",
+      "mantra": {
+        "title": "Shiva Tandava Stotram",
+        "origin": "Shaiva Tradition",
+        "text": "जटाटवीगलज्जलप्रवाहपावितस्थले... (16 verses)",
+        "translation": "A hymn describing Shiva's cosmic dance of creation, preservation, and destruction",
+        "meaning": "The Shiva Tandava Stotram is a powerful hymn that describes Lord Shiva's cosmic dance (Tandava). It vividly portrays his fierce yet beautiful form as he performs the dance that maintains the rhythm of the universe. The hymn is both a celebration of Shiva's power and a meditation on the dynamic nature of reality.",
+        "benefits": "Removes fear and anxiety, enhances energy and vitality, promotes artistic expression, provides protection, connects with Shiva's dynamic energy",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/shiva-tandava.jpg",
+        "meta": {
+          "type": "Stotram",
+          "language": "Sanskrit",
+          "length": "16 verses",
+          "bestTime": "Evenings or during Shiva rituals",
+          "recommendedRepetitions": 1 
+        }
+      },
+      "author": {
+        "name": "Ravana",
+        "image": "https://example.com/images/ravana.jpg",
+        "description": "According to legend, the Shiva Tandava Stotram was composed by Ravana, the demon king of Lanka.||He was a great devotee of Shiva and composed this hymn to praise his lord.||Despite his negative portrayal in the Ramayana, Ravana was known as a great scholar and Shiva bhakt."
+      },
+      "relatedMantras": [
+        {
+          "title": "Shiva Mahimna Stotra",
+          "coverImage": "https://example.com/images/shiva-mahimna.jpg"
+        }
+      ]
+    },
+    {
+      "id": "rudra-gayatri",
+      "mantra": {
+        "title": "Rudra Gayatri",
+        "origin": "Yajurveda",
+        "text": "ॐ तत्पुरुषाय विद्महे महादेवाय धीमहि तन्नो रुद्रः प्रचोदयात्",
+        "translation": "Om, let us meditate on the great purusha, the great God, may that Rudra inspire our intellect",
+        "meaning": "The Rudra Gayatri is a mantra dedicated to Rudra, the fierce aspect of Shiva. It is used for invoking Shiva's protective and transformative energies. Like the Gayatri mantra, it follows the Gayatri meter and is designed to illuminate the mind and connect with specific divine energies.",
+        "benefits": "Provides powerful protection, removes negative energies, enhances spiritual power, promotes transformation, connects with Rudra energy",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/rudra-gayatri.jpg",
+        "meta": {
+          "type": "Gayatri Mantra",
+          "language": "Sanskrit",
+          "length": "24 syllables",
+          "bestTime": "During Rudrabhishek or Shiva puja",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Vedic Rishis",
+        "image": "https://example.com/images/vedic-rishis.jpg",
+        "description": "The Rudra Gayatri was revealed to Vedic sages who were devoted to Rudra-Shiva.||It follows the structure of the Gayatri mantra but is specifically tuned to the energy of Rudra.||The mantra was designed to help devotees safely access the powerful transformative energies of Rudra."
+      },
+      "relatedMantras": [
+        {
+            "id":"gayatri-mantra",
+          "title": "Gayatri Mantra",
+          "coverImage": "https://example.com/images/gayatri.jpg"
+        }
+      ]
+    },
+    {
+      "id": "shiva-mahimna-stotra",
+      "mantra": {
+        "title": "Shiva Mahimna Stotra",
+        "origin": "Puranic Tradition",
+        "text": "महिम्नः पारं ते परमविदुषो यद्यसदृशी... (43 verses)",
+        "translation": "A hymn praising the glory and greatness of Lord Shiva",
+        "meaning": "The Shiva Mahimna Stotra is a famous hymn that extols the glory, virtues, and miraculous deeds of Lord Shiva. It systematically praises Shiva's various aspects - as the supreme consciousness, the compassionate deity, the destroyer of evil, and the source of all creation. The hymn is both philosophical and devotional in nature.",
+        "benefits": "Enhances devotion to Shiva, removes sins, bestows divine grace, promotes spiritual understanding, fulfills righteous desires",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/shiva-mahimna.jpg",
+        "meta": {
+          "type": "Stotram",
+          "language": "Sanskrit",
+          "length": "43 verses",
+          "bestTime": "Mondays or during Shiva worship",
+          "recommendedRepetitions": 1 
+        }
+      },
+      "author": {
+        "name": "Pushpadanta",
+        "image": "https://example.com/images/pushpadanta.jpg",
+        "description": "According to legend, the Shiva Mahimna Stotra was composed by Pushpadanta, a celestial being.||He was cursed to become mortal but received the blessing that whoever recited his hymn would be freed from sins.||The stotra is celebrated for its poetic beauty and philosophical depth."
+      },
+      "relatedMantras": [
+        {
+          "id":"",    "title": "Shiva Tandava Stotram",
+          "coverImage": "https://example.com/images/shiva-tandava.jpg"
+        }
+      ]
+    },
+    {
+      "id": "durga-mantra",
+      "mantra": {
+        "title": "Durga Mantra",
+        "origin": "Durga Saptashati",
+        "text": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+        "translation": "Om, I bow to Chamunda, the fierce form of Durga",
+        "meaning": "This is a powerful mantra dedicated to Goddess Durga in her form as Chamunda. The bija (seed) mantras 'Aim', 'Hreem', and 'Kleem' represent the energies of Saraswati, Lakshmi, and Kali respectively. The mantra invokes Durga's protective and destructive powers to remove obstacles and negative forces.",
+        "benefits": "Provides powerful protection, destroys negative energies, removes obstacles, grants courage and strength, defeats enemies",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/durga-mantra.jpg",
+        "meta": {
+          "type": "Devi Mantra",
+          "language": "Sanskrit",
+          "length": "9 syllables",
+          "bestTime": "Tuesday mornings or during Navaratri",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Markandeya",
+        "image": "https://example.com/images/markandeya.jpg",
+        "description": "Durga mantras are found in the Durga Saptashati section of the Markandeya Purana.||They were revealed to the sage Markandeya who compiled the Devi Mahatmya.||The mantras are designed to invoke the protective and transformative energies of the Divine Mother."
+      },
+      "relatedMantras": [
+          {
+              "id":"", 
+          "title": "Devi Kavacham",
+          "coverImage": "/icons/durga.png",
+          "description": "The armor of the Goddess"
+        },
+        {
+            "id":"", 
+          "title": "Lakshmi Mantra",
+          "coverImage": "/icons/lakshmi.png",
+          "description": "Mantra for abundance"
+        }
+      ]
+    },
+    {
+      "id": "saraswati-mantra",
+      "mantra": {
+        "title": "Saraswati Mantra",
+        "origin": "Saraswati Tantra",
+        "text": "ॐ ऐं सरस्वत्यै नमः",
+        "translation": "Om, I bow to Goddess Saraswati",
+        "meaning": "This mantra invokes Goddess Saraswati, the deity of knowledge, wisdom, music, and arts. The seed syllable 'Aim' is specifically associated with Saraswati and represents her divine energy of wisdom and creativity. Chanting this mantra enhances intellectual capacities and artistic abilities.",
+        "benefits": "Enhances learning and memory, improves communication skills, promotes artistic talents, removes ignorance, bestows wisdom",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/saraswati-mantra.jpg",
+        "meta": {
+          "type": "Devi Mantra",
+          "language": "Sanskrit",
+          "length": "6 syllables",
+          "bestTime": "Wednesday mornings or during Vasant Panchami",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Vedic and Tantric Sages",
+        "image": "https://example.com/images/saraswati-sages.jpg",
+        "description": "Saraswati mantras originate from both Vedic and Tantric traditions.||They were revealed to sages who sought wisdom and creative inspiration.||The mantras are designed to connect with the flowing river of consciousness that Saraswati represents."
+      },
+      "relatedMantras": [
+        {
+          "id":"gayatri-mantra",
+          "title": "Gayatri Mantra",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcB2w0d5Q0Yp5f3QKv9n4Q2Z4Q6X9Q0Q5Q2Q&s",
+          "description": "Mantra for illumination"
+        }
+      ]
+    },
+    {
+      "id": "navarna-mantra",
+      "mantra": {
+        "title": "Navarna Mantra",
+        "origin": "Devi Mahatmya",
+        "text": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+        "translation": "Om, Aim Hreem Kleem to Chamunda, the fierce form of Durga",
+        "meaning": "The Navarna (nine-letter) mantra is one of the most important mantras in the Devi Mahatmya. It contains the three seed syllables representing the three aspects of the Divine Mother: Aim (Saraswati), Hreem (Lakshmi), and Kleem (Kali). The mantra invokes the complete energy of the Goddess for protection and transformation.",
+        "benefits": "Provides complete protection, removes all obstacles, destroys negative karma, grants spiritual powers, fulfills desires",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/navarna-mantra.jpg",
+        "meta": {
+          "type": "Devi Mantra",
+          "language": "Sanskrit",
+          "length": "9 syllables",
+          "bestTime": "During Navaratri or times of difficulty",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Sage Markandeya",
+        "image": "https://example.com/images/markandeya.jpg",
+        "description": "The Navarna Mantra is from the Devi Mahatmya section of the Markandeya Purana.||It was revealed to the sage Markandeya by the Goddess herself.||The mantra is considered especially powerful for protection and spiritual transformation."
+      },
+      "relatedMantras": [
+        {
+          "title": "Durga Mantra",
+          "coverImage": "https://example.com/images/durga-mantra.jpg"
+        }
+      ]
+    },
+    {
+      "id": "lalita-sahasranama",
+      "mantra": {
+        "title": "Lalita Sahasranama",
+        "origin": "Brahmanda Purana",
+        "text": "श्रीमाता श्रीमहाराज्ञी श्रीमत्सिंहासनेश्वरी... (1000 names)",
+        "translation": "The thousand names of Goddess Lalita Tripurasundari describing her beauty, power, and divine attributes",
+        "meaning": "The Lalita Sahasranama is a sacred hymn containing a thousand names of Goddess Lalita, the beautiful form of the Divine Mother. It appears in the Brahmanda Purana and is presented as a teaching by Lord Hayagriva to the sage Agastya. Each name describes a different aspect of the Goddess's divine nature and power.",
+        "benefits": "Bestows divine grace, removes all obstacles, grants spiritual enlightenment, provides protection, fulfills desires",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/lalita-sahasranama.jpg",
+        "meta": {
+          "type": "Stotram",
+          "language": "Sanskrit",
+          "length": "1000 names",
+          "bestTime": "Friday mornings or during Goddess worship",
+          "recommendedRepetitions": 1
+        }
+      },
+      "author": {
+        "name": "Sage Agastya through Hayagriva",
+        "image": "https://example.com/images/agastya.jpg",
+        "description": "The Lalita Sahasranama was revealed to the sage Agastya by Lord Hayagriva, an incarnation of Vishnu.||It is part of the Brahmanda Purana and is central to Sri Vidya worship.||The names were given by various deities who had experienced the Goddess's divine qualities."
+      },
+      "relatedMantras": [
+        {
+          "title": "Vishnu Sahasranama",
+          "coverImage": "https://example.com/images/vishnu-sahasranama.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ganesh-mantra",
+      "mantra": {
+        "title": "Ganesh Mantra",
+        "origin": "Ganapati Upanishad",
+        "text": "ॐ गं गणपतये नमः",
+        "translation": "Om, I bow to Lord Ganesha",
+        "meaning": "This is the basic mantra dedicated to Lord Ganesha, the elephant-headed deity who removes obstacles and bestows success. The seed syllable 'Gam' is specifically associated with Ganesha and represents his divine energy. Chanting this mantra invokes Ganesha's blessings for new beginnings and success in endeavors.",
+        "benefits": "Removes obstacles, ensures success in undertakings, enhances wisdom, provides protection, promotes prosperity",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/ganesh-mantra.jpg",
+        "meta": {
+          "type": "Ganapatya Mantra",
+          "language": "Sanskrit",
+          "length": "6 syllables",
+          "bestTime": "Morning before starting any work or on Ganesh Chaturthi",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Ganapatya Sages",
+        "image": "https://example.com/images/ganapatya-sages.jpg",
+        "description": "Ganesha mantras are found in the Ganapati Upanishad and various Puranas.||They were revealed to sages devoted to Ganesha worship.||The mantras are designed to invoke Ganesha's energy of removing obstacles and bestowing success."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Ganesh Atharvashirsha",
+          "coverImage": "https://example.com/images/ganesh-atharvashirsha.jpg"
+        },
+              {
+                  "id":"", 
+          "title": "Vakratunda Mahakaya",
+          "coverImage": "/icons/ganesha.png",
+          "description": "Ganesha devotional hymn"
+        }
+      ]
+    },
+    {
+      "id": "ganesh-atharvashirsha",
+      "mantra": {
+        "title": "Ganesh Atharvashirsha",
+        "origin": "Atharvashirsha Upanishad",
+        "text": "ॐ नमस्ते गणपतये... (entire text)",
+        "translation": "A comprehensive hymn praising Lord Ganesha as the supreme reality",
+        "meaning": "The Ganesh Atharvashirsha is a famous text that presents Ganesha as the ultimate reality (Brahman). It describes his various forms, attributes, and powers, and explains how worshiping him leads to spiritual enlightenment. The text is both philosophical and devotional, identifying Ganesha with the supreme consciousness.",
+        "benefits": "Removes all obstacles, grants spiritual enlightenment, provides complete protection, ensures success in all endeavors, bestows wisdom",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/ganesh-atharvashirsha.jpg",
+        "meta": {
+          "type": "Upanishadic Text",
+          "language": "Sanskrit",
+          "length": "Full text",
+          "bestTime": "Before starting important work or on Ganesh Chaturthi",
+          "recommendedRepetitions": 1
+        }
+      },
+      "author": {
+        "name": "Atharvanic Sages",
+        "image": "https://example.com/images/atharvanic-sages.jpg",
+        "description": "The Ganesh Atharvashirsha is part of the Atharvavedic tradition.||It was revealed to sages who recognized Ganesha as the supreme reality.||The text represents the philosophical elevation of Ganesha from obstacle-remover to the ultimate truth."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Ganesh Mantra",
+          "coverImage": "https://example.com/images/ganesh-mantra.jpg"
+        }
+      ]
+    },
+    {
+      "id": "vakratunda-mahakaya",
+      "mantra": {
+        "title": "Vakratunda Mahakaya",
+        "origin": "Ganapatya Tradition",
+        "text": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा",
+        "translation": "O Lord with curved trunk and massive body, whose splendor is equal to millions of suns, please make all my endeavors free of obstacles, always.",
+        "meaning": "This is a popular prayer to Lord Ganesha that asks for the removal of obstacles in all undertakings. It describes Ganesha's magnificent form and radiant energy, and humbly requests his blessings for success in all activities. The prayer is often recited before beginning any important work.",
+        "benefits": "Removes obstacles, ensures success, provides divine blessings, enhances positive energy, protects from difficulties",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/vakratunda-mahakaya.jpg",
+        "meta": {
+          "type": "Ganesh Prayer",
+          "language": "Sanskrit",
+          "length": "4 lines",
+          "bestTime": "Before starting any important work",
+          "recommendedRepetitions": "1 or 3 times"
+        }
+      },
+      "author": {
+        "name": "Unknown Devotee",
+        "image": "https://example.com/images/unknown-devotee.jpg",
+        "description": "The author of this prayer is unknown, but it has been used by Ganesha devotees for centuries.||It represents the heartfelt devotion of ordinary worshipers seeking Ganesha's blessings.||The prayer beautifully captures Ganesha's majestic form and benevolent nature."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Ganesh Mantra",
+          "coverImage": "https://example.com/images/ganesh-mantra.jpg"
+        }
+      ]
+    },
+    {
+      "id": "surya-mantra",
+      "mantra": {
+        "title": "Surya Mantra",
+        "origin": "Rigveda",
+        "text": "ॐ ह्रां ह्रीं ह्रौं सः सूर्याय नमः",
+        "translation": "Om, I bow to Lord Surya, the sun god",
+        "meaning": "This mantra invokes Surya, the solar deity who represents light, vitality, and consciousness. The bija mantras 'Hram', 'Hrim', and 'Hrum' are associated with Surya's energy. Chanting this mantra connects with the sun's life-giving energy and promotes health, vitality, and spiritual illumination.",
+        "benefits": "Enhances vitality and energy, improves health, promotes success and recognition, removes darkness and ignorance, provides spiritual light",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/surya-mantra.jpg",
+        "meta": {
+          "type": "Solar Mantra",
+          "language": "Sanskrit",
+          "length": "8 syllables",
+          "bestTime": "Sunrise on Sunday",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Vedic Rishis",
+        "image": "https://example.com/images/vedic-rishis.jpg",
+        "description": "Surya mantras were revealed to Vedic sages who worshiped the sun as the source of all life.||The sun was seen as the visible form of the divine that could be perceived by all.||Surya worship was particularly important for health, vitality, and spiritual enlightenment."
+      },
+      "relatedMantras": [
+           {
+              "id":"gayatri-mantra", 
+          "title": "Gayatri Mantra",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcB2w0d5Q0Yp5f3QKv9n4Q2Z4Q6X9Q0Q5Q2Q&s",
+          "description": "Also dedicated to Savitr (solar deity)"
+        },
+        {
+            "id":"", 
+          "title": "Aditya Hridayam",
+          "coverImage": "/icons/sun.png",
+          "description": "Hymn to the Sun from the Ramayana"
+        }
+      ]
+    },
+    {
+      "id": "chandra-mantra",
+      "mantra": {
+        "title": "Chandra Mantra",
+        "origin": "Vedic Tradition",
+        "text": "ॐ श्रां श्रीं श्रौं सः चंद्रमसे नमः",
+        "translation": "Om, I bow to Lord Chandra, the moon god",
+        "meaning": "This mantra invokes Chandra, the lunar deity who represents the mind, emotions, and cooling energy. The bija mantras 'Shram', 'Shrim', and 'Shrum' are associated with Chandra's energy. Chanting this mantra helps to calm the mind, balance emotions, and connect with the receptive, intuitive aspects of consciousness.",
+        "benefits": "Calms mind and emotions, enhances intuition, promotes mental peace, improves relationships, cools heated emotions",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/chandra-mantra.jpg",
+        "meta": {
+          "type": "Lunar Mantra",
+          "language": "Sanskrit",
+          "length": "8 syllables",
+          "bestTime": "Monday evenings or during full moon",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Vedic Rishis",
+        "image": "https://example.com/images/vedic-rishis.jpg",
+        "description": "Chandra mantras were revealed to Vedic sages who understood the moon's influence on the mind and emotions.||The moon was seen as governing the mental and emotional aspects of life.||Chandra worship was important for mental peace, emotional balance, and intuitive development."
+      },
+      "relatedMantras": [
+        {
+          "title": "Soma Mantra",
+          "coverImage": "https://example.com/images/soma-mantra.jpg"
+        }
+      ]
+    },
+    {
+      "id": "mangal-mantra",
+      "mantra": {
+        "title": "Mangal Mantra",
+        "origin": "Vedic Tradition",
+        "text": "ॐ क्रां क्रीं क्रौं सः भौमाय नमः",
+        "translation": "Om, I bow to Lord Mangal (Mars), the celestial commander",
+        "meaning": "This mantra invokes Mangal (Mars), the planet that represents energy, courage, and action. The bija mantras 'Kram', 'Krim', and 'Krum' are associated with Mangal's energy. Chanting this mantra helps to develop courage, overcome obstacles, and take decisive action in life.",
+        "benefits": "Enhances courage and confidence, provides energy for action, removes obstacles, promotes leadership qualities, protects from accidents",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/mangal-mantra.jpg",
+        "meta": {
+          "type": "Planetary Mantra",
+          "language": "Sanskrit",
+          "length": "8 syllables",
+          "bestTime": "Tuesday mornings",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Vedic Rishis",
+        "image": "https://example.com/images/vedic-rishis.jpg",
+        "description": "Planetary mantras were revealed to Vedic sages who understood the influence of celestial bodies on human life.||Mangal (Mars) was seen as governing energy, courage, and action.||Mangal worship was important for developing strength and overcoming challenges."
+      },
+      "relatedMantras": [
+        {
+          "title": "Hanuman Mantra",
+          "coverImage": "https://example.com/images/hanuman-mantra.jpg"
+        }
+      ]
+    },
+    {
+      "id": "budh-mantra",
+      "mantra": {
+        "title": "Budh Mantra",
+        "origin": "Vedic Tradition",
+        "text": "ॐ ब्रां ब्रीं ब्रौं सः बुधाय नमः",
+        "translation": "Om, I bow to Lord Budh (Mercury), the celestial communicator",
+        "meaning": "This mantra invokes Budh (Mercury), the planet that represents intelligence, communication, and business. The bija mantras 'Bram', 'Brim', and 'Brum' are associated with Budh's energy. Chanting this mantra enhances intellectual capacities, communication skills, and business acumen.",
+        "benefits": "Enhances intelligence and learning, improves communication skills, promotes business success, sharpens memory, helps in education",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/budh-mantra.jpg",
+        "meta": {
+          "type": "Planetary Mantra",
+          "language": "Sanskrit",
+          "length": "8 syllables",
+          "bestTime": "Wednesday mornings",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Vedic Rishis",
+        "image": "https://example.com/images/vedic-rishis.jpg",
+        "description": "Budh (Mercury) mantras were revealed to sages who understood the planet's influence on intelligence and communication.||Mercury was seen as governing intellect, speech, and commerce.||Budh worship was important for academic success and effective communication."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Saraswati Mantra",
+          "coverImage": "https://example.com/images/saraswati-mantra.jpg"
+        }
+      ]
+    },
+    {
+      "id": "guru-mantra",
+      "mantra": {
+        "title": "Guru Mantra",
+        "origin": "Vedic Tradition",
+        "text": "ॐ ग्रां ग्रीं ग्रौं सः गुरवे नमः",
+        "translation": "Om, I bow to Lord Guru (Jupiter), the celestial teacher",
+        "meaning": "This mantra invokes Guru (Jupiter), the planet that represents wisdom, expansion, and spirituality. The bija mantras 'Gram', 'Grim', and 'Grum' are associated with Guru's energy. Chanting this mantra brings wisdom, prosperity, spiritual growth, and good fortune.",
+        "benefits": "Brings wisdom and knowledge, promotes prosperity and expansion, enhances spiritual growth, provides good fortune, removes obstacles to progress",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/guru-mantra.jpg",
+        "meta": {
+          "type": "Planetary Mantra",
+          "language": "Sanskrit",
+          "length": "8 syllables",
+          "bestTime": "Thursday mornings",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Vedic Rishis",
+        "image": "https://example.com/images/vedic-rishis.jpg",
+        "description": "Guru (Jupiter) mantras were revealed to sages who understood the planet's influence on wisdom and expansion.||Jupiter was seen as the great benefic, bringing wisdom, prosperity, and spiritual growth.||Guru worship was important for overall success and spiritual development."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Guru Stotram",
+          "coverImage": "https://example.com/images/guru-stotram.jpg"
+        }
+      ]
+    },
+    {
+      "id": "shukra-mantra",
+      "mantra": {
+        "title": "Shukra Mantra",
+        "origin": "Vedic Tradition",
+        "text": "ॐ द्रां द्रीं द्रौं सः शुक्राय नमः",
+        "translation": "Om, I bow to Lord Shukra (Venus), the celestial aesthete",
+        "meaning": "This mantra invokes Shukra (Venus), the planet that represents love, beauty, art, and pleasure. The bija mantras 'Dram', 'Drim', and 'Drum' are associated with Shukra's energy. Chanting this mantra enhances artistic abilities, brings harmony in relationships, and promotes enjoyment of life's pleasures.",
+        "benefits": "Enhances artistic talents, improves relationships, promotes love and harmony, brings material comforts, enhances beauty and charm",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/shukra-mantra.jpg",
+        "meta": {
+          "type": "Planetary Mantra",
+          "language": "Sanskrit",
+          "length": "8 syllables",
+          "bestTime": "Friday mornings",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Vedic Rishis",
+        "image": "https://example.com/images/vedic-rishis.jpg",
+        "description": "Shukra (Venus) mantras were revealed to sages who understood the planet's influence on love and beauty.||Venus was seen as governing relationships, arts, and pleasures.||Shukra worship was important for harmonious relationships and artistic expression."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Lakshmi Mantra",
+          "coverImage": "https://example.com/images/lakshmi-mantra.jpg"
+        }
+      ]
+    },
+    {
+      "id": "shani-mantra",
+      "mantra": {
+        "title": "Shani Mantra",
+        "origin": "Vedic Tradition",
+        "text": "ॐ प्रां प्रीं प्रौं सः शनैश्चराय नमः",
+        "translation": "Om, I bow to Lord Shani (Saturn), the celestial disciplinarian",
+        "meaning": "This mantra invokes Shani (Saturn), the planet that represents discipline, karma, and life lessons. The bija mantras 'Pram', 'Prim', and 'Prum' are associated with Shani's energy. Chanting this mantra helps to accept life's lessons, develop discipline, and work through karmic challenges.",
+        "benefits": "Helps accept life lessons, develops discipline and patience, resolves karmic debts, provides protection from Saturn's harsh effects, promotes spiritual maturity",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/shani-mantra.jpg",
+        "meta": {
+          "type": "Planetary Mantra",
+          "language": "Sanskrit",
+          "length": "8 syllables",
+          "bestTime": "Saturday mornings",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Vedic Rishis",
+        "image": "https://example.com/images/vedic-rishis.jpg",
+        "description": "Shani (Saturn) mantras were revealed to sages who understood the planet's role as the great teacher through hardship.||Saturn was seen as governing karma, discipline, and life lessons.||Shani worship was important for spiritual maturity and working through karmic challenges."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Shani Stotram",
+          "coverImage": "https://example.com/images/shani-stotram.jpg"
+        }
+      ]
+    },
+    {
+      "id": "rahu-mantra",
+      "mantra": {
+        "title": "Rahu Mantra",
+        "origin": "Vedic Tradition",
+        "text": "ॐ भ्रां भ्रीं भ्रौं सः राहवे नमः",
+        "translation": "Om, I bow to Lord Rahu, the north node of the moon",
+        "meaning": "This mantra invokes Rahu, the shadow planet that represents worldly desires, innovation, and unconventional paths. The bija mantras 'Bhram', 'Bhrim', and 'Bhrum' are associated with Rahu's energy. Chanting this mantra helps to harness Rahu's energy for worldly success while avoiding its negative effects.",
+        "benefits": "Helps achieve worldly success, promotes innovation and originality, protects from sudden setbacks, helps overcome fears and obsessions, provides unconventional solutions",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/rahu-mantra.jpg",
+        "meta": {
+          "type": "Planetary Mantra",
+          "language": "Sanskrit",
+          "length": "8 syllables",
+          "bestTime": "Saturday evenings",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Vedic Rishis",
+        "image": "https://example.com/images/vedic-rishis.jpg",
+        "description": "Rahu mantras were revealed to sages who understood this shadow planet's influence on worldly desires.||Rahu was seen as governing innovation, technology, and unconventional success.||Rahu worship was important for harnessing its energy for positive purposes."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Ketu Mantra",
+          "coverImage": "https://example.com/images/ketu-mantra.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ketu-mantra",
+      "mantra": {
+        "title": "Ketu Mantra",
+        "origin": "Vedic Tradition",
+        "text": "ॐ स्रां स्रीं स्रौं सः केतवे नमः",
+        "translation": "Om, I bow to Lord Ketu, the south node of the moon",
+        "meaning": "This mantra invokes Ketu, the shadow planet that represents spirituality, liberation, and past life connections. The bija mantras 'Sram', 'Srim', and 'Srum' are associated with Ketu's energy. Chanting this mantra helps to develop spirituality, overcome attachments, and connect with higher consciousness.",
+        "benefits": "Enhances spirituality and intuition, helps overcome attachments, provides liberation from material bonds, protects from hidden enemies, promotes psychic abilities",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/ketu-mantra.jpg",
+        "meta": {
+          "type": "Planetary Mantra",
+          "language": "Sanskrit",
+          "length": "8 syllables",
+          "bestTime": "Tuesday evenings",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Vedic Rishis",
+        "image": "https://example.com/images/vedic-rishis.jpg",
+        "description": "Ketu mantras were revealed to sages who understood this shadow planet's influence on spirituality.||Ketu was seen as governing liberation, spirituality, and past life connections.||Ketu worship was important for spiritual development and overcoming material attachments."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Rahu Mantra",
+          "coverImage": "https://example.com/images/rahu-mantra.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sandhya-mantra",
+      "mantra": {
+        "title": "Sandhya Mantra",
+        "origin": "Vedic Tradition",
+        "text": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्",
+        "translation": "Om, let us meditate on the glorious light of the Divine Sun, may it illuminate our minds and inspire our intelligence.",
+        "meaning": "The Sandhya Mantra is another name for the Gayatri Mantra, which is traditionally chanted during the Sandhya times (dawn, noon, and dusk). It is considered the most important daily practice for twice-born Hindus. The mantra is a prayer for spiritual illumination and the awakening of higher intelligence.",
+        "benefits": "Purifies mind and body, enhances spiritual awareness, provides divine protection, awakens intelligence, maintains daily spiritual discipline",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/sandhya-mantra.jpg",
+        "meta": {
+          "type": "Daily Practice Mantra",
+          "language": "Sanskrit",
+          "length": "24 syllables",
+          "bestTime": "Dawn, noon, and dusk (Sandhya times)",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Rishi Vishwamitra",
+        "image": "https://example.com/images/vishwamitra.jpg",
+        "description": "The Sandhya Mantra (Gayatri) was revealed to Rishi Vishwamitra.||It is considered the essence of all Vedas and the foundation of daily spiritual practice.||The mantra is traditionally chanted during the transitional periods of the day when spiritual practices are most effective."
+      },
+      "relatedMantras": [
+        {
+            "id":"gayatri-mantra", 
+          "title": "Gayatri Mantra",
+          "coverImage": "https://example.com/images/gayatri.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pratah-smarana-mantra",
+      "mantra": {
+        "title": "Pratah Smarana Mantra",
+        "origin": "Smriti Tradition",
+        "text": "कराग्रे वसते लक्ष्मीः करमध्ये सरस्वती करमूले तु गोविन्दः प्रभाते करदर्शनम्",
+        "translation": "At the tip of the fingers resides Lakshmi, in the middle resides Saraswati, at the base resides Govinda, therefore look at your hands in the morning.",
+        "meaning": "This is a morning remembrance mantra that is chanted while looking at one's palms after waking up. It acknowledges the divine presence in our hands and our capacity to create, acquire wealth, and perform actions. The mantra sets a positive intention for the day and recognizes the divine support available through our abilities.",
+        "benefits": "Sets positive intention for the day, acknowledges divine support, enhances awareness of one's capabilities, brings blessings of Lakshmi, Saraswati and Vishnu, promotes mindful action",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/pratah-smarana-mantra.jpg",
+        "meta": {
+          "type": "Morning Mantra",
+          "language": "Sanskrit",
+          "length": "4 lines",
+          "bestTime": "Immediately after waking up",
+          "recommendedRepetitions":" 1 or 3 times"
+        }
+      },
+      "author": {
+        "name": "Ancient Sages",
+        "image": "https://example.com/images/ancient-sages.jpg",
+        "description": "This mantra comes from the Smriti tradition of daily practices.||It was designed to help people start their day with spiritual awareness.||The mantra beautifully connects everyday actions with divine energies."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Morning Prayers",
+          "coverImage": "https://example.com/images/morning-prayers.jpg"
+        }
+      ]
+    },
+    {
+      "id": "shanti-mantra-om-sahana-vavatu",
+      "mantra": {
+        "title": "Shanti Mantra (Om Sahanavavatu)",
+        "origin": "Taittiriya Upanishad",
+        "text": "ॐ सह नाववतु सह नौ भुनक्तु सह वीर्यं करवावहै तेजस्विनावधीतमस्तु मा विद्विषावहै ॐ शान्तिः शान्तिः शान्तिः",
+        "translation": "Om, may He protect us both together. May He nourish us both together. May we work conjointly with great energy. May our study be vigorous and effective. May we not hate anyone. Om peace, peace, peace.",
+        "meaning": "This Shanti Mantra is traditionally chanted before starting study or teaching sessions. It is a prayer for harmony between teacher and student, for effective learning, and for peace at all levels. The three repetitions of 'Shanti' invoke peace at the physical, divine, and internal levels.",
+        "benefits": "Creates peaceful learning environment, enhances teacher-student harmony, improves concentration and learning, removes obstacles to knowledge, promotes non-hatred and unity",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/shanti-mantra.jpg",
+        "meta": {
+          "type": "Peace Mantra",
+          "language": "Sanskrit",
+          "length": "25 syllables",
+          "bestTime": "Before starting studies or teaching",
+          "recommendedRepetitions": 3
+        }
+      },
+      "author": {
+        "name": "Upanishadic Sages",
+        "image": "https://example.com/images/upanishadic-sages.jpg",
+        "description": "This Shanti Mantra comes from the Taittiriya Upanishad.||It reflects the ancient Indian educational system's emphasis on harmonious teacher-student relationship.||The mantra acknowledges that true learning happens in an atmosphere of peace and mutual respect."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Shanti Mantra (Om Purnamadah)",
+          "coverImage": "https://example.com/images/shanti-mantra2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "guru-mantra-om-shri-gurave-namah",
+      "mantra": {
+        "title": "Guru Mantra (Om Shri Gurave Namah)",
+        "origin": "Tantric Tradition",
+        "text": "ॐ श्री गुरवे नमः",
+        "translation": "Om, I bow to the auspicious guru",
+        "meaning": "This is a general mantra for honoring and connecting with the guru principle. It acknowledges the guru as the remover of darkness and the guide on the spiritual path. The mantra can be used for one's personal guru or for the universal guru energy that guides all seekers.",
+        "benefits": "Connects with guru energy, removes spiritual ignorance, enhances receptivity to teachings, provides guidance on spiritual path, honors the teacher within and without",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/guru-mantra2.jpg",
+        "meta": {
+          "type": "Guru Mantra",
+          "language": "Sanskrit",
+          "length": "5 syllables",
+          "bestTime": "Before spiritual practice or Guru Purnima",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Tantric Sages",
+        "image": "https://example.com/images/tantric-sages.jpg",
+        "description": "This guru mantra comes from the Tantric tradition which places great importance on the guru-disciple relationship.||It represents the acknowledgment of the guru as the doorway to spiritual realization.||The mantra can be adapted for any genuine spiritual teacher."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Guru Stotram",
+          "coverImage": "https://example.com/images/guru-stotram.jpg"
+        }
+      ]
+    },
+    {
+      "id": "mrityunjaya-mantra-alternate",
+      "mantra": {
+        "title": "Mrityunjaya Mantra (Alternate)",
+        "origin": "Rigveda",
+        "text": "ॐ हौं जूं सः ॐ भूर्भुवः स्वः ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् उर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय माऽमृतात् ॐ स्वः भुवः भूः ॐ सः जूं हौं ॐ",
+        "translation": "An extended version of the Mahamrityunjaya Mantra with additional bija mantras for enhanced power",
+        "meaning": "This is an extended version of the Mahamrityunjaya Mantra that includes additional bija (seed) mantras at the beginning and end. These additions enhance the mantra's power and protective qualities. It is used for serious healing purposes and for overcoming life-threatening situations.",
+        "benefits": "Enhanced healing power, stronger protection from life-threatening situations, deeper spiritual transformation, more potent removal of negative karma, accelerated spiritual progress",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/mrityunjaya-alternate.jpg",
+        "meta": {
+          "type": "Healing Mantra",
+          "language": "Sanskrit",
+          "length": "Extended version",
+          "bestTime": "During serious illness or crisis",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Tantric Masters",
+        "image": "https://example.com/images/tantric-masters.jpg",
+        "description": "This extended version was developed by Tantric masters to enhance the power of the original Mahamrityunjaya Mantra.||The additional bija mantras create a more powerful energetic container for the healing vibrations.||It is typically taught by qualified teachers to serious students."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Mahamrityunjaya Mantra",
+          "coverImage": "https://example.com/images/mahamrityunjaya.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dhanvantri-mantra",
+      "mantra": {
+        "title": "Dhanvantri Mantra (Healing)",
+        "origin": "Ayurvedic Tradition",
+        "text": "ॐ नमो भगवते महासुदर्शनाय धन्वन्तरये अमृतकलश हस्ताय सर्वमायविनाशनाय त्रैलोक्यनाथाय श्री महाविष्णवे नमः",
+        "translation": "Om, I bow to Lord Dhanvantari, the great healer who holds the pot of nectar, who destroys all diseases, the lord of the three worlds, the great Vishnu.",
+        "meaning": "This mantra invokes Dhanvantari, the physician of the gods and the father of Ayurveda. He is considered an incarnation of Vishnu who brought Ayurveda to humanity. The mantra is used for healing purposes, for blessing medicines, and for connecting with the divine healing energy.",
+        "benefits": "Promotes healing and recovery, blesses medicines and treatments, connects with divine healing energy, removes diseases and imbalances, supports Ayurvedic practices",
+        "audioLink": "#",
+        "coverImage": "https://example.com/images/dhanvantri-mantra.jpg",
+        "meta": {
+          "type": "Healing Mantra",
+          "language": "Sanskrit",
+          "length": "Long form",
+          "bestTime": "Before taking medicine or Dhanteras",
+          "recommendedRepetitions": 108
+        }
+      },
+      "author": {
+        "name": "Ayurvedic Sages",
+        "image": "https://example.com/images/ayurvedic-sages.jpg",
+        "description": "Dhanvantri mantras come from the Ayurvedic tradition which recognizes the spiritual dimension of healing.||Dhanvantri is worshipped as the divine physician who revealed Ayurveda to humanity.||The mantra acknowledges that true healing comes from connecting with divine healing energy."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Mahamrityunjaya Mantra",
+          "coverImage": "https://example.com/images/mahamrityunjaya.jpg"
+        }
+      ]
+    },
+    {
+      "id": "shanti-mantra",
+      "mantra": {
+        "title": "Shanti Mantra",
+        "origin": "Upanishads",
+        "text": "ॐ सह नाववतु सह नौ भुनक्तु सह वीर्यं करवावहै तेजस्विनावधीतमस्तु मा विद्विषावहै ॐ शान्तिः शान्तिः शान्तिः",
+        "translation": "May He protect us both together. May He nourish us both together. May we work conjointly with great energy. May our study be vigorous and effective. May we not hate anyone. Let there be peace, peace, peace.",
+        "meaning": "The Shanti Mantra is a prayer for peace and harmony. It is traditionally chanted at the beginning and end of spiritual sessions to invoke peace at three levels: physical (adhibhautika), divine (adhidaivika), and internal (adhyatmika). It emphasizes unity, cooperation, and non-hatred in the pursuit of knowledge.",
+        "benefits": "Creates peaceful environment, removes obstacles to learning, promotes harmony in relationships, reduces stress and anxiety, enhances concentration",
+        "audioLink": "#",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6X9Q0Q5Q2Q3Q4Q5Q6Q7Q8Q9Q0Q1Q2Q3Q&s",
+        "meta": {
+          "type": "Peace Mantra",
+          "language": "Sanskrit",
+          "length": "25 syllables",
+          "bestTime": "Before and after study or meditation",
+          "recommendedRepetitions": 3
+        }
+      },
+      "author": {
+        "name": "Ancient Vedic Rishis",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6X9Q0Q5Q2Q3Q4Q5Q6Q7Q8Q9Q0Q1Q2Q3Q&s",
+        "description": "The Shanti Mantra originates from the Upanishads, which are philosophical texts that form the foundation of Hindu spiritual thought.||These mantras were revealed to various Vedic sages during deep states of meditation and were passed down through oral tradition for millennia.||The rishis who composed these peace invocations understood the importance of creating a harmonious environment for spiritual learning and the transmission of knowledge. Their wisdom emphasizes that true learning can only happen in an atmosphere of peace, mutual respect, and absence of conflict."
+      },
+      "relatedMantras": [
+        {
+            "id":"", 
+          "title": "Gayatri Mantra",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcB2w0d5Q0Yp5f3QKv9n4Q2Z4Q6X9Q0Q5Q2Q&s"
+        }]
+    }
+  ]
+}
+
+

@@ -1,0 +1,158 @@
+{
+  "templeName": "Baidyanath",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d7/Baidyanath_Temple_Deoghar.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b3/Baidyanath_Dham_Temple_Complex.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Baidyanath_Jyotirlinga_temple%2C_Deoghar.jpg"
+    ],
+    "quotes": [
+      "Where the great devotee Ravana's penance gave rise to a powerful Jyotirlinga.",
+      "Baidyanath Dham: The divine healer's abode.",
+      "A pilgrimage of penance, power, and healing."
+    ],
+    "quoteIcon": "🕉️"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Baidyanath Jyotirlinga Temple (Baba Dham)" },
+        { "label": "Location", "value": "Deoghar, Jharkhand" },
+        { "label": "Deity", "value": "Lord Shiva as Baidyanath (The Lord of Physicians)" },
+        { "label": "Significance", "value": "One of 12 Jyotirlingas & a Shakti Peeth" },
+        { "label": "Temple Type", "value": "Jyotirlinga + Shakti Peeth" },
+        { "label": "Pilgrimage", "value": "Famous for the month-long Shravani Mela" },
+        { "label": "Best Time to Visit", "value": "October to March (July-August for Shravani Mela)" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Morning Puja", "value": "4:00 AM" },
+        { "label": "Bhog", "value": "12:00 PM" },
+        { "label": "Shringar Puja", "value": "7:30 PM" }
+      ],
+      "note": "During the Shravani Mela, millions of 'Kanwariya' pilgrims carry holy water from the Ganga in Sultanganj and offer it to the lingam.",
+      "quote": {
+        "text": "“The energy of the Kanwariyas during Shravan is infectious; their unwavering devotion transforms the entire region into a spiritual carnival.”",
+        "author": "— An Observer"
+      },
+      "description": "The temple complex contains 22 different temples, with the main temple of Baidyanath at the center."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Baidyanath Temple",
+    "titleIcon": "🕉️",
+    "floatingIcons": ["🔱", "🌿"],
+    "overview": {
+      "title": "Overview",
+      "text": "Baidyanath Jyotirlinga temple, also known as Baba Baidyanath Dham, is a revered temple complex in Deoghar, Jharkhand. It is a unique site where a Jyotirlinga and a Shakti Peeth are co-located. The temple is famous for its Shravani Mela, one of the largest annual pilgrimages in India."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "The most popular legend is associated with the demon king Ravana. Through intense penance, he convinced Shiva to grant him a Jyotirlinga to take to Lanka. Shiva agreed but with a condition that he should not place it on the ground during his journey. The gods, worried, tricked him. Vishnu, disguised as a Brahmin, offered Ravana water, causing him to place the lingam down. It got fixed to the ground at this spot, which came to be known as Deoghar."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "The main temple is a pyramidal structure, 72 feet tall, facing east.",
+        "It is topped with three ascending gold vessels and a 'Panchshula' (five-pronged trident).",
+        "The temple complex is vast and houses 21 other temples dedicated to various deities.",
+        "The Parvati temple is tied to the main Baidyanath temple with sacred red threads (gathbandhan).",
+        "The architecture is simple and ancient, reflecting its long history."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "It is both a Jyotirlinga and a Shakti Peeth, where Sati's heart is believed to have fallen.",
+        "Lord Shiva here is worshipped as a 'Vaidya' or physician, believed to cure devotees of all ailments.",
+        "The Shravani Mela pilgrimage, involving a 108 km trek by Kanwariyas, is a testament to extreme devotion.",
+        "The offering of Ganga water brought from Sultanganj is a key ritual."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "Puranic Age", "event": "The origin is narrated in the Shiva Purana and other scriptures." },
+        { "period": "1596 CE", "event": "The temple is said to have been built by Raja Puran Mal of the Gidhaur dynasty." }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "🙏", "text": "A darshan here is believed to cure diseases and grant good health." },
+        { "icon": "💧", "text": "The 'Kanwar Yatra' is a challenging penance undertaken by devotees to fulfill their wishes." },
+        { "icon": "❤️", "text": "The co-location of the Jyotirlinga and Shakti Peeth signifies the inseparable union of Shiva and Shakti." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "Baba Baidyanath Dham is a center of immense faith, healing, and unparalleled devotion. The powerful rituals and the sheer scale of the Shravani Mela make it one of the most vibrant and energetic pilgrimage sites in India.",
+      "website": "https://babadham.org/"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Shravani Mela – A month-long festival in July-August, the main event of the year.",
+        "Maha Shivratri – Celebrated with great devotion and special pujas.",
+        "Basant Panchami – Marks the beginning of marriage negotiations in the region."
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Trikut Pahar – A scenic hill with a ropeway, offering panoramic views.",
+        "Nandan Pahar – A hilltop amusement park with temples.",
+        "Satsang Ashram – The headquarters of the Satsang movement.",
+        "Basukinath Temple – Another important Shiva temple located about 45 km away."
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Deoghar has excellent road connectivity to major cities like Patna, Ranchi, and Kolkata." },
+      { "title": "By Helicopter", "description": "Not applicable." },
+      { "title": "Nearest Railway", "description": "Deoghar Railway Station (DGHR) and Jasidih Junction (JSME) are the main railheads." },
+      { "title": "Nearest Airport", "description": "Deoghar Airport (DGH) has direct flights to major cities. Patna and Kolkata airports are also options." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "Located in Deoghar in the Santhal Parganas division of the state of Jharkhand, India.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.7932592941324!2d86.69753507513965!3d24.492619128171288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f1162b1519c019%3A0xdb8ce9bf0b62d036!2sShree%20Baba%20Baidyanath%20Jyotirlinga%20Mandir%20Deoghar!5e0!3m2!1sen!2sin!4v1757961540304!5m2!1sen!2sin"
+  },
+  "blogSection": {
+    "title": "Blogs & Experiences",
+    "posts": [
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Baidyanath_Temple_Deoghar.jpg",
+        "title": "The Saffron Tide: Experiencing Shravani Mela",
+        "intro": "A look into the incredible journey and faith of the Kanwariya pilgrims.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Baidyanath_Dham_Temple_Complex.jpg",
+        "title": "The 22 Temples of Deoghar",
+        "intro": "Exploring the spiritual significance of the other shrines within the Baidyanath complex.",
+        "link": "#"
+      }
+    ]
+  }
+}

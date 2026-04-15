@@ -1,0 +1,199 @@
+{
+  "yogaTexts": [
+    {
+      "id": "yoga-sutras-of-patanjali",
+      "book": {
+        "title": "Yoga Sutras of Patanjali (योग सूत्र)",
+        "translator": "Swami Satchidananda",
+        "description": "The Yoga Sutras of Patanjali is a collection of 196 Sanskrit sutras on the theory and practice of yoga. Compiled by the sage Patanjali around 400 CE, it is the foundational text of classical yoga philosophy. The text is organized into four chapters (padas): Samadhi Pada (51 sutras), Sadhana Pada (55 sutras), Vibhuti Pada (56 sutras), and Kaivalya Pada (34 sutras). It outlines the eight limbs of yoga (Ashtanga Yoga) and provides guidance on achieving spiritual enlightenment through yoga practice.",
+        "coverImage": "https://example.com/images/yoga-sutras-cover.jpg",
+        "meta": {
+          "genre": "Yoga Philosophy / Scripture",
+          "language": "Sanskrit/English",
+          "pages": "350",
+          "publisher": "Integral Yoga Publications",
+          "price": "₹850.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Patanjali",
+        "image": "https://example.com/images/patanjali.jpg",
+        "description": "Patanjali is revered as the compiler of the Yoga Sutras.||He is often considered an incarnation of the divine serpent Ananta.||Patanjali is also credited with works on Ayurveda and Sanskrit grammar.||He is traditionally depicted as half-human, half-serpent (naga)."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Yoga Bhashya",
+          "coverImage": "https://example.com/images/yoga-bhashya-cover.jpg",
+          "description": "Classical commentary on Yoga Sutras by Vyasa"
+        },
+        {
+           "id":"",
+          "title": "Four Chapters on Freedom",
+          "coverImage": "https://example.com/images/four-chapters-cover.jpg",
+          "description": "Commentary on Yoga Sutras by Swami Satyananda Saraswati"
+        }
+      ]
+    },
+    {
+      "id": "hatha-yoga-pradipika",
+      "book": {
+        "title": "Hatha Yoga Pradipika (हठ योग प्रदीपिका)",
+        "translator": "Swami Muktibodhananda",
+        "description": "The Hatha Yoga Pradipika is a classical Sanskrit manual on hatha yoga, written by Swami Svatmarama in the 15th century CE. It is one of the three fundamental texts of hatha yoga, along with the Gheranda Samhita and Shiva Samhita. The text consists of four chapters that describe asanas (postures), pranayama (breath control), mudras (gestures), bandhas (locks), and shatkarmas (cleansing practices). It emphasizes the importance of hatha yoga as a preparatory stage for raja yoga.",
+        "coverImage": "https://example.com/images/hatha-yoga-pradipika-cover.jpg",
+        "meta": {
+          "genre": "Yoga Manual / Scripture",
+          "language": "Sanskrit/English",
+          "pages": "280",
+          "publisher": "Bihar School of Yoga",
+          "price": "₹650.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Swami Svatmarama",
+        "image": "https://example.com/images/svatmarama.jpg",
+        "description": "Swami Svatmarama was a 15th-century yogic sage.||He was a disciple of the Natha tradition.||He compiled knowledge from older yoga traditions.||His work synthesized various hatha yoga practices."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Gheranda Samhita",
+          "coverImage": "https://example.com/images/gheranda-samhita-cover.jpg",
+          "description": "Another classical text on hatha yoga"
+        },
+        {
+           "id":"",
+          "title": "Shiva Samhita",
+          "coverImage": "https://example.com/images/shiva-samhita-cover.jpg",
+          "description": "Classical text on yoga and tantra"
+        }
+      ]
+    },
+    {
+      "id": "bhagavad-gita-yoga-sections",
+      "book": {
+        "title": "Bhagavad Gita: Yoga Sections (भगवद्गीता)",
+        "translator": "Swami Sivananda",
+        "description": "The Bhagavad Gita is a 700-verse Hindu scripture that is part of the epic Mahabharata. It presents a synthesis of Hindu ideas about dharma, theistic bhakti, and the yogic paths to moksha. The Gita extensively discusses various yoga paths including Karma Yoga (yoga of action), Bhakti Yoga (yoga of devotion), Jnana Yoga (yoga of knowledge), and Dhyana Yoga (yoga of meditation). Chapters specifically focused on yoga include Chapter 2 (Sankhya Yoga), Chapter 3 (Karma Yoga), Chapter 6 (Dhyana Yoga), and Chapter 12 (Bhakti Yoga).",
+        "coverImage": "https://example.com/images/bhagavad-gita-cover.jpg",
+        "meta": {
+          "genre": "Philosophical Scripture",
+          "language": "Sanskrit/English",
+          "pages": "180",
+          "publisher": "Divine Life Society",
+          "price": "₹300.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Veda Vyasa",
+        "image": "https://example.com/images/vyasa.jpg",
+        "description": "Veda Vyasa is the traditional compiler of the Vedas.||He is credited with composing the Mahabharata.||He is considered one of the seven immortals (Chiranjivis).||He is regarded as a partial incarnation of Lord Vishnu."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Complete Bhagavad Gita",
+          "coverImage": "https://example.com/images/complete-gita-cover.jpg",
+          "description": "Full translation with commentary"
+        },
+        {
+           "id":"",
+          "title": "Gita Press Bhagavad Gita",
+          "coverImage": "https://example.com/images/gita-press-gita-cover.jpg",
+          "description": "Hindi translation with original Sanskrit"
+        }
+      ]
+    },
+    {
+      "id": "gheranda-samhita",
+      "book": {
+        "title": "Gheranda Samhita (घेरंड संहिता)",
+        "translator": "James Mallinson",
+        "description": "The Gheranda Samhita is one of the three classic texts of hatha yoga, along with the Hatha Yoga Pradipika and Shiva Samhita. It is written as a dialogue between the sage Gheranda and his disciple Chandakapali. The text presents a systematic approach to yoga practice through seven limbs (sapta sadhana): Shatkarma (purification), Asana (posture), Mudra (seal), Pratyahara (withdrawal), Pranayama (breath control), Dhyana (meditation), and Samadhi (absorption). It describes 32 asanas and 25 mudras among other practices.",
+        "coverImage": "https://example.com/images/gheranda-samhita-cover.jpg",
+        "meta": {
+          "genre": "Yoga Manual / Scripture",
+          "language": "Sanskrit/English",
+          "pages": "220",
+          "publisher": "YogaVidya.com",
+          "price": "₹550.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Sage Gheranda",
+        "image": "https://example.com/images/gheranda.jpg",
+        "description": "Gheranda was a sage from Bengal.||He taught a seven-fold yoga system.||His teachings emphasize physical purification.||He was a master of hatha yoga techniques."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Hatha Yoga Pradipika",
+          "coverImage": "https://example.com/images/hatha-yoga-pradipika-cover.jpg",
+          "description": "Classical text on hatha yoga"
+        },
+        {
+           "id":"",
+          "title": "Shiva Samhita",
+          "coverImage": "https://example.com/images/shiva-samhita-cover.jpg",
+          "description": "Comprehensive text on yoga and tantra"
+        }
+      ]
+    },
+    {
+      "id": "shiva-samhita",
+      "book": {
+        "title": "Shiva Samhita (शिव संहिता)",
+        "translator": "Rai Bahadur Srisa Chandra Vasu",
+        "description": "The Shiva Samhita is a Sanskrit text on yoga, written by an unknown author in the 17th-18th century. It is one of the three major classical treatises on hatha yoga. The text is presented as a discourse from Lord Shiva to his consort Parvati. It covers various aspects of yoga including philosophy, asanas, pranayama, mudras, meditation, and tantra. Unlike other texts, it emphasizes that liberation is possible for all, regardless of caste, creed, or gender, through the practice of yoga.",
+        "coverImage": "https://example.com/images/shiva-samhita-cover.jpg",
+        "meta": {
+          "genre": "Yoga/Tantra Scripture",
+          "language": "Sanskrit/English",
+          "pages": "190",
+          "publisher": "Sri Satguru Publications",
+          "price": "₹500.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Unknown (Attributed to Shiva)",
+        "image": "https://example.com/images/shiva-yogeshwara.jpg",
+        "description": "The text is presented as teachings of Lord Shiva.||Shiva is considered Adiyogi, the first yogi.||He is the supreme authority on all yoga practices.||The actual compiler of the text remains unknown."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Hatha Yoga Pradipika",
+          "coverImage": "https://example.com/images/hatha-yoga-pradipika-cover.jpg",
+          "description": "Classical text on hatha yoga"
+        },
+        {
+           "id":"",
+          "title": "Gheranda Samhita",
+          "coverImage": "https://example.com/images/gheranda-samhita-cover.jpg",
+          "description": "Comprehensive manual on hatha yoga"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+/* --- Font Import --- */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+/* --- Keyframe Animations --- */
+@keyframes goku-shimmer-anim {
+    0% { transform: translateX(-150%) skewX(-30deg); }
+    100% { transform: translateX(150%) skewX(-30deg); }
+}
+
+/* --- Hero Section Styles --- */
+.goku-hero {
+    width: 100vw;
+    height: 40vh;
+    margin: 3rem auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    background-image: url('src/assets/blog section/bg.jpg');
+    background-color: #2d3748;
+    background-size: cover;
+    background-position: center;
+}
+
+.goku-hero__overlay {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    z-index: 1;
+}
+
+.goku-hero__content-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    position: relative;
+    z-index: 2;
+}
+
+.goku-hero__heading {
+    font-family: 'Playfair Display', serif;
+    font-size: 3.8rem;
+    font-weight: 700;
+    color: #ffffff;
+    text-shadow: 0 2px 15px rgba(0, 0, 0, 0.5);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Shimmer effect implementation */
+.goku-hero__heading::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(90deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.3) 50%,
+    rgba(255, 255, 255, 0) 100%
+    );
+    animation: goku-shimmer-anim 4s ease-in-out infinite;
+}
+
+.goku-hero__homelink {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(4px);
+    padding: 8px 24px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.goku-hero__homelink:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+    .goku-hero { height: 35vh; }
+    .goku-hero__heading { font-size: 2.8rem; }
+}

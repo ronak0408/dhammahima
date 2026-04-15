@@ -1,0 +1,160 @@
+{
+  "templeName": "Mahakaleshwar",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/76/Mahakaleshwar_Jyotirlinga_Ujjain_Madhya_Pradesh.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ujjain_Mahakaleshwar_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mahakaleshwar_Temple_Ujjain.jpg"
+    ],
+    "quotes": [
+      "Where time itself bows down to the Lord of Eternity.",
+      "Mahakaleshwar: The fierce and benevolent ruler of time and death.",
+      "Experience the divine energy of the Bhasma Aarti, a ritual like no other."
+    ],
+    "quoteIcon": "🕉️"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Mahakaleshwar Jyotirlinga" },
+        { "label": "Location", "value": "Ujjain, Madhya Pradesh" },
+        { "label": "Deity", "value": "Lord Shiva as Mahakaleshwar (The Lord of Time)" },
+        { "label": "Significance", "value": "The only south-facing (Dakshinamurti) Jyotirlinga" },
+        { "label": "Temple Type", "value": "Swayambhu Jyotirlinga" },
+        { "label": "River", "value": "On the banks of the Shipra River" },
+        { "label": "Best Time to Visit", "value": "October to March" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Bhasma Aarti", "value": "4:00 AM - 6:00 AM" },
+        { "label": "Morning Puja", "value": "7:30 AM - 8:15 AM" },
+        { "label": "Evening Aarti", "value": "6:30 PM - 7:00 PM" },
+        { "label": "Shayan Aarti", "value": "10:30 PM" }
+      ],
+      "note": "The Bhasma Aarti (ash ritual) is a world-famous, once-in-a-lifetime experience. Advance booking is mandatory.",
+      "quote": {
+        "text": "“Witnessing the Bhasma Aarti is to witness the cycle of life and death, a powerful reminder of Shiva's cosmic role.”",
+        "author": "— A Spiritual Seeker"
+      },
+      "description": "Mahakaleshwar is a 'Swayambhu' lingam, believed to have self-manifested from the earth, deriving its power from within."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Mahakaleshwar Temple",
+    "titleIcon": "🕉️",
+    "floatingIcons": ["🔱", "⏳"],
+    "overview": {
+      "title": "Overview",
+      "text": "Mahakaleshwar Jyotirlinga in the ancient city of Ujjain is one of the most sacred abodes of Shiva. It is unique as it is the only 'Dakshinamurti' (south-facing) Jyotirlinga, and it is renowned for its powerful Bhasma Aarti ritual."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "According to legend, a demon named Dushana terrorized the residents of Avanti (Ujjain). The devotees of Shiva prayed for help. Shiva appeared from the ground in his Mahakala form and vanquished the demon. At the request of the devotees, he agreed to reside here permanently as Mahakaleshwar."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "The temple is a three-storied structure. The lingams of Mahakaleshwar, Omkareshwar, and Nagchandreshwar are installed in the lowest, middle, and uppermost parts, respectively.",
+        "The main sanctum is located below the ground level.",
+        "It features a majestic shikhara (spire) that soars into the sky, adorned with intricate carvings.",
+        "The temple complex includes a large sacred pool called Koti Tirtha, believed to contain celestial water.",
+        "The current structure is a blend of Bhumija, Chalukya, and Maratha styles of architecture."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "Being the only Dakshinamurti Jyotirlinga, it is believed that a darshan here protects one from unnatural death.",
+        "Ujjain is one of the seven holy cities (Sapta Puri) for Hindus.",
+        "The Bhasma Aarti, where the lingam is smeared with fresh funeral pyre ash, symbolizes the detachment of the soul from the body.",
+        "The Tropic of Cancer is believed to pass directly through the main sanctum of the temple."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "Puranic Times", "event": "Mentioned in various Puranas, establishing its ancient origins." },
+        { "period": "1235 CE", "event": "The temple complex was destroyed by Sultan Iltutmish." },
+        { "period": "1734 CE", "event": "The present structure was rebuilt by the Maratha general Ranoji Scindia." }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "👑", "text": "It is believed that no king can stay overnight in Ujjain, as Mahakaleshwar is considered the sole ruler of the city." },
+        { "icon": "🔥", "text": "The lamp (Nanda Deep) inside the sanctum is said to be burning perpetually." },
+        { "icon": "🐍", "text": "The Nagchandreshwar shrine on the third floor is open for darshan only once a year, on Nag Panchami." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "A pilgrimage to Mahakaleshwar is a profound experience of time, divinity, and cosmic cycles. The powerful vibrations of the Bhasma Aarti and the spiritual aura of Ujjain make it an unforgettable journey for any devotee.",
+      "website": "https://shrimahakaleshwar.com/"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Maha Shivratri – Celebrated with unmatched zeal and night-long pujas.",
+        "Nitya Yatra – A daily procession of the deity.",
+        "Sawari – A grand procession of the Lord during the month of Shravan."
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Harsiddhi Temple – A revered Shakti Peeth in Ujjain.",
+        "Kal Bhairav Temple – A unique temple where liquor is offered to the deity.",
+        "Ram Ghat – A famous bathing ghat on the Shipra River, a site for the Kumbh Mela.",
+        "Vedh Shala (Jantar Mantar) – An ancient astronomical observatory."
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Ujjain is well-connected by road to major cities in Madhya Pradesh and neighboring states." },
+      { "title": "By Helicopter", "description": "Not a common mode of transport for this pilgrimage." },
+      { "title": "Nearest Railway", "description": "Ujjain Junction Railway Station (UJN) is a major station within the city." },
+      { "title": "Nearest Airport", "description": "Devi Ahilya Bai Holkar Airport, Indore (IDR), is the nearest airport, about 55 km away." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "Located in the ancient and holy city of Ujjain in Madhya Pradesh, beside the Rudra Sagar lake.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.680344998348!2d75.7668157750969!3d23.181863979062445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3963743638ffffff%3A0x3024e4d1bd13cc22!2sShri%20Mahakaleshwar%20Jyotirlinga%20Temple!5e0!3m2!1sen!2sin!4v1757960828608!5m2!1sen!2sin"
+  },
+  "blogSection": {
+    "title": "Blogs & Experiences",
+    "posts": [
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mahakaleshwar_Jyotirlinga_Ujjain_Madhya_Pradesh.jpg",
+        "title": "The Mystical Bhasma Aarti",
+        "intro": "An early morning experience that awakens the senses and the soul.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kumbh_Mela_Ujjain.jpg",
+        "title": "Exploring the Sacred City of Ujjain",
+        "intro": "A walk through the historic temples and ghats of this Sapta Puri.",
+        "link": "#"
+      }
+    ]
+  }
+}

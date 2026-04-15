@@ -1,0 +1,172 @@
+{
+  "templeName": "Badrinath",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e1/Badrinath_Temple_in_October.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ef/Badrinath_Full_View.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Badrinath_mandir.jpg"
+    ],
+    "quotes": [
+      "“Om Namo Bhagavate Vasudevaya” – In the heart of the Himalayas, devotion finds its eternal home.",
+      "Badrinath: Where the divine presence of Vishnu blesses the soul.",
+      "The sacred abode of Lord Badrinarayan, a journey of faith and liberation."
+    ],
+    "quoteIcon": "🙏"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Badrinath or Badrinarayan Temple" },
+        { "label": "Location", "value": "Badrinath, Chamoli district, Uttarakhand" },
+        { "label": "Deity", "value": "Lord Vishnu as Badrinarayan" },
+        { "label": "Significance", "value": "One of the Char Dham + 108 Divya Desams" },
+        { "label": "Temple Type", "value": "Vaishnavite Shrine + Himalayan Pilgrimage" },
+        { "label": "Altitude", "value": "3,133 meters (10,279 ft)" },
+        { "label": "Best Time to Visit", "value": "May – October (temple closed in winter)" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Maha Abhishek", "value": "4:30 AM" },
+        { "label": "Abhishek Puja", "value": "7:00 AM – 8:00 AM" },
+        { "label": "Geet Govind Path", "value": "6:00 PM" },
+        { "label": "Evening Aarti", "value": "7:00 PM – 8:00 PM" }
+      ],
+      "note": "Pilgrims can take a holy dip in the Tapt Kund (natural hot spring) before entering the temple. Special pujas can be booked online.",
+      "quote": {
+        "text": "“At Badrinath, the serene chants and the warmth of the Tapt Kund wash away sins, leaving the heart pure and devoted to Lord Vishnu.”",
+        "author": "— A Pilgrim's Reflection"
+      },
+      "description": "The temple rituals are performed by priests from the Nambudiri Brahmin community. The atmosphere is filled with devotion, highlighted by the continuous recitation of Vedic hymns and scriptures."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Badrinath Temple",
+    "titleIcon": "🙏",
+    "floatingIcons": ["🕉️", "🌸"],
+    "overview": {
+      "title": "Overview",
+      "text": "Badrinath Temple, located on the banks of the Alaknanda River, is a sacred Hindu shrine dedicated to Lord Vishnu. It is one of the four key sites in the Char Dham pilgrimage and is revered as one of the 108 Divya Desams, holy shrines for Vaishnavites."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "According to legend, Lord Vishnu sought a serene place for meditation. He found this spot, but it was exposed to harsh weather. To protect him, his consort Goddess Lakshmi took the form of a giant Badri (jujube) tree, sheltering him. Pleased by her devotion, Vishnu named the place Badrika Ashram, and he is worshipped here as Badrinath, the lord of the Badri forest."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "Features a brightly painted facade with a tall arched gateway, a classic example of Garhwali wooden architecture.",
+        "Located on the banks of the Alaknanda River, with the Tapt Kund, a natural hot water spring, situated just below.",
+        "The main sanctum (Garbhagriha) houses a 1-meter tall black stone (saligram) image of Lord Badrinarayan.",
+        "The temple has a conical roof, about 15 meters tall, topped with a small cupola and a golden gilt.",
+        "The current structure was established by Adi Shankaracharya in the 8th century."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "The foremost of the Char Dham pilgrimage sites, considered essential for attaining salvation (moksha).",
+        "One of the 108 Divya Desams, the holy abodes of Lord Vishnu.",
+        "The area is also known as 'Bhooloka Vaikuntha,' meaning 'Vaikuntha (heavenly abode of Vishnu) on Earth'.",
+        "The deity is believed to be in a meditative posture, signifying peace and spiritual welfare for all humanity.",
+        "During winter, the idol is moved to the Narsimha Temple in Joshimath for worship."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "Vedic Era", "event": "Mentioned in Vedic scriptures and Puranas like the Bhagavata Purana." },
+        { "period": "8th Century CE", "event": "Re-established as a major pilgrimage site by Adi Shankaracharya." },
+        { "period": "17th Century", "event": "Renovated and expanded by the Kings of Garhwal." },
+        { "period": "20th Century", "event": "Became highly accessible with modern road construction." },
+        { "period": "Present", "event": "A primary pilgrimage destination attracting millions of devotees annually." }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "💧", "text": "Bathing in the Tapt Kund is believed to have medicinal and spiritual healing properties, cleansing one's sins." },
+        { "icon": "👣", "text": "The nearby Charanpaduka rock is believed to bear the footprints of Lord Vishnu." },
+        { "icon": "🙏", "text": "It is believed that the sages Nara and Narayana, dual incarnations of Vishnu, still meditate in the surrounding mountains." },
+        { "icon": "🕉️", "text": "In winter, the chief priest (Rawal) relocates to Joshimath to continue the worship of the deity." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "Badrinath is more than a temple; it is a symbol of unwavering faith and spiritual solace. A pilgrimage to this divine abode offers a profound experience of peace, devotion, and a deep connection with Lord Vishnu in his most serene form.",
+      "website": "https://badrinath-kedarnath.gov.in"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Mata Murti Ka Mela – Celebrates the descent of the river Ganga.",
+        "Badri Kedar Utsav – A cultural and religious festival celebrated in both Badrinath and Kedarnath.",
+        "Krishna Janmashtami – Lord Krishna's birthday is celebrated with special pujas.",
+        "Temple Opening & Closing Ceremonies – Grand ceremonies mark the opening (April/May) and closing (Oct/Nov) of the temple."
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Mana Village – The last Indian village before the Tibet/China border.",
+        "Tapt Kund & Narad Kund – Natural hot and cold water springs.",
+        "Neelkanth Peak – A majestic snow-covered peak forming a stunning backdrop.",
+        "Vasudhara Falls – A scenic waterfall requiring a short trek from Mana.",
+        "Charanpaduka – A rock believed to have the footprints of Lord Vishnu."
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Badrinath is well-connected by motorable roads. Buses and taxis are available from major Uttarakhand towns like Rishikesh and Haridwar." },
+      { "title": "By Helicopter", "description": "Helicopter services are available from Dehradun and Phata to Badrinath, especially during the pilgrimage season." },
+      { "title": "Nearest Railway", "description": "Rishikesh Railway Station (approx. 295 km away)." },
+      { "title": "Nearest Airport", "description": "Jolly Grant Airport, Dehradun (approx. 314 km away)." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "At 3,133m in Uttarakhand’s Chamoli district, situated between the Nar and Narayana mountain ranges.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.839352920634!2d79.4913349151291!3d30.74473698162283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39a78e9c70839963%3A0x2388aaa63dd31925!2sBadrinath%20Temple!5e0!3m2!1sen!2sin!4v1663189388145!5m2!1sen!2sin"
+  },
+  "blogSection": {
+    "title": "Blogs & Experiences",
+    "posts": [
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tapt_Kund_Badrinath.jpg",
+        "title": "A Dip in Tapt Kund",
+        "intro": "The spiritual and physical warmth of the sacred hot springs.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_last_Indian_village%2C_Mana%2C_Uttarakhand.jpg",
+        "title": "Journey to Mana Village",
+        "intro": "Exploring the last village on the Indian border near Badrinath.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Alaknanda_River_at_Badrinath_ dham.jpg",
+        "title": "Along the Alaknanda",
+        "intro": "The serene beauty and power of the river that guards the temple.",
+        "link": "#"
+      }
+    ]
+  }
+}

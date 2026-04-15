@@ -1,0 +1,160 @@
+{
+  "smritis": [
+    {
+      "id": "manusmriti",
+      "book": {
+        "title": "Manusmriti (मनुस्मृति)",
+        "translator": "Dr. Ganganath Jha",
+        "description": "The Manusmriti, also known as the Laws of Manu, is one of the most authoritative and ancient Hindu legal texts. Composed around 200 BCE to 200 CE, it provides a comprehensive code of conduct governing individual, social, and religious life. The text is presented as a discourse given by the sage Manu to a group of seers. It covers diverse topics including creation myths, duties of different varnas (social classes), stages of life (ashramas), personal laws, royal duties, judicial administration, and moral precepts. While historically influential in shaping Hindu society, some of its social prescriptions have been subject to criticism and reform in modern times.",
+        "coverImage": "https://example.com/images/manusmriti-cover.jpg",
+        "meta": {
+          "genre": "Dharma Shastra / Legal Text",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "600",
+          "publisher": "Motilal Banarsidass",
+          "price": "₹850.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Manu",
+        "image": "https://example.com/images/maharishi-manu.jpg",
+        "description": "Manu is considered the progenitor of humanity in Hindu tradition and the first lawgiver.||According to mythology, he was saved by Lord Vishnu during the great deluge and later became the author of this foundational legal text.||Manu is not considered a historical individual but rather a symbolic representative of the archetypal lawgiver whose teachings were compiled by various sages over centuries."
+      },
+      "relatedBooks": [
+        {
+          "id":"",
+          "title": "Yajnavalkya Smriti",
+          "coverImage": "https://example.com/images/yajnavalkya-smriti-cover.jpg",
+          "description": "Another important legal text often considered more progressive than Manusmriti"
+        },
+        {
+           "id":"",
+          "title": "Arthashastra",
+          "coverImage": "https://example.com/images/arthashastra-cover.jpg",
+          "description": "Ancient Indian treatise on statecraft, economic policy and military strategy"
+        }
+      ]
+    },
+    {
+      "id": "yajnavalkya-smriti",
+      "book": {
+        "title": "Yajnavalkya Smriti (याज्ञवल्क्य स्मृति)",
+        "translator": "Dr. Umesh Chandra Pandey",
+        "description": "The Yajnavalkya Smriti is one of the three most important Hindu legal texts alongside Manusmriti and Narada Smriti. Composed between 3rd-5th century CE, it is considered more concise and systematic than Manusmriti. The text is divided into three sections: Achara (right conduct), Vyavahara (judicial process), and Prayaschitta (expiation). It shows significant developments in legal thought, including more progressive attitudes toward women's rights and a more organized judicial system. The text is presented as a dialogue between the sage Yajnavalkya and his disciples and has been highly influential in the development of Hindu law.",
+        "coverImage": "https://example.com/images/yajnavalkya-smriti-cover.jpg",
+        "meta": {
+          "genre": "Dharma Shastra / Legal Text",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "450",
+          "publisher": "Chaukhamba Sanskrit Pratishthan",
+          "price": "₹650.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Yajnavalkya",
+        "image": "https://example.com/images/yajnavalkya-portrait.jpg",
+        "description": "Yajnavalkya was one of the greatest Vedic sages, featured prominently in the Brihadaranyaka Upanishad.||He was known for his brilliant philosophical insights and debates.||While the historical authorship is uncertain, the text is attributed to him to lend it authority and connect it to the Upanishadic tradition of wisdom."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Mitakshara",
+          "coverImage": "https://example.com/images/mitakshara-cover.jpg",
+          "description": "Vijnaneshwara's famous commentary on Yajnavalkya Smriti"
+        },
+        {
+           "id":"",
+          "title": "Dayabhaga",
+          "coverImage": "https://example.com/images/dayabhaga-cover.jpg",
+          "description": "Jimutavahana's legal treatise that formed the basis of Bengal school of Hindu law"
+        }
+      ]
+    },
+    {
+      "id": "narada-smriti",
+      "book": {
+        "title": "Narada Smriti (नारद स्मृति)",
+        "translator": "Dr. Richard W. Lariviere",
+        "description": "The Narada Smriti is a specialized legal text focusing primarily on judicial procedure and litigation. Composed around 400-500 CE, it is one of the first Indian texts devoted exclusively to legal process rather than dharma in general. The text provides detailed rules of evidence, witness testimony, court procedure, and types of legal disputes. It is particularly notable for its systematic classification of 132 types of courts and its sophisticated understanding of judicial administration. The text is presented as a dialogue between the divine sage Narada and the sages at Badarikashrama and reflects a highly developed legal system.",
+        "coverImage": "https://example.com/images/narada-smriti-cover.jpg",
+        "meta": {
+          "genre": "Legal Treatise / Judicial Manual",
+          "language": "Sanskrit/English",
+          "pages": "350",
+          "publisher": "University of Pennsylvania Press",
+          "price": "₹720.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Narada",
+        "image": "https://example.com/images/narada-muni.jpg",
+        "description": "Narada is a divine sage and messenger in Hindu mythology who appears in many Puranas and epics.||He is known as a traveling musician and storyteller who carries information between different worlds.||The attribution of this legal text to Narada is likely symbolic, representing the divine origin of legal wisdom and the importance of justice in cosmic order."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Judicial System in Ancient India",
+          "coverImage": "https://example.com/images/judicial-system-cover.jpg",
+          "description": "Study of legal procedures and courts in ancient Indian texts"
+        },
+        {
+           "id":"",
+          "title": "History of Dharmashastra",
+          "coverImage": "https://example.com/images/dharmashastra-history-cover.jpg",
+          "description": "P.V. Kane's comprehensive study of Indian legal tradition"
+        }
+      ]
+    },
+    {
+      "id": "parashara-smriti",
+      "book": {
+        "title": "Parashara Smriti (पराशर स्मृति)",
+        "translator": "Dr. Chintaharan Chakravarti",
+        "description": "The Parashara Smriti is an important legal text traditionally attributed to the sage Parashara. Composed around 400-600 CE, it is particularly significant for its focus on the Kali Yuga (the current age of conflict) and the adaptations of dharma appropriate for this age. The text is known for its relatively progressive attitudes, especially regarding women's rights and the status of Shudras. It provides guidelines for various aspects of personal and social conduct, including marriage, inheritance, and religious observances. The text positions itself as a modification of earlier laws to suit the deteriorated conditions of the Kali age.",
+        "coverImage": "https://example.com/images/parashara-smriti-cover.jpg",
+        "meta": {
+          "genre": "Dharma Shastra / Legal Text",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "400",
+          "publisher": "Eastern Book Linkers",
+          "price": "₹580.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Parashara",
+        "image": "https://example.com/images/parashara-rishi.jpg",
+        "description": "Parashara was a revered Vedic sage, the grandson of Vasishtha and father of Vyasa.||He is credited with authoring several texts including the Parashara Smriti and works on astronomy and astrology.||According to tradition, he composed this text specifically for the Kali Yuga, recognizing that social conditions required modified legal principles."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Vishnu Smriti",
+          "coverImage": "https://example.com/images/vishnu-smriti-cover.jpg",
+          "description": "Another important Dharmashastra text focusing on Vaishnava traditions"
+        },
+        {
+           "id":"",
+          "title": "Kali Yuga: Concepts and Practices",
+          "coverImage": "https://example.com/images/kali-yuga-cover.jpg",
+          "description": "Study of Hindu conceptions of time and social ethics in the current age"
+        }
+      ]
+    }
+  ]
+}

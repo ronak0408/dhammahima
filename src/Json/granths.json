@@ -1,0 +1,238 @@
+{
+  "granthas": [
+    {
+      "id": "ramayana",
+      "book": {
+        "title": "Ramayana (रामायण)",
+        "translator": "Bibek Debroy",
+        "description": "The Ramayana is one of the two great epics of ancient India, composed by the sage Valmiki in Sanskrit. It narrates the life of Prince Rama of Ayodhya, his exile, the abduction of his wife Sita by the demon king Ravana, and his eventual victory with the help of an army of monkeys. More than just an epic story, it represents the ideals of dharma, righteousness, and duty. The text consists of 24,000 verses divided into seven books (kandas) and is considered the adi-kavya (first poem) in Sanskrit literature. It has profoundly influenced Indian culture, art, and values for millennia.",
+        "coverImage": "https://example.com/images/ramayana-cover.jpg",
+        "meta": {
+          "genre": "Epic Poetry / Itihasa",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "1200",
+          "publisher": "Penguin Classics",
+          "price": "₹999.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Valmiki",
+        "image": "https://example.com/images/valmiki.jpg",
+        "description": "Valmiki is celebrated as the first poet (adi kavi) in Sanskrit literature.||According to tradition, he was a robber who transformed into a sage through divine intervention.||He composed the Ramayana after witnessing the sorrow of a female bird whose mate was killed by a hunter, which inspired his first poetic utterance.||He provided shelter to Sita during her exile and taught the Ramayana to Rama's sons, Lava and Kusha."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Uttara Ramayana",
+          "coverImage": "https://example.com/images/uttara-ramayana-cover.jpg",
+          "description": "The later section of Ramayana dealing with events after Rama's coronation"
+        },
+        {
+           "id":"",
+          "title": "Ramcharitmanas",
+          "coverImage": "https://example.com/images/ramcharitmanas-cover.jpg",
+          "description": "Tulsidas's Awadhi version of the Ramayana"
+        }
+      ]
+    },
+    {
+      "id": "guru-granth-sahib",
+      "book": {
+        "title": "Guru Granth Sahib (गुरु ग्रंथ साहिब)",
+        "translator": "Various Scholars",
+        "description": "The Guru Granth Sahib is the central religious scripture of Sikhism, regarded by Sikhs as the final, sovereign, and eternal living Guru. It contains hymns and writings of the first five Sikh Gurus, along with contributions from several Hindu and Muslim saints. The text emphasizes devotion to one God, equality of all humans, and the importance of selfless service. It was compiled by the fifth Sikh Guru, Guru Arjan Dev, in 1604 and later expanded by the tenth Guru, Guru Gobind Singh.",
+        "coverImage": "https://example.com/images/guru-granth-sahib-cover.jpg",
+        "meta": {
+          "genre": "Religious Scripture",
+          "language": "Gurmukhi/Punjabi",
+          "pages": "1430",
+          "publisher": "SGPC Publications",
+          "price": "₹2,499.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Sikh Gurus and Saints",
+        "image": "https://example.com/images/sikh-gurus.jpg",
+        "description": "The Guru Granth Sahib contains compositions of six Sikh Gurus and 15 Bhagats of the Sant, Sufi, and Bhakti traditions.||Guru Nanak Dev (1469-1539) founded Sikhism and contributed 974 hymns.||Guru Arjan Dev (1563-1606) compiled the first version of the Adi Granth.||Guru Gobind Singh (1666-1708) declared the Granth as the eternal Guru of Sikhs."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Dasm Granth",
+          "coverImage": "https://example.com/images/dasam-granth-cover.jpg",
+          "description": "Collection of writings attributed to Guru Gobind Singh"
+        },
+        {
+           "id":"",
+          "title": "Sukhmani Sahib",
+          "coverImage": "https://example.com/images/sukhmani-sahib-cover.jpg",
+          "description": "Prayer of peace composed by Guru Arjan Dev"
+        }
+      ]
+    },
+    {
+      "id": "ramcharitmanas",
+      "book": {
+        "title": "Ramcharitmanas (रामचरितमानस)",
+        "translator": "Gita Press",
+        "description": "The Ramcharitmanas is an epic poem in the Awadhi language composed by the 16th-century Indian bhakti poet Goswami Tulsidas. It retells the story of Lord Rama in a vernacular dialect, making it accessible to the common people. The work is divided into seven chapters (kands) and is celebrated for its devotional tone and poetic beauty. It is one of the most popular and influential versions of the Ramayana in North India and is often recited in Hindu households and temples.",
+        "coverImage": "https://example.com/images/ramcharitmanas-cover.jpg",
+        "meta": {
+          "genre": "Epic Poetry / Bhakti Literature",
+          "language": "Awadhi/Hindi",
+          "pages": "980",
+          "publisher": "Gita Press",
+          "price": "₹650.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Goswami Tulsidas",
+        "image": "https://example.com/images/tulsidas.jpg",
+        "description": "Tulsidas (1532-1623) was a Hindu Vaishnava saint and poet, renowned for his devotion to Lord Rama.||He is considered to be an incarnation of Valmiki, the author of the original Ramayana.||According to tradition, he composed Ramcharitmanas in Awadhi on the advice of Lord Shiva.||His other works include Vinaya Patrika, Kavitavali, and Hanuman Chalisa."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Vinaya Patrika",
+          "coverImage": "https://example.com/images/vinaya-patrika-cover.jpg",
+          "description": "Collection of devotional hymns by Tulsidas"
+        },
+        {
+           "id":"",
+          "title": "Hanuman Chalisa",
+          "coverImage": "https://example.com/images/hanuman-chalisa-cover.jpg",
+          "description": "Forty-verse hymn in praise of Hanuman by Tulsidas"
+        }
+      ]
+    },
+    {
+      "id": "hanuman-chalisa",
+      "book": {
+        "title": "Hanuman Chalisa (हनुमान चालीसा)",
+        "translator": "Multiple Editions",
+        "description": "The Hanuman Chalisa is a Hindu devotional hymn (stotra) addressed to Lord Hanuman. It was written by Tulsidas in the Awadhi language and is his most famous text after the Ramcharitmanas. The word 'chalisa' means 'forty' in Hindi, as the Hanuman Chalisa has 40 verses (excluding the couplets at the beginning and end). It is believed that reciting the Chalisa with devotion brings Hanuman's protection and blessings, removing obstacles and difficulties from one's life.",
+        "coverImage": "https://example.com/images/hanuman-chalisa-cover.jpg",
+        "meta": {
+          "genre": "Devotional Hymn / Stotra",
+          "language": "Awadhi/Hindi",
+          "pages": "48",
+          "publisher": "Gita Press",
+          "price": "₹50.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Goswami Tulsidas",
+        "image": "https://example.com/images/tulsidas.jpg",
+        "description": "Tulsidas (1532-1623) was a Hindu Vaishnava saint and poet, renowned for his devotion to Lord Rama.||He composed Hanuman Chalisa while imprisoned by the Mughal emperor Akbar.||According to legend, an army of monkeys descended upon the prison and freed Tulsidas after he completed the Chalisa.||The hymn is recited daily by millions of Hindus worldwide for protection and blessings."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Sankat Mochan Hanuman Ashtak",
+          "coverImage": "https://example.com/images/hanuman-ashtak-cover.jpg",
+          "description": "Eight-verse hymn for removing obstacles by Tulsidas"
+        },
+        {
+           "id":"",
+          "title": "Bajrang Baan",
+          "coverImage": "https://example.com/images/bajrang-baan-cover.jpg",
+          "description": "Powerful prayer to Hanuman for protection"
+        }
+      ]
+    },
+    {
+      "id": "ashtavakra-gita",
+      "book": {
+        "title": "Ashtavakra Gita (अष्टावक्र गीता)",
+        "translator": "Swami Nityaswarupananda",
+        "description": "The Ashtavakra Gita, also known as Ashtavakra Samhita, is a classical Advaita Vedanta scripture. It is written as a dialogue between the sage Ashtavakra and King Janaka. The text emphasizes the non-dual nature of reality and the identity of the individual self (atman) with the ultimate reality (Brahman). It is known for its radical, uncompromising non-dualism and is considered one of the most profound texts on Advaita philosophy, offering direct pointers to self-realization.",
+        "coverImage": "https://example.com/images/ashtavakra-gita-cover.jpg",
+        "meta": {
+          "genre": "Philosophy / Advaita Vedanta",
+          "language": "Sanskrit/English",
+          "pages": "160",
+          "publisher": "Advaita Ashrama",
+          "price": "₹200.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Sage Ashtavakra",
+        "image": "https://example.com/images/ashtavakra.jpg",
+        "description": "Ashtavakra was a revered Vedic sage who appears in Hindu literature.||The name Ashtavakra means 'eight bends', referring to the eight physical deformities he was born with.||He was the guru of King Janaka, father of Sita from the Ramayana.||Despite his physical deformities, he was renowned for his spiritual wisdom and knowledge of the Vedas."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Avadhuta Gita",
+          "coverImage": "https://example.com/images/avadhuta-gita-cover.jpg",
+          "description": "Non-dualist text attributed to Dattatreya"
+        },
+        {
+           "id":"",
+          "title": "Yoga Vasistha",
+          "coverImage": "https://example.com/images/yoga-vasistha-cover.jpg",
+          "description": "Philosophical text on non-dualism and consciousness"
+        }
+      ]
+    },
+    {
+      "id": "shankar-bhashya",
+      "book": {
+        "title": "Shankar Bhashya (शंकर भाष्य)",
+        "translator": "Swami Gambhirananda",
+        "description": "Shankar Bhashya refers to the commentaries on the principal Upanishads, Brahma Sutras, and Bhagavad Gita written by Adi Shankaracharya, the great 8th-century philosopher and exponent of Advaita Vedanta. These commentaries systematically establish the doctrine of non-dualism (Advaita) and provide profound insights into the nature of reality, the self, and ultimate truth. Shankara's works are considered foundational texts for the study of Advaita Vedanta and have influenced Hindu philosophy for over a millennium.",
+        "coverImage": "https://example.com/images/shankar-bhashya-cover.jpg",
+        "meta": {
+          "genre": "Philosophy / Commentary",
+          "language": "Sanskrit/English",
+          "pages": "Multiple Volumes",
+          "publisher": "Advaita Ashrama",
+          "price": "₹3,500.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Adi Shankaracharya",
+        "image": "https://example.com/images/adi-shankara.jpg",
+        "description": "Adi Shankaracharya (788-820 CE) was an Indian philosopher and theologian who consolidated the doctrine of Advaita Vedanta.||He is credited with unifying and establishing the main currents of thought in Hinduism.||He established four mathas (monasteries) at Sringeri, Dwarka, Puri, and Badrinath to preserve Sanatana Dharma.||His works include commentaries on the Brahma Sutras, Principal Upanishads, and Bhagavad Gita, along with original philosophical treatises."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Vivekachudamani",
+          "coverImage": "https://example.com/images/vivekachudamani-cover.jpg",
+          "description": "Crest jewel of discrimination by Adi Shankaracharya"
+        },
+        {
+           "id":"",
+          "title": "Upadeshasahasri",
+          "coverImage": "https://example.com/images/upadeshasahasri-cover.jpg",
+          "description": "A thousand teachings by Adi Shankaracharya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "templeName": "Bhimashankar",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bhimashankar_Temple_Main_Entrance.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bhimashankar_Temple%2C_Maharashtra.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bhimashankar_temple_view.jpg"
+    ],
+    "quotes": [
+      "Nestled in the lush greenery of the Sahyadri hills, a sanctuary of peace.",
+      "Bhimashankar: Where the sacred river originates and divinity resides.",
+      "A trek through nature to reach the heart of spirituality."
+    ],
+    "quoteIcon": "🕉️"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Bhimashankar Temple" },
+        { "label": "Location", "value": "Near Pune, Maharashtra" },
+        { "label": "Deity", "value": "Lord Shiva as Bhimashankar" },
+        { "label": "Significance", "value": "Source of the Bhima River" },
+        { "label": "Temple Type", "value": "Forest Jyotirlinga" },
+        { "label": "Sanctuary", "value": "Located within the Bhimashankar Wildlife Sanctuary" },
+        { "label": "Best Time to Visit", "value": "August to February (Monsoon for greenery, Winter for comfort)" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Kakad Aarti", "value": "4:30 AM" },
+        { "label": "Morning Puja", "value": "5:30 AM" },
+        { "label": "Madhyanha Aarti", "value": "12:00 PM" },
+        { "label": "Evening Aarti", "value": "7:30 PM" }
+      ],
+      "note": "The temple's location within a wildlife sanctuary makes the pilgrimage a unique blend of spirituality and nature.",
+      "quote": {
+        "text": "“The journey to Bhimashankar through the misty forests is as meditative as the darshan inside the ancient sanctum.”",
+        "author": "— A Trekker's Log"
+      },
+      "description": "The temple architecture is a fine example of Nagara style, with influences from the Indo-Aryan period."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Bhimashankar Temple",
+    "titleIcon": "🕉️",
+    "floatingIcons": ["🔱", "🌿"],
+    "overview": {
+      "title": "Overview",
+      "text": "Bhimashankar Jyotirlinga is situated deep in the Sahyadri mountain range, amidst the lush greenery of the Bhimashankar Wildlife Sanctuary. It is a revered pilgrimage site and the source of the river Bhima, which flows southeast to merge with the Krishna river."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "The temple is associated with the legend of Shiva slaying the tyrannical demon Bhima, the son of Kumbhakarna. After a fierce battle, Shiva vanquished the demon on these hills. The sweat that poured from his body is said to have formed the Bhima River. At the request of the gods, Shiva manifested here as the Bhimashankar Jyotirlinga."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "The temple is built in the Nagara style of architecture, dating back to the 13th century.",
+        "It is a modest yet graceful structure, built from local stone.",
+        "The sanctum sanctorum (garbhagriha) is at a lower level.",
+        "The pillars and doorframes are adorned with intricate carvings of deities and floral designs.",
+        "A large Roman-style bell, a gift from Chimaji Appa after his victory over the Portuguese, is a notable feature."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "It is the source of the holy Bhima River.",
+        "The temple's remote and serene location in a forest is considered ideal for spiritual sadhana and meditation.",
+        "The Bhimashankar Wildlife Sanctuary is home to the endangered Malabar Giant Squirrel (Shekru)."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "13th Century CE", "event": "The main temple structure is believed to have been constructed." },
+        { "period": "18th Century CE", "event": "The sabhamandap (assembly hall) was built by Nana Phadnavis, an influential minister of the Maratha Empire." }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "🐿️", "text": "Spotting the Malabar Giant Squirrel, the state animal of Maharashtra, is considered auspicious." },
+        { "icon": "💧", "text": "The water from the Gupt Bhimashankar (the hidden source of the river) is believed to have healing powers." },
+        { "icon": "🙏", "text": "A darshan here is said to absolve one from all sins and grant liberation." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "Bhimashankar is where divinity meets the wilderness. The pilgrimage offers a unique opportunity to experience spiritual tranquility amidst the pristine beauty of the Western Ghats, making it a refreshing journey for both the body and the soul.",
+      "website": "https://bhimashankar.in/"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Maha Shivratri – The most important festival, attracting thousands of pilgrims.",
+        "Tripuri Purnima – Celebrated with lighting of lamps and special pujas.",
+        "Ganesh Chaturthi – Celebrated as the son of the presiding deity."
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Bhimashankar Wildlife Sanctuary – A paradise for nature lovers and trekkers.",
+        "Hanuman Lake – A serene lake located near the temple.",
+        "Gupt Bhimashankar – The origin point of the Bhima River.",
+        "Nagphani Point – A viewpoint offering breathtaking views of the surrounding hills."
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Bhimashankar is well-connected by road to Pune (110 km) and Mumbai (220 km). State transport buses and private taxis are available." },
+      { "title": "By Helicopter", "description": "Not available for public transport." },
+      { "title": "Nearest Railway", "description": "Pune Railway Station is the nearest major railhead." },
+      { "title": "Nearest Airport", "description": "Pune International Airport (PNQ) is the closest airport." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "Located in the Ghat region of the Sahyadri hills in the Pune district of Maharashtra.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44900.45095979865!2d73.52175467959093!3d19.074866408243672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdd442595555555%3A0x3923896a457fe3c8!2sBhimashankar%20Temple!5e0!3m2!1sen!2sin!4v1757961103296!5m2!1sen!2sin"
+  },
+  "blogSection": {
+    "title": "Blogs & Experiences",
+    "posts": [
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bhimashankar_temple_view.jpg",
+        "title": "Trekking to Bhimashankar in Monsoon",
+        "intro": "A journey through clouds, streams, and lush forests to reach the divine abode.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bhimashankar_Temple_Main_Entrance.jpg",
+        "title": "The Legend of the Roman Bell",
+        "intro": "Discovering the history behind the European bell at the temple entrance.",
+        "link": "#"
+      }
+    ]
+  }
+}

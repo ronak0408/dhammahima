@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600&display=swap');
+
+/* ---- PAGE BACKGROUND: soft gray, abstract, pure CSS ---- */
+.spiritual-static-bg {
+    min-height: 100vh;
+    width: 100vw;
+    position: relative;
+    overflow: hidden;
+    background-color: #f2f2f2;
+    background-image:
+            radial-gradient(rgba(200, 200, 200, 0.15) 2.5px, transparent 40px),
+            radial-gradient(rgba(220, 220, 220, 0.10) 3px, transparent 45px);
+    background-size: 80px 80px, 120px 120px;
+    background-position: 0 0, 40px 40px;
+}
+
+/* ---- SPIRITUAL SYMBOL WATERMARK OVERLAY ---- */
+.spiritual-static-bg::before {
+    content: "ॐ   卐   🔱   ☸️   🕉️";
+    font-size: 100px;
+    opacity: 0.045;
+    position: absolute;
+    white-space: nowrap;
+    top: 28%;
+    left: 9%;
+    pointer-events: none;
+    user-select: none;
+    color: #a0a0a0;
+    font-family: 'Poppins', Arial, sans-serif;
+    letter-spacing: 0.14em;
+    transform: rotate(-19deg);
+    z-index: 0;
+}
+
+/* ---- BLUR / FROSTED GLASS LAYER ---- */
+.background-blur-overlay {
+    position: fixed;
+    inset: 0;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    z-index: 1;
+    backdrop-filter: blur(4px);
+    background-color: rgba(255,255,255,0.06);
+}
+
+/* ---- MAIN CONTENT SECTION ---- */
+.blogs-section {
+    background: transparent;    /* Cards rest on frosted/abstract background */
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px 15px 40px 15px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 2;
+}
+
+/* ---- HEADER STYLES ---- */
+.header-section {
+    text-align: center;
+    margin-bottom: 45px;
+}
+.om-symbol {
+    font-size: 46px;
+    color: #6f3c97;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-bottom: 8px;
+    display: inline-block;
+}
+.main-title {
+    font-size: 2.3rem;
+    color: #2c3e50;
+    font-family: 'Poppins', 'Inter', Arial, sans-serif;
+    font-weight: 700;
+    margin: 0 0 7px 0;
+    letter-spacing: -0.01em;
+    background: none;
+}
+.highlighted {
+    color: #6f3c97;
+    font-weight: 700;
+    letter-spacing: .3px;
+}
+.subtitle {
+    font-size: 1.04rem;
+    color: #636363;
+    margin-bottom: 0;
+    font-family: 'Inter', 'Hind', Arial, sans-serif;
+}
+
+/* ---- GRID LAYOUT (unchanged) ---- */
+.blogs-grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 32px;
+    margin-bottom: 32px;
+}
+@media (max-width: 1100px) {
+    .blogs-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 690px) {
+    .blogs-grid { grid-template-columns: 1fr; }
+}
+
+/* ---- BLOG CARD DESIGN ---- */
+.blog-card {
+    background: #fafbfc;
+    border-radius: 12px;
+    box-shadow: 0 2px 14px rgba(44,62,80,0.06);
+    border-left: 6px solid transparent;
+    padding: 22px 15px 17px 22px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.17s, box-shadow 0.17s;
+    position: relative;
+    /* No background or blur on cards themselves */
+}
+
+/* Accent border: blue, pink, yellow */
+.blog-card:nth-child(3n+1) { border-left: 6px solid #3498db; }
+.blog-card:nth-child(3n+2) { border-left: 6px solid #e471b8; }
+.blog-card:nth-child(3n+3) { border-left: 6px solid #ffe066; }
+
+.blog-card:hover {
+    transform: scale(1.02) translateY(-4px);
+    box-shadow: 0 8px 28px rgba(44,62,80,0.13), 0 2px 10px rgba(52,152,219,0.06);
+    z-index: 2;
+}
+
+/* Book icon */
+.book-icon {
+    font-size: 2.1rem;
+    color: #6f3c97;
+    margin-bottom: 11px;
+    text-align: center;
+}
+
+/* Card content */
+.blog-title {
+    font-family: 'Poppins', 'Inter', Arial, sans-serif;
+    color: #2c3e50;
+    font-size: 1.08rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+    text-align: center;
+    letter-spacing: 0.09px;
+}
+.blog-desc {
+    font-family: 'Inter', 'Hind', Arial, sans-serif;
+    color: #363942;
+    font-size: 0.99rem;
+    font-weight: 500;
+    opacity: 0.95;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Learn more button */
+.learn-more-btn {
+    font-family: 'Poppins', 'Inter', Arial, sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+    background: #f2f2f2;
+    color: #2c3e50;
+    border-radius: 18px;
+    border: 1.5px solid #ddd;
+    box-shadow: 0 2px 8px rgba(44,62,80,0.07);
+    padding: 9px 22px;
+    text-decoration: none;
+    margin: 0 auto;
+    transition: background 0.13s, border-color 0.15s, color 0.16s;
+    display: inline-block;
+}
+.learn-more-btn:hover {
+    background: #eee;
+    color: #3498db;
+    border-color: #b2bec3;
+}
+
+/* ---- EXPLORE BUTTON ---- */
+.explore-blogs-section {
+    text-align: center;
+    margin-top: 17px;
+    margin-bottom: 10px;
+}
+.explore-blogs-btn {
+    font-family: 'Poppins', 'Inter', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 1.11rem;
+    background: #fff;
+    color: #6f3c97;
+    border-radius: 24px;
+    border: 1.5px solid #ededed;
+    box-shadow: 0 2px 11px rgba(44,62,80,0.08);
+    padding: 13px 32px;
+    text-decoration: none;
+    transition: background 0.15s, color 0.15s;
+    display: inline-block;
+}
+.explore-blogs-btn:hover {
+    background: #e471b8;
+    color: #fff;
+}
+
+/* ---- FOOTER ---- */
+.footer-mantra {
+    margin-top: 32px;
+    text-align: center;
+}
+.mantra {
+    display: block;
+    font-size: 1.08rem;
+    color: #6f3c97;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    opacity: 0.93;
+}
+.mantra-english {
+    font-size: 0.98rem;
+    color: #333;
+    opacity: 0.82;
+    font-family: 'Inter', 'Hind', Arial, sans-serif;
+    font-style: italic;
+}
+
+/* ---- RESPONSIVE ---- */
+@media (max-width: 1200px) {
+    .blogs-section { padding: 44px 7vw 32px 7vw; }
+    .blogs-grid { gap: 22px; }
+}
+@media (max-width: 900px) {
+    .main-title { font-size: 1.4rem; }
+    .blogs-section { padding: 30px 4vw 20px 4vw; }
+}
+@media (max-width: 690px) {
+    .blogs-grid { grid-template-columns: 1fr; }
+    .main-title { font-size: 1.13rem; }
+    .blog-title { font-size: 0.99rem; }
+    .subtitle { font-size: 0.97rem; }
+}

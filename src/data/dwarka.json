@@ -1,0 +1,161 @@
+{
+  "templeName": "Dwarkadhish",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dwarkadhish_Temple_in_the_evening.jpg/1280px-Dwarkadhish_Temple_in_the_evening.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dwarkadhish_Temple%2C_Dwarka%2C_Gujarat.jpg/1280px-Dwarkadhish_Temple%2C_Dwarka%2C_Gujarat.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gomti_Ghat%2C_Dwarka.jpg/1280px-Gomti_Ghat%2C_Dwarka.jpg"
+    ],
+    "quotes": [
+      "In the ancient kingdom of Krishna, where divinity meets the horizon.",
+      "Dwarkadhish: The benevolent King of the Golden City.",
+      "A pilgrimage to the legendary city that is believed to have been submerged by the sea."
+    ],
+    "quoteIcon": "🙏"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Dwarkadhish Temple (Jagat Mandir)" },
+        { "label": "Location", "value": "Dwarka, Gujarat, India" },
+        { "label": "Deity", "value": "Lord Krishna as Dwarkadhish (King of Dwarka)" },
+        { "label": "Significance", "value": "One of the Char Dham & Sapta Puri (7 Holy Cities)" },
+        { "label": "Temple Type", "value": "Vaishnavite Shrine + Char Dham" },
+        { "label": "River", "value": "Confluence of Gomti River and Arabian Sea" },
+        { "label": "Best Time to Visit", "value": "October to March" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Mangla Aarti", "value": "6:30 AM" },
+        { "label": "Shringar Aarti", "value": "10:30 AM" },
+        { "label": "Sandhya Aarti", "value": "7:30 PM" },
+        { "label": "Shayan Aarti", "value": "8:30 PM" }
+      ],
+      "note": "A major daily ritual is the 'Dhwaja Arohan', the changing of the temple's massive 52-yard flag, which happens five times a day.",
+      "quote": {
+        "text": "“Watching the flag being changed atop the towering shikhara, against the backdrop of the sea, is a moment of pure, unadulterated devotion.”",
+        "author": "— A Pilgrim's Diary"
+      },
+      "description": "The temple follows the traditions and rituals established by Vallabhacharya and Vitheleshnath, exponents of the Pushtimarg sect."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Dwarkadhish Temple",
+    "titleIcon": "🙏",
+    "floatingIcons": ["🕉️", "🦚"],
+    "overview": {
+      "title": "Overview",
+      "text": "The Dwarkadhish Temple, also known as Jagat Mandir, is a revered Hindu temple dedicated to Lord Krishna, located in the ancient city of Dwarka. As one of the four principal Char Dham pilgrimage sites and one of the seven Sapta Puri, it holds immense significance for Hindus, particularly for followers of Vaishnavism."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "The original city of Dwarka is believed to have been the capital of Lord Krishna's kingdom, built by the divine architect Vishwakarma. Legend holds that after Krishna's departure from the mortal world, the city was submerged by the sea. The current temple is believed to have been originally built by Krishna's grandson, Vajranabha, over his ancestor's residential palace."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "Constructed in the Chalukya style of architecture, the main temple is a five-storied structure supported by 72 pillars.",
+        "The main shikhara (spire) rises to a height of 78 meters, dominating the skyline.",
+        "The temple is made of limestone and sand, which has given it a soft, weathered look over the centuries.",
+        "It has two main entrances: the 'Swarga Dwar' (Gate to Heaven) for entry and the 'Moksha Dwar' (Gate to Liberation) for exit.",
+        "The temple is adorned with intricate carvings depicting dancers, elephants, musicians, and celestial beings."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "It is one of the four original Char Dham, established by Adi Shankaracharya.",
+        "Dwarka is one of the Sapta Puri, the seven most ancient and holy cities in India.",
+        "A holy dip in the Gomti River at the Gomti Ghat is a crucial part of the pilgrimage.",
+        "The changing of the 52-yard Dhwaja (flag) five times a day is a significant ritual, sponsored by devotees."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "Ancient", "event": "Believed to have been originally built over 2500 years ago by Vajranabha." },
+        { "period": "8th Century CE", "event": "The temple was integrated into the Char Dham pilgrimage by Adi Shankaracharya." },
+        { "period": "15th-16th Century CE", "event": "The temple was destroyed by Mahmud Begada and subsequently rebuilt." },
+        { "period": "Modern", "event": "Archaeological excavations in the area have revealed evidence of an ancient submerged city." }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "🚩", "text": "The 52 yards of the flag represent the 52 administrative divisions of the Yadava kingdom." },
+        { "icon": "🚪", "text": "Entering through the Swarga Dwar and exiting through the Moksha Dwar is symbolic of the soul's journey." },
+        { "icon": "🌊", "text": "The submerged city of Dwarka is a subject of active archaeological and historical research." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "A pilgrimage to Dwarkadhish is a journey back in time to the legendary era of Lord Krishna. The temple's majestic architecture, vibrant rituals, and the spiritual aura of the ancient city offer an unparalleled experience of devotion and history.",
+      "website": "https://dwarkadhish.org/"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Janmashtami – Lord Krishna's birthday is celebrated with immense splendor and fervor.",
+        "Holi – The festival of colors is celebrated with great enthusiasm.",
+        "Annakut – Celebrated a day after Diwali, offering a mountain of food to the deity."
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Bet Dwarka – An island believed to be the original residence of Lord Krishna.",
+        "Nageshwar Jyotirlinga Temple – One of the 12 Jyotirlingas, located nearby.",
+        "Gomti Ghat – A sacred bathing spot at the confluence of the Gomti River and the sea.",
+        "Rukmini Devi Temple – A temple dedicated to Krishna's chief consort, Rukmini."
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Dwarka is well-connected by state and national highways to major cities in Gujarat like Jamnagar, Rajkot, and Ahmedabad." },
+      { "title": "By Helicopter", "description": "Not applicable for regular pilgrimage." },
+      { "title": "Nearest Railway", "description": "Dwarka Railway Station (DWK) is on the main line and is well-connected." },
+      { "title": "Nearest Airport", "description": "Jamnagar Airport (JGA) is the nearest airport, about 137 km away." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "Located in the city of Dwarka, Gujarat, on the westernmost tip of the Indian peninsula at the mouth of the Gomti River.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3693.0631913592874!2d68.9647832750675!3d22.237681079731725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39569c3ab7c4e9e5%3A0x31b7c3111df48f4!2sShree%20Dwarkadhish%20Temple!5e0!3m2!1sen!2sin!4v1757963471269!5m2!1sen!2sin"
+  },
+  "blogSection": {
+    "title": "Blogs & Experiences",
+    "posts": [
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_grand_flag_hoisted_at_the_top_of_the_Dwarkadhish_temple.jpg/1024px-The_grand_flag_hoisted_at_the_top_of_the_Dwarkadhish_temple.jpg",
+        "title": "The Daily Dhwaja Arohan",
+        "intro": "Witnessing the sacred and thrilling ritual of changing the temple flag.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sudama_Setu%2C_Dwarka.jpg/1280px-Sudama_Setu%2C_Dwarka.jpg",
+        "title": "A Walk Across Sudama Setu",
+        "intro": "Crossing the bridge over the Gomti river for stunning views of the ghats and temple.",
+        "link": "#"
+      }
+    ]
+  }
+}

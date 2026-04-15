@@ -1,0 +1,158 @@
+{
+  "templeName": "Trimbakeshwar",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/41/Trimbakeshwar_Temple%2C_Nashik.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ae/Trimbakeshwar_Temple_Front_View.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/75/Trimbakeshwar_Temple.jpg"
+    ],
+    "quotes": [
+      "Where the holy Godavari originates and the Trimurti resides in a single lingam.",
+      "Trimbakeshwar: The sacred source, the divine trinity.",
+      "A pilgrimage to the origin of one of India's most sacred rivers."
+    ],
+    "quoteIcon": "🕉️"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Trimbakeshwar Shiva Temple" },
+        { "label": "Location", "value": "Trimbak, Nashik, Maharashtra" },
+        { "label": "Deity", "value": "Lord Shiva as Trimbakeshwar (The Three-Eyed Lord)" },
+        { "label": "Significance", "value": "Origin of the Godavari River; lingam represents Brahma, Vishnu, Shiva" },
+        { "label": "Temple Type", "value": "Jyotirlinga at a river source" },
+        { "label": "Kumbh Mela", "value": "Nashik-Trimbak is one of the four sites for the Kumbh Mela." },
+        { "label": "Best Time to Visit", "value": "October to March" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Morning Puja", "value": "5:30 AM - 6:30 AM" },
+        { "label": "Madhyanha Puja", "value": "1:00 PM - 1:30 PM" },
+        { "label": "Evening Puja", "value": "7:00 PM - 9:00 PM" }
+      ],
+      "note": "The temple is famous for special pujas like Kalsarp Shanti and Narayan Nagbali, which are performed to alleviate specific astrological doshas.",
+      "quote": {
+        "text": "“Seeing the three faces within the lingam is to understand the cosmic unity of creation, preservation, and destruction.”",
+        "author": "— A Scholar's Note"
+      },
+      "description": "Unlike other Jyotirlingas, the main lingam here is a cavity with three small lingams representing the Trimurti."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Trimbakeshwar Temple",
+    "titleIcon": "🕉️",
+    "floatingIcons": ["🔱", "💧"],
+    "overview": {
+      "title": "Overview",
+      "text": "Trimbakeshwar Temple, located in the town of Trimbak near Nashik, is an ancient and sacred Jyotirlinga shrine. It is unique because the lingam here embodies the three primary deities of Hinduism: Brahma, Vishnu, and Shiva. The temple is also the source of the holy Godavari River."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "The origin of the temple is linked to the sage Gautama Rishi. He performed a severe penance to bring the River Ganga here to absolve himself of the sin of cow-slaughter. The river came to be known as Godavari. To purify the sage, Lord Shiva decided to reside here in the form of the Trimbakeshwar Jyotirlinga."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "The temple is built of black stone in the Nagara style of architecture.",
+        "It is situated at the foothills of Brahmagiri mountain, from where the Godavari originates.",
+        "The main lingam is in a depression on the floor, and a mirror placed on the wall allows devotees to see the three-faced deity inside.",
+        "The temple structure is adorned with exquisite sculptures and carvings.",
+        "The current temple was built by Peshwa Balaji Baji Rao in the 18th century."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "It is the only Jyotirlinga where the lingam represents the Trimurti: Brahma, Vishnu, and Mahesh.",
+        "It is the source of the Godavari River, known as the 'Ganga of the South'.",
+        "The nearby Kushavarta Kund is the symbolic origin of the river and a sacred bathing spot.",
+        "Nashik-Trimbak is one of the four holy sites where the Kumbh Mela is held every 12 years."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "Ancient", "event": "Linked to the epic Ramayana, as Nashik is believed to be the 'Panchavati' forest." },
+        { "period": "18th Century CE", "event": "The existing temple was constructed by the Maratha ruler, Peshwa Balaji Baji Rao." }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "🙏", "text": "Performing specific rituals like Kalsarp Puja here is believed to remove astrological afflictions." },
+        { "icon": "👑", "text": "The lingam is adorned with a jeweled crown, which is displayed every Monday." },
+        { "icon": "🌊", "text": "A holy dip in the Kushavarta Kund is considered essential for a complete pilgrimage." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "Trimbakeshwar is a confluence of divine energies, representing the unity of the cosmos. A pilgrimage here is a journey to the sacred source of the Godavari and an opportunity to witness the divine trinity in a singular, powerful form.",
+      "website": "https://www.trimbakeshwartrust.com/"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Kumbh Mela – The grandest festival held once every 12 years.",
+        "Maha Shivratri – Celebrated with great fervor and special pujas.",
+        "Rath Yatra – A chariot festival held during Tripuri Purnima."
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Brahmagiri Hill – The source of the Godavari, a popular trekking spot.",
+        "Kushavarta Kund – The sacred pond for holy dips.",
+        "Panchavati – The area in Nashik city associated with the Ramayana.",
+        "Sula Vineyards – A famous winery near Nashik for a different kind of experience."
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Trimbak is about 30 km from Nashik city. Nashik is well-connected by road to Mumbai, Pune, and other major cities." },
+      { "title": "By Helicopter", "description": "Not available." },
+      { "title": "Nearest Railway", "description": "Nashik Road Railway Station (NK) is the nearest major railhead." },
+      { "title": "Nearest Airport", "description": "Nashik Airport (ISK) has limited connectivity. Chhatrapati Shivaji Maharaj International Airport, Mumbai (BOM) is about 180 km away." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "Located in the town of Trimbak in the Nashik District of Maharashtra, at the foothills of Brahmagiri.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3750.815952005579!2d73.52820737500036!3d19.93215918145679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddeb013af2e74b%3A0x716282a3a46b04cc!2sTrimbakeshwar%20Jyotirling%20Mandir!5e0!3m2!1sen!2sin!4v1757961444142!5m2!1sen!2sin"
+  },
+  "blogSection": {
+    "title": "Blogs & Experiences",
+    "posts": [
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Trimbakeshwar_Temple.jpg",
+        "title": "The Unique Three-Faced Lingam",
+        "intro": "Understanding the deep symbolism of the Trimurti representation.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Trimbakeshwar_Temple%2C_Nashik.jpg",
+        "title": "A Trek to Brahmagiri Hill",
+        "intro": "The spiritual and adventurous journey to the source of the Godavari river.",
+        "link": "#"
+      }
+    ]
+  }
+}

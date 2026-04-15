@@ -1,0 +1,163 @@
+{
+  "templeName": "Jagannath",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jagannath_Temple%2C_Puri_28.jpg/1280px-Jagannath_Temple%2C_Puri_28.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/82/Puri_Jagannath_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rath_Jatra_Puri_2012.jpeg/1280px-Rath_Jatra_Puri_2012.jpeg"
+    ],
+    "quotes": [
+      "The Lord of the Universe, who watches over all with large, compassionate eyes.",
+      "In Puri, the divine chariot rolls, carrying the faith of millions.",
+      "Jagannath Dham: A confluence of faith, culture, and culinary devotion."
+    ],
+    "quoteIcon": "🙏"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Jagannath Temple" },
+        { "label": "Location", "value": "Puri, Odisha, India" },
+        { "label": "Deity", "value": "Lord Jagannath, Balabhadra & Subhadra" },
+        { "label": "Significance", "value": "One of the original Char Dham pilgrimage sites" },
+        { "label": "Temple Type", "value": "Vaishnavite Shrine + Char Dham" },
+        { "label": "Kitchen", "value": "Features one of the largest kitchens in the world" },
+        { "label": "Best Time to Visit", "value": "October to February" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Mangala Alati", "value": "5:00 AM" },
+        { "label": "Sakala Dhupa", "value": "10:00 AM" },
+        { "label": "Sandhya Dhupa", "value": "7:00 PM - 8:00 PM" },
+        { "label": "Bada Singhara Besha", "value": "11:00 PM" }
+      ],
+      "note": "The temple is famous for its 'Mahaprasad', the holy food offered to the deities and distributed to devotees, cooked in the temple's giant kitchen.",
+      "quote": {
+        "text": "“To witness the Rath Yatra is to witness the ocean of humanity moving as one, pulled by the divine strings of Lord Jagannath's chariot.”",
+        "author": "— A Cultural Observer"
+      },
+      "description": "The daily rituals (nitis) of the deities are elaborate and follow a complex schedule, treating the deities as living beings and royalty."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Jagannath Temple",
+    "titleIcon": "🙏",
+    "floatingIcons": ["🕉️", "☸️"],
+    "overview": {
+      "title": "Overview",
+      "text": "The Jagannath Temple in Puri is a sacred Hindu temple dedicated to Jagannath, a form of Vishnu. It is one of the most revered pilgrimage sites in India and a key destination in the Char Dham yatra. The temple is famous for its annual Rath Yatra, or chariot festival, in which the three principal deities are pulled on huge, elaborately decorated temple cars."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "According to legend, the original image of Jagannath was found near a banyan tree by a tribal king. King Indradyumna later wished to build a temple for the deity. He commissioned the divine architect Vishwakarma, who agreed to carve the idols on the condition that he not be disturbed. When the king impatiently opened the door, Vishwakarma vanished, leaving the idols unfinished with large heads and no arms, which is how they are worshipped to this day."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "Built in the Kalinga style of architecture, the temple complex covers over 400,000 square feet.",
+        "The main temple tower (Vimana) stands 214 feet high, making it one of the tallest in India.",
+        "The complex is enclosed by two massive rectangular walls and has four gates, with the main entrance being the Singhadwara or 'Lion Gate'.",
+        "It features the world's largest kitchen, capable of feeding thousands of devotees daily.",
+        "The Aruna Stambha, a sixteen-sided monolithic pillar, stands in front of the main gate."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "It is one of the four original Char Dham sites, making it a primary pilgrimage for Hindus.",
+        "The unique, abstract forms of the deities are made of wood and are ceremoniously replaced every 12 or 19 years in a ritual called Nabakalebara.",
+        "The temple's Mahaprasad is considered divine and is distributed to all, irrespective of caste or creed.",
+        "It is a center of the Vaishnavite Bhakti movement, particularly associated with Chaitanya Mahaprabhu."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "Ancient Legends", "event": "The origin is steeped in the Skanda Purana and Brahma Purana." },
+        { "period": "12th Century CE", "event": "The current temple structure was built by King Anantavarman Chodaganga Deva of the Eastern Ganga Dynasty." },
+        { "period": "16th Century CE", "event": "The temple became a major center for the Bhakti movement, influenced by Sri Chaitanya." },
+        { "period": "Present", "event": "It remains one of the most important and visited pilgrimage centers in the world." }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "🚩", "text": "The flag atop the temple spire is said to always flutter in the opposite direction of the wind." },
+        { "icon": "🕊️", "text": "No birds or planes are seen flying above the main temple dome." },
+        { "icon": "🌊", "text": "The sound of the ocean waves cannot be heard once you step inside the temple through the Singhadwara." },
+        { "icon": "🥘", "text": "The Mahaprasad is cooked in seven pots stacked one on top of another, and the food in the top pot cooks first." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "Jagannath Dham is a vibrant epicenter of faith, where traditions, legends, and devotion come alive. A visit here is an immersion into a unique cultural and spiritual world, centered around the enigmatic and benevolent Lord of the Universe.",
+      "website": "https://jagannath.nic.in/"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Rath Yatra (Chariot Festival) – The grandest festival, held in June/July.",
+        "Snana Yatra – The ceremonial bathing of the deities before Rath Yatra.",
+        "Nabakalebara – The sacred ritual of recreating and replacing the wooden idols.",
+        "Chandan Yatra – A 21-day festival involving a procession of the deities."
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Puri Beach – One of the most famous beaches on the east coast of India.",
+        "Konark Sun Temple – A UNESCO World Heritage site, about 35 km away.",
+        "Chilika Lake – Asia's largest brackish water lagoon, a paradise for birdwatchers.",
+        "Raghurajpur Artist Village – A heritage crafts village known for Pattachitra paintings."
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Puri is well-connected by an extensive road network to cities like Bhubaneswar, Cuttack, and Kolkata." },
+      { "title": "By Helicopter", "description": "Not applicable for regular travel." },
+      { "title": "Nearest Railway", "description": "Puri Railway Station (PURI) is a major terminal and the final stop on the East Coast Railway." },
+      { "title": "Nearest Airport", "description": "Biju Patnaik International Airport, Bhubaneswar (BBI), is the nearest airport, about 60 km away." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "Located in the heart of Puri city in the state of Odisha, on the coast of the Bay of Bengal.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3753.826840808892!2d85.81306767899143!3d19.804937833997823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a19c6b8bfe386af%3A0x8f052c84639c7d48!2sShree%20Jagannatha%20Temple%20Puri!5e0!3m2!1sen!2sin!4v1757963400714!5m2!1sen!2sin"
+  },
+  "blogSection": {
+    "title": "Blogs & Experiences",
+    "posts": [
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ratha_Jatra_2011_at_Puri%2C_Odisha.jpg/1280px-Ratha_Jatra_2011_at_Puri%2C_Odisha.jpg",
+        "title": "The Grand Rath Yatra",
+        "intro": "An immersive experience of the world-famous chariot festival.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Jagannath_Temple_Kitchen.jpg/1024px-Jagannath_Temple_Kitchen.jpg",
+        "title": "Inside the World's Largest Kitchen",
+        "intro": "Discovering the secrets and devotion behind the Mahaprasad.",
+        "link": "#"
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "vedas": [
+    {
+      "id": "rigveda",
+      "book": {
+        "title": "Rigveda",
+        "translator": "Swami Tejomayananda",
+        "description": "The Rigveda is believed to have originated around 1500 BCE, although some scholars suggest a broader range between 1200–1700 BCE. It was born during the period of the early Vedic civilization, which flourished along the Sindhu (Indus) and Saraswati river systems, in what is now parts of Northwest India and Pakistan. The Rigveda was not written down initially but was transmitted orally through generations by Vedic sages (rishis). This oral tradition, known as 'śruti' (meaning 'that which is heard'), is considered divine revelation, as the hymns were believed to be heard or received by sages in deep meditation rather than composed by them.||The hymns of the Rigveda were composed in Vedic Sanskrit.||Thus, the Rigveda's origin marks not only the beginning of Hindu religious thought but also the earliest record of Indian culture, society, and philosophical inquiry.",
+        "coverImage": "https://ebnw.net/wp-content/uploads/2017/01/Rig-Veda.jpg",
+        "meta": {
+          "genre": "Vedic Scripture / Hymns",
+          "language": "Sanskrit / Hindi / English",
+          "pages": "~350",
+          "publisher": "Chinmaya Prakashan",
+          "price": "₹349.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Veda Vyasa",
+        "image": "https://s3.wasabisys.com/thevaisnava-offload/wp-media-folder-thevaisnava-online-magazine/wp-content/uploads/2022/06/Vyasadeva-and-Lord-Ganesh.png",
+        "description": "Maharishi Ved Vyasa, also known simply as Vyasa, is one of the most revered sages in Indian tradition and is considered a literary and spiritual giant. He is credited with compiling and organizing the Vedas, dividing them into four parts—Rigveda, Samaveda, Yajurveda, and Atharvaveda—to make them more accessible to humanity. Because of this monumental task, he earned the title 'Ved Vyasa', meaning 'the one who divided the Vedas.'||Maharishi Ved Vyasa's contributions go beyond mere literary achievements. He was a spiritual visionary, whose works emphasize dharma (righteous living), bhakti (devotion), jnana (wisdom), and karma (right action). His legacy lives on in every Hindu household through texts like the Bhagavad Gita and the Puranas.||In recognition of his wisdom and divine insight, Guru Purnima is celebrated in his honor every year, where spiritual seekers pay tribute to their teachers and gurus, starting with Maharishi Ved Vyasa as the Adi Guru, the first and foremost teacher in the spiritual lineage."
+      },
+      "relatedBooks": [
+        {
+           "id":"samaveda", 
+          "title": "Samaveda",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8WiuvmLgsetsSW9hlClskboHyd7sELQJ5g&s",
+          "description": "The book of melodies and chants"
+        },
+        {
+           "id":"yajurveda", 
+          "title": "Yajurveda",
+          "coverImage": "https://gurukul99.com/wp-content/uploads/2021/06/yajurved-in-hindi.png",
+          "description": "The book of sacrificial formulas"
+        },
+        {
+           "id":"atharvaveda", 
+          "title": "Atharvaveda",
+          "coverImage": "https://www.poojn.in/wp-content/uploads/2025/04/Accessing-the-Atharva-Veda-Today-A-Practical-Guide.jpeg.jpg",
+          "description": "The book of spells and incantations"
+        }
+      ]
+    },
+    {
+      "id": "samaveda",
+      "book": {
+        "title": "Samaveda",
+        "translator": "Ralph T. H. Griffith",
+        "description": "The Samaveda is the third of the four Vedas in Hindu tradition, after the Rigveda and Yajurveda. It is often called the 'Veda of Chants' because it consists mainly of melodic hymns meant to be sung rather than read or recited. Its name comes from the word 'sāman', meaning melody or song.||While most of its verses are taken directly from the Rigveda, the Samaveda rearranges them and adds musical notations, turning them into chants used during yajnas (Vedic rituals). It is the foundation of Indian classical music and the first known attempt to structure spiritual knowledge in musical form.||The Samaveda played a vital role in ritual worship and temple traditions, helping priests (called udgātṛs) chant with precise rhythm and tone. It emphasizes the power of sound and vibration in connecting with the divine and maintaining cosmic harmony.",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8WiuvmLgsetsSW9hlClskboHyd7sELQJ5g&s",
+        "meta": {
+          "genre": "Vedic Hymns / Chanting",
+          "language": "Sanskrit / Hindi / English",
+          "pages": "~280",
+          "publisher": "Motilal Banarsidass",
+          "price": "₹299.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Atri",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2hgh1v2mLDWKtKvDm8HpM3E2_eZXH9EBuXdtWD3GaVRmc3olrZZmPphqkwhfQBx-Jk2A&usqp=CAU",
+        "description": "Maharishi Atri is one of the Saptarishis (seven great sages) in Hindu tradition and a revered figure in Vedic literature. He is the author of several hymns in the Rigveda and is celebrated for his deep spiritual insight, austerity, and devotion.||Atri Rishi was the mind-born son of Brahma, the creator, and his name means 'the one without enmity.' His wife, Anusuya, is renowned for her purity and virtue, and together they symbolize the ideal of dharmic living. Their son, Dattatreya, is considered an incarnation of the Trimurti — Brahma, Vishnu, and Shiva — and is worshipped as a divine sage.||Maharishi Atri's contributions to Vedic science, cosmology, and ethics are significant, and his life exemplifies self-discipline, meditation, and divine realization. He is also honored in many Puranas and epics for his role in guiding kings, gods, and other sages."
+      },
+      "relatedBooks": [
+        {
+           "id":"rigveda", 
+          "title": "Rigveda",
+          "coverImage": "https://ebnw.net/wp-content/uploads/2017/01/Rig-Veda.jpg",
+          "description": "The oldest Veda containing hymns to various deities"
+        },
+        {
+           "id":"yajurveda", 
+          "title": "Yajurveda",
+          "coverImage": "https://gurukul99.com/wp-content/uploads/2021/06/yajurved-in-hindi.png",
+          "description": "The book of sacrificial formulas"
+        },
+        {
+           "id":"atharvaveda", 
+          "title": "Atharvaveda",
+          "coverImage": "https://www.poojn.in/wp-content/uploads/2025/04/Accessing-the-Atharva-Veda-Today-A-Practical-Guide.jpeg.jpg",
+          "description": "The book of spells and incantations"
+        }
+      ]
+    },
+    {
+      "id": "yajurveda",
+      "book": {
+        "title": "Yajurveda",
+        "translator": "Devi Chand",
+        "description": "The Yajurveda is the third of the four Vedas and serves as a practical guide for performing Vedic rituals and sacrifices. Unlike the Rigveda, which focuses on hymns, or the Samaveda, which emphasizes chants, the Yajurveda is primarily in prose and provides precise instructions for conducting yajnas (sacrificial ceremonies). It is divided into two major branches: the Shukla (White) Yajurveda, which has a clear separation of verses and explanations, and the Krishna (Black) Yajurveda, where the verses and commentary are mixed. Rich in mantras and ritual procedures, the Yajurveda played a vital role in the duties of Vedic priests and continues to influence Hindu worship practices today.",
+        "coverImage": "https://gurukul99.com/wp-content/uploads/2021/06/yajurved-in-hindi.png",
+        "meta": {
+          "genre": "Vedic Ritual / Liturgy",
+          "language": "Sanskrit / Hindi / English",
+          "pages": "~400",
+          "publisher": "Vijay Goel Publications",
+          "price": "₹379.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Yajnavalkya",
+        "image": "https://static.langimg.com/photo/imgsize-253295,msid-91363347/navbharat-times.jpg",
+        "description": "Maharishi Vajasaneya, also known as Vajasaneyi or Yajnavalkya, was a revered sage in ancient India and is best known for his association with the Shukla Yajurveda (White Yajurveda), also called the Vajasaneyi Samhita—named after him. He was a profound philosopher, spiritual teacher, and a central figure in several Upanishads, especially the Brihadaranyaka Upanishad, where he is portrayed as a master of metaphysical knowledge and deep spiritual insight.||Yajnavalkya was known for his sharp intellect and fearless debates with other sages and scholars. His teachings emphasized the nature of the Self (Atman), the importance of inner realization, and detachment from material desires as the path to liberation (moksha). He also introduced significant ideas about ethics, dharma, and the imperishable nature of the soul, which became foundational concepts in later Hindu philosophy.||Maharishi Yajnavalkya is remembered not only for his contributions to the Vedas but also for his visionary insights that shaped the core of Vedantic thought."
+      },
+      "relatedBooks": [
+        {
+           "id":"rigveda", 
+          "title": "Rigveda",
+          "coverImage": "https://ebnw.net/wp-content/uploads/2017/01/Rig-Veda.jpg",
+          "description": "The oldest Veda containing hymns to various deities"
+        },
+        {
+           "id":"samaveda", 
+          "title": "Samaveda",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8WiuvmLgsetsSW9hlClskboHyd7sELQJ5g&s",
+          "description": "The book of melodies and chants"
+        },
+        {
+           "id":"atharvaveda", 
+          "title": "Atharvaveda",
+          "coverImage": "https://www.poojn.in/wp-content/uploads/2025/04/Accessing-the-Atharva-Veda-Today-A-Practical-Guide.jpeg.jpg",
+          "description": "The book of spells and incantations"
+        }
+      ]
+    },
+    {
+      "id": "atharvaveda",
+      "book": {
+        "title": "Atharvaveda",
+        "translator": "Maurice Bloomfield",
+        "description": "The Atharvaveda is the fourth and final Veda in the collection of ancient Hindu scriptures, following the Rigveda, Samaveda, and Yajurveda. Unlike the other three, which primarily focus on rituals, hymns, and chants to deities, the Atharvaveda delves into the practical aspects of human life.||It contains a wide range of hymns, spells, incantations, and philosophical reflections addressing everyday concerns—such as health, love, longevity, protection from evil forces, and even political success. The Atharvaveda is a blend of spirituality and science, often considered the earliest record of Indian medicine and healing practices, including references to herbs and natural remedies.||Composed in Vedic Sanskrit, it has around 730 hymns with over 6,000 mantras. It is attributed to sages like Atharvan and Angiras, from whom it takes its name.||The Atharvaveda reveals a deep understanding of human psychology, social harmony, and the power of words, and it remains a rich source of spiritual and practical wisdom in Hindu tradition.",
+        "coverImage": "https://www.poojn.in/wp-content/uploads/2025/04/Accessing-the-Atharva-Veda-Today-A-Practical-Guide.jpeg.jpg",
+        "meta": {
+          "genre": "Vedic Hymns / Healing / Magic",
+          "language": "Sanskrit / Hindi / English",
+          "pages": "~320",
+          "publisher": "Chaukhamba Sanskrit Pratishthan",
+          "price": "₹349.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Rishi Angiras",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2GQOK4-1_zOVutXO-hOZDEbth539qqeC09fDLHgGIg_vncdqKtYWz69rQ7NWxXDAl3V8&usqp=CAU",
+        "description": "Rishi Angiras is one of the most revered sages in Vedic tradition, often regarded as one of the Saptarishis (Seven Great Sages) and a prominent seer of the Atharvaveda. He is believed to have received divine knowledge directly from the gods and passed it down through sacred hymns.||Angiras is known for his deep wisdom, spiritual discipline, and mastery over sacred fire rituals (yajnas). His teachings emphasize purity, truth, healing, and the power of sound and speech (mantras). Many hymns in the Rigveda and Atharvaveda are attributed to him and his lineage.||He is also considered a bridge between the divine and earthly realms, guiding kings and seekers alike on the path of righteousness and self-realization. In some traditions, he is also linked with cosmic order (ṛta) and is said to have played a vital role in shaping early Hindu philosophy."
+      },
+      "relatedBooks": [
+        {
+           "id":"rigveda", 
+          "title": "Rigveda",
+          "coverImage": "https://ebnw.net/wp-content/uploads/2017/01/Rig-Veda.jpg",
+          "description": "The oldest Veda containing hymns to various deities"
+        },
+        {
+           "id":"samaveda", 
+          "title": "Samaveda",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8WiuvmLgsetsSW9hlClskboHyd7sELQJ5g&s",
+          "description": "The book of melodies and chants"
+        },
+        {
+           "id":"yajurveda", 
+          "title": "Yajurveda",
+          "coverImage": "https://gurukul99.com/wp-content/uploads/2021/06/yajurved-in-hindi.png",
+          "description": "The book of sacrificial formulas"
+        }
+      ]
+    }
+  ]
+}

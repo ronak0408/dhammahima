@@ -1,0 +1,104 @@
+{
+"attractions" : [
+  {
+    "title": "Har Ki Pauri",
+    "image": "https://www.hoteldekho.com/storage/img/tourattraction/1651217314capture-1626853005.jpg",
+    "link": "/temples/har-ki-pauri"
+  },
+  {
+    "title": "Kashi Vishwanath Temple",
+    "image": "https://imgk.timesnownews.com/story/Kashi_Vishwanath_Temple.jpg?tr=w-1200,h-900",
+    "link": "/temples/kashi"
+  },
+  {
+    "title": "Sri Jagannath Temple",
+    "image": "https://www.thomascook.in/blog/wp-content/uploads/2024/06/jagannath-puri-temple.jpg",
+    "link": "/temples/jagannath"
+  },
+  {
+    "title": "Mata Vaishno Devi",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vaishno_Devi_Temple_arena.jpg",
+    "link": "/temples/vaishno-devi"
+  },
+  {
+    "title": "Somnath Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Somnath_temple.JPG",
+    "link": "/temples/somnath"
+  },
+  {
+    "title": "Kedarnath Temple",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kedarnath_Temple.jpg",
+    "link": "/temples/kedarnath"
+  },
+  {
+    "title": "Badrinath Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Badrinath_temple.jpg",
+    "link": "/temples/badrinath"
+  },
+  {
+    "title": "Golden Temple (Harmandir Sahib)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Golden_Temple_of_Amritsar.jpg",
+    "link": "/temples/golden-temple"
+  },
+  {
+    "title": "Meenakshi Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Meenakshi_Temple_gopuram.jpg",
+    "link": "/temples/meenakshi"
+  },
+  {
+    "title": "Tirupati Balaji",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tirumala_090615.jpg",
+    "link": "/temples/tirupati"
+  },
+  {
+    "title": "Brihadeeswarar Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Thanjavur_Tamil_Nadu.jpg",
+    "link": "/temples/brihadeeswarar"
+  },
+  {
+    "title": "Dwarkadhish Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Dwarkadhish_Temple.jpg",
+    "link": "/temples/dwarkadhish"
+  },
+  {
+    "title": "Rameshwaram Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ramanathaswamy_Temple%2C_Rameshwaram.jpg",
+    "link": "/temples/rameshwaram"
+  },
+  {
+    "title": "Shirdi Sai Baba Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Shirdi_Sai_Baba_Temple.jpg",
+    "link": "/temples/shirdi"
+  },
+  {
+    "title": "Akshardham Temple (Delhi)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Akshardham_Temple_Delhi.jpg",
+    "link": "/temples/akshardham"
+  },
+  {
+    "title": "Lingaraja Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lingaraj_Temple.jpg",
+    "link": "/temples/lingaraja"
+  },
+  {
+    "title": "Kamakhya Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Kamakhya_temple.jpg",
+    "link": "/temples/kamakhya"
+  },
+  {
+    "title": "Virupaksha Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Virupaksha_Temple.jpg",
+    "link": "/temples/virupaksha"
+  },
+  {
+    "title": "Ranakpur Jain Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ranakpur_Jain_Temple.jpg",
+    "link": "/temples/ranakpur"
+  },
+  {
+    "title": "Dilwara Temples",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Dilwara_Jain_Temples.jpg",
+    "link": "/temples/dilwara"
+  }
+]
+}

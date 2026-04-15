@@ -1,0 +1,166 @@
+{
+  "templeName": "Somnath",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/82/Somnath_Temple_at_Veraval%2C_Gujarat.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/Somnath_Temple%2C_Veraval%2C_Gujarat.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Somnath_Temple_from_Sea_Side.jpg"
+    ],
+    "quotes": [
+      "The first among the twelve Jyotirlingas, an eternal shrine of devotion.",
+      "Somnath: A testament to faith, repeatedly resurrected from ruins.",
+      "Where the shore meets the sacred, and prayers echo through eternity."
+    ],
+    "quoteIcon": "🕉️"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Somnath Jyotirlinga Temple" },
+        { "label": "Location", "value": "Prabhas Patan, Veraval, Gujarat" },
+        { "label": "Deity", "value": "Lord Shiva as Somnath (Lord of the Moon)" },
+        { "label": "Significance", "value": "The first of the 12 Jyotirlingas" },
+        { "label": "Temple Type", "value": "Jyotirlinga + Seaside Pilgrimage" },
+        { "label": "Rebuilt", "value": "Multiple times, latest in 1951" },
+        { "label": "Best Time to Visit", "value": "September to March" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Morning Aarti", "value": "7:00 AM" },
+        { "label": "Afternoon Aarti", "value": "12:00 PM" },
+        { "label": "Evening Aarti", "value": "7:00 PM" },
+        { "label": "Light & Sound Show", "value": "8:00 PM - 9:00 PM" }
+      ],
+      "note": "The evening Aarti is a grand affair. The temple also hosts a spectacular light and sound show narrating its history.",
+      "quote": {
+        "text": "“The sound of the waves and the temple bells at Somnath create a divine symphony that resonates deep within the soul.”",
+        "author": "— A Devotee's Experience"
+      },
+      "description": "Devotees offer milk, water, and flowers. The temple trust has made extensive arrangements for a smooth darshan experience."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Somnath Temple",
+    "titleIcon": "🕉️",
+    "floatingIcons": ["🌙", "🔱"],
+    "overview": {
+      "title": "Overview",
+      "text": "Somnath Temple is the first among the twelve Aadi Jyotirlingas of Lord Shiva. Located on the western coast of Gujarat, it is a revered pilgrimage site, symbolizing resilience and unwavering faith, having been rebuilt multiple times after destruction."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "According to legend, the Moon God, Chandra (Soma), was cursed by his father-in-law Daksha to lose his luster. To be relieved of the curse, Chandra worshipped Lord Shiva at this spot. Pleased, Shiva blessed him and took up abode here, becoming known as Somnath, the 'Protector of the Moon God'."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "Constructed in the Chaulukya style of architecture, also known as the 'Kailash Mahameru Prasad' style.",
+        "The temple is situated at a point on the coast where there is no land in a straight line between the shore and Antarctica.",
+        "The main spire (Shikhar) is 15 meters high, topped with a pot vessel (Kalash) weighing 10 tonnes.",
+        "Built from intricately carved sandstone, depicting various Hindu deities and mythological scenes.",
+        "The current temple was reconstructed in 1951 under the guidance of Sardar Vallabhbhai Patel."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "Considered the primary and foremost of the 12 Jyotirlingas.",
+        "The site is a 'Triveni Sangam' - the confluence of three holy rivers: Kapila, Hiran, and the mythical Saraswati.",
+        "It is believed that a darshan at Somnath cleanses the soul of all sins and ailments.",
+        "The temple stands as a powerful symbol of Hindu resurgence and cultural preservation."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "Ancient Times", "event": "Believed to have been originally built in gold by the Moon God, then in silver by Ravana, and in sandalwood by Krishna." },
+        { "period": "1026 CE", "event": "Destroyed by Mahmud of Ghazni, marking one of several destructions." },
+        { "period": "1783 CE", "event": "A new temple was built nearby by Queen Ahilyabai Holkar of Indore." },
+        { "period": "1951 CE", "event": "The present-day temple was reconstructed and inaugurated by the first President of India, Dr. Rajendra Prasad." }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "🌊", "text": "The sea-facing location is considered highly auspicious and powerful." },
+        { "icon": "🏹", "text": "A stone pillar, the 'Baan Stambh' (Arrow Pillar), points towards the South Pole, indicating no landmass in between." },
+        { "icon": "🙏", "text": "The nearby Bhalka Tirth is the place where Lord Krishna is believed to have left his mortal body." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "Somnath is not just a temple; it's an emblem of eternal faith, cultural pride, and the indomitable spirit of devotion. A visit here is a journey through history, spirituality, and the serene beauty of the Arabian Sea.",
+      "website": "https://somnath.org/"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Maha Shivratri – Celebrated with immense grandeur, attracting lakhs of devotees.",
+        "Kartik Purnima Fair – A major fair held for five days in November.",
+        "Shravan Maas – The entire month is filled with special pujas and decorations."
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Bhalka Tirth – The sacred spot where Lord Krishna was struck by an arrow.",
+        "Triveni Sangam Ghat – The confluence point of three holy rivers.",
+        "Paanch Pandav Gufa – A temple dedicated to the five Pandava brothers.",
+        "Gir National Park – Home to the Asiatic lions, a short drive away."
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Somnath is well-connected by road to major cities in Gujarat like Ahmedabad, Rajkot, and Porbandar." },
+      { "title": "By Helicopter", "description": "Helicopter services are generally not available for regular pilgrimage." },
+      { "title": "Nearest Railway", "description": "Veraval Railway Station is the nearest, located just 7 km away." },
+      { "title": "Nearest Airport", "description": "Diu Airport (DIU) is about 63 km away, and Rajkot Airport (RAJ) is about 195 km away." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "Located in Prabhas Patan on the western coast of Gujarat, overlooking the Arabian Sea.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d954266.725121796!2d69.181774478125!3d20.88798990000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bfd329f0417cb75%3A0x2f5a510de9857963!2sShree%20Somnath%20Temple!5e0!3m2!1sen!2sin!4v1757960397359!5m2!1sen!2sin"
+  },
+  "blogSection": {
+    "title": "Blogs & Experiences",
+    "posts": [
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Somnath_Temple%2C_Veraval%2C_Gujarat.jpg",
+        "title": "The Evening Light and Sound Show",
+        "intro": "A mesmerizing retelling of the temple's tumultuous and glorious history.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/da/Triveni_Sangam_at_Somnath.jpg",
+        "title": "A Holy Dip at Triveni Sangam",
+        "intro": "Experiencing the spiritual confluence of three sacred rivers.",
+        "link": "#"
+      }
+    ]
+  },
+  "imageMapSection": {
+    "imageSrc": "/images/somnath/main.jpg",
+    "altText": "Somnath Temple",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d954266.725121796!2d69.181774478125!3d20.88798990000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bfd329f0417cb75%3A0x2f5a510de9857963!2sShree%20Somnath%20Temple!5e0!3m2!1sen!2sin!4v1757960397359!5m2!1sen!2sin"
+  }
+}

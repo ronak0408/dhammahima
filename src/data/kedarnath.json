@@ -1,0 +1,177 @@
+{
+  "templeName": "Kedarnath",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/Shri_Kedarnath_Jyotirlinga_Temple_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c8/Shri_Kedarnath_Jyotirlinga_Temple_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kedarnath_temple_in_uttarakhand.jpg"
+    ],
+    "quotes": [
+      "“Om Namah Shivaya” – Sacred is the path, sacred is the soul.",
+      "In the shadow of Himalayas, devotion finds its voice.",
+      "Kedarnath: Where the mountains echo with faith."
+    ],
+    "quoteIcon": "🕉️"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Kedarnath Jyotirlinga Temple" },
+        { "label": "Location", "value": "Kedarnath, Rudraprayag district, Uttarakhand" },
+        { "label": "Deity", "value": "Lord Shiva as Kedarnath (Lord of the Kedar Hills)" },
+        { "label": "Significance", "value": "One of 12 Jyotirlingas + Part of Char Dham" },
+        { "label": "Temple Type", "value": "Jyotirlinga + Himalayan Pilgrimage" },
+        { "label": "Altitude", "value": "3,583 meters (11,755 ft)" },
+        { "label": "Best Time to Visit", "value": "May – October (temple closed in winter)" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Opening Aarti", "value": "4:00 AM" },
+        { "label": "Abhishek Puja", "value": "4:30–6:30 AM" },
+        { "label": "Bhog Aarti", "value": "11:30 AM" },
+        { "label": "Evening Aarti", "value": "6:00–7:30 PM" }
+      ],
+      "note": "You can book Rudrabhishek or Shringar Puja online via the official Kedarnath website or the GMVN portal.",
+      "quote": {
+        "text": "“Aarti at Kedarnath is not just ritual — it’s an experience of the divine, as hymns echo through the mountains and hearts open to Lord Shiva.”",
+        "author": "— Sacred Pilgrim Thought"
+      },
+      "description": "Devotees are encouraged to participate with reverence and maintain silence during rituals for a truly spiritual atmosphere. The fragrance of incense and rhythmic chanting create an otherworldly serenity in the temple precincts."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Kedarnath Temple",
+    "titleIcon": "🕉️",
+    "floatingIcons": ["🕉️", "🔱"],
+    "overview": {
+      "title": "Overview",
+      "text": "Kedarnath Temple, one of the holiest Hindu shrines, is nestled in the Garhwal Himalayas of Uttarakhand. Dedicated to Lord Shiva, this Jyotirlinga draws thousands of pilgrims annually and is a key destination in the Char Dham Yatra."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "According to Mahabharata, after the war, the Pandavas sought Lord Shiva for redemption from the sins of killing their own kin. Shiva, avoiding them, took refuge in the Himalayas in the form of a bull. Bhima recognized him and tried to catch the bull, but Shiva disappeared into the ground, leaving his hump visible in Kedarnath. The other parts of his body appeared at four other places, forming the Panch Kedar. Thus, Kedarnath became the place where Shiva forgave the Pandavas and blessed them."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "Constructed using massive stone slabs, joined without mortar in the traditional Katyuri style.",
+        "Located at an altitude of 3,583 meters, surrounded by snow-covered peaks and the sacred Mandakini River.",
+        "Sanctum houses a unique hump-shaped Shiva lingam; Nandi bull statue graces the temple entrance.",
+        "Built or restored by Adi Shankaracharya, embodying enduring Himalayan spiritual architecture.",
+        "Temple survived the devastating 2013 floods thanks to the protective Bhim Shila boulder."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "Considered the highest and the most remote of the 12 Jyotirlingas.",
+        "Believed to be the site where Lord Shiva absolved the Pandavas of their sins after the Mahabharata war.",
+        "The temple offers pilgrims spiritual liberation, forgiveness, and inner purity.",
+        "Open only six months a year (May to October); deity relocates to Ukhimath temple during winter.",
+        "Meditation and pilgrimage here are deeply connected to moksha and detachment from worldly suffering."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "Ancient Era", "event": "Referenced in Puranas & Mahabharata" },
+        { "period": "8th Century CE", "event": "Believed to be revived by Adi Shankaracharya" },
+        { "period": "2013", "event": "Temple miraculously survived Uttarakhand floods (Bhim Shila)" },
+        { "period": "2014–2021", "event": "Major restoration and conservation by Indian government" },
+        { "period": "Present", "event": "Massive annual pilgrimage, digitally accessible" }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "🔱", "text": "Myth: Shiva eluded the Pandavas and dove into the ground as a bull; his hump appeared at Kedarnath." },
+        { "icon": "🙏", "text": "Char Dham Rule: Pilgrims must visit Yamunotri, Gangotri, and Badrinath before Kedarnath." },
+        { "icon": "✨", "text": "Spiritual energy at Kedarnath Jyotirlinga is believed to peak during Shravan month." },
+        { "icon": "🕉️", "text": "In winter, a holy deity is moved to Ukhimath's Omkareshwar temple." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "Kedarnath Jyotirlinga is not just a temple, it is a soul-stirring experience in the lap of the Himalayas. Known for its purity, penance, and peace, a visit here is the ultimate pilgrimage of faith, surrender, and liberation.",
+      "website": "https://badrinath-kedarnath.gov.in"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Maha Shivratri – Rudrabhishek and special aartis",
+        "Opening Day – Huge celebration in May, idol brought from Ukhimath",
+        "Closing Day – October/November, idol carried back to Ukhimath",
+        "Shravan Maas – Daily pooja, massive crowds of pilgrims"
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Bhairavnath Temple – Guardian deity of Kedarnath",
+        "Adi Shankaracharya Samadhi – Just behind the temple",
+        "Vasuki Tal – High altitude lake with Himalayan view",
+        "Gandhi Sarovar – Glacial lake",
+        "Ukhimath – Winter seat of Kedarnath idol"
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Reach Gaurikund by bus or taxi; then trek 16 km to Kedarnath temple." },
+      { "title": "By Helicopter", "description": "Helicopter services available from Phata, Guptkashi, or Dehradun (popular during yatra season)." },
+      { "title": "Nearest Railway", "description": "Rishikesh (~215 km from Kedarnath)." },
+      { "title": "Nearest Airport", "description": "Jolly Grant Airport, Dehradun (238 km from Kedarnath)." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "At 3,583m in Uttarakhand’s Garhwal Himalayas, beside the Mandakini River.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3415.75338982544!2d79.06478951514086!3d30.73462178160551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39083ee079a78523%3A0x1ea257b3e5e48bee!2sKedarnath%20Temple!5e0!3m2!1sen!2sin!4v1632309115794!5m2!1sen!2sin"
+  },
+"blogSection": {
+  "title": "Blogs & Experiences",
+  "posts": [
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kedarnath_2.jpg",
+      "title": "Pilgrim’s Journey",
+      "intro": "A first-hand account of the trek up to the sacred shrine.",
+      "link": "#"
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Kedarnath_walkover.jpg",
+      "title": "Packing for the Himalayas",
+      "intro": "Essential tips for your Char Dham Yatra.",
+      "link": "#"
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kedarnath_temple01.jpg",
+      "title": "Festivals of Kedarnath",
+      "intro": "Spiritual celebrations that light up the sacred valley.",
+      "link": "#"
+    }
+  ]
+},
+  "imageMapSection": {
+    "imageSrc": "/images/kedarnath/main.jpg",
+    "altText": "Kedarnath Temple",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3415.75338982544!2d79.06478951514086!3d30.73462178160551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39083ee079a78523%3A0x1ea257b3e5e48bee!2sKedarnath%20Temple!5e0!3m2!1sen!2sin!4v1632309115794!5m2!1sen!2sin"
+  }
+}

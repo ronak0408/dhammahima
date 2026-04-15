@@ -1,0 +1,316 @@
+{
+  "upanishads": [
+    {
+      "id": "isha-upanishad",
+      "book": {
+        "title": "Isha Upanishad",
+        "translator": "Swami Gambhirananda",
+        "description": "The Isha Upanishad is one of the shortest yet most profound Upanishads, belonging to the Shukla Yajurveda. It consists of only 18 verses but encapsulates the essence of Vedantic philosophy, teaching the unity of the individual soul (Atman) with the ultimate reality (Brahman). It emphasizes that the world is pervaded by the Divine and teaches the path of combining both spiritual knowledge (jnana) and selfless action (karma) for liberation. The Upanishad presents a balanced view of life, advocating detachment while living actively in the world.",
+        "coverImage": "https://example.com/images/isha-upanishad-cover.jpg",
+        "meta": {
+          "genre": "Vedanta Philosophy",
+          "language": "Sanskrit/English",
+          "pages": "48",
+          "publisher": "Advaita Ashrama",
+          "price": "₹150.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Ancient Vedic Rishis",
+        "image": "https://example.com/images/vedic-rishis.jpg",
+        "description": "The Isha Upanishad is part of the Vedic tradition that was revealed to ancient seers during deep states of meditation.||These rishis were not individual authors but channels of cosmic knowledge who perceived the eternal truths of existence.||Their revelations form the foundation of Upanishadic thought, emphasizing the non-dual nature of reality and the identity of the individual self with the universal consciousness."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Brihadaranyaka Upanishad",
+          "coverImage": "https://example.com/images/brihadaranyaka-cover.jpg",
+          "description": "One of the oldest Upanishads exploring the nature of reality"
+        },
+        {
+           "id":"",
+          "title": "Vivekachudamani",
+          "coverImage": "https://example.com/images/vivekachudamani-cover.jpg",
+          "description": "Adi Shankara's classic text on discrimination between real and unreal"
+        }
+      ]
+    },
+    {
+      "id": "kena-upanishad",
+      "book": {
+        "title": "Kena Upanishad",
+        "translator": "Swami Sarvananda",
+        "description": "The Kena Upanishad, also known as the Talavakara Upanishad, belongs to the Sama Veda. It derives its name from the first word 'Kena' meaning 'by whom'. This Upanishad investigates the nature of Brahman, the ultimate reality that is the source of all powers of perception, action, and knowledge. It is divided into four sections, with the first two in verse form and the last two in prose, containing the famous parable of the gods and the mysterious spirit to illustrate that Brahman is beyond sensory perception yet enables all perception.",
+        "coverImage": "https://example.com/images/kena-upanishad-cover.jpg",
+        "meta": {
+          "genre": "Vedanta Philosophy",
+          "language": "Sanskrit/English",
+          "pages": "52",
+          "publisher": "Sri Ramakrishna Math",
+          "price": "₹145.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Sama Vedic Rishis",
+        "image": "https://example.com/images/sama-vedic-rishis.jpg",
+        "description": "The Kena Upanishad emerged from the Sama Vedic tradition, which focused on melodic chanting and spiritual knowledge.||The rishis who revealed this Upanishad were masters of meditation and metaphysical inquiry.||They understood that true knowledge comes not from intellectual understanding alone but from direct realization of the source of consciousness itself."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Mandukya Upanishad",
+          "coverImage": "https://example.com/images/mandukya-cover.jpg",
+          "description": "Concise Upanishad focusing on the significance of Om and states of consciousness"
+        },
+        {
+           "id":"",
+          "title": "Katha Upanishad",
+          "coverImage": "https://example.com/images/katha-cover.jpg",
+          "description": "Dialogue between Yama and Nachiketa about life after death"
+        }
+      ]
+    },
+    {
+      "id": "mundaka-upanishad",
+      "book": {
+        "title": "Mundaka Upanishad",
+        "translator": "Swami Prabhavananda",
+        "description": "The Mundaka Upanishad belongs to the Atharva Veda and is highly regarded for its clear exposition of Vedantic philosophy. The name 'Mundaka' derives from 'mund' meaning 'to shave', suggesting that this knowledge shaves away ignorance. It distinguishes between lower knowledge (rituals and worldly sciences) and higher knowledge (knowledge of Brahman). The Upanishad presents the famous analogy of the bow and arrow for meditation and describes Brahman as the target of spiritual practice. It also contains the powerful mantra 'Satyameva Jayate' (Truth alone triumphs), which is India's national motto.",
+        "coverImage": "https://example.com/images/mundaka-upanishad-cover.jpg",
+        "meta": {
+          "genre": "Vedanta Philosophy",
+          "language": "Sanskrit/English",
+          "pages": "64",
+          "publisher": "Sri Ramakrishna Math",
+          "price": "₹160.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Angiras Rishi",
+        "image": "https://example.com/images/angiras-rishi.jpg",
+        "description": "The Mundaka Upanishad is presented as a teaching from the sage Angiras to his disciple Saunaka.||Angiras was one of the great Vedic seers who belonged to the family of Brahma's mental sons.||He represents the tradition of wisdom passed from guru to disciple, emphasizing direct experiential knowledge over ritualistic practices."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Prashna Upanishad",
+          "coverImage": "https://example.com/images/prashna-cover.jpg",
+          "description": "Upanishad structured around six questions about cosmic principles"
+        },
+        {
+           "id":"",
+          "title": "Atma Bodha",
+          "coverImage": "https://example.com/images/atma-bodha-cover.jpg",
+          "description": "Adi Shankara's text on knowledge of the Self"
+        }
+      ]
+    },
+    {
+      "id": "mandukya-upanishad",
+      "book": {
+        "title": "Mandukya Upanishad",
+        "translator": "Swami Nikhilananda",
+        "description": "The Mandukya Upanishad is the shortest of all Upanishads, containing only 12 verses, yet it is considered one of the most important texts in Advaita Vedanta philosophy. It belongs to the Atharva Veda and entirely focuses on the significance of the sacred syllable Om and the four states of consciousness: waking, dreaming, deep sleep, and turiya (the fourth state of pure consciousness). Gaudapada's Karika, a commentary on this Upanishad, forms the earliest available systematic treatise on Advaita Vedanta, which was further developed by Adi Shankara.",
+        "coverImage": "https://example.com/images/mandukya-upanishad-cover.jpg",
+        "meta": {
+          "genre": "Advaita Vedanta",
+          "language": "Sanskrit/English",
+          "pages": "120",
+          "publisher": "Advaita Ashrama",
+          "price": "₹200.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Atharvanic Rishis",
+        "image": "https://example.com/images/atharvanic-rishis.jpg",
+        "description": "The Mandukya Upanishad comes from the Atharva Vedic tradition, which dealt with both worldly and spiritual knowledge.||The rishis who revealed this Upanishad had profound insight into the nature of consciousness.||They understood that the entire universe is a manifestation of consciousness and that understanding the states of consciousness is key to liberation."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Gaudapada Karika",
+          "coverImage": "https://example.com/images/gaudapada-karika-cover.jpg",
+          "description": "Gaudapada's commentary on Mandukya Upanishad"
+        },
+        {
+           "id":"",
+          "title": "Panchadasi",
+          "coverImage": "https://example.com/images/panchadasi-cover.jpg",
+          "description": "Vidyaranya's text on Advaita Vedanta"
+        }
+      ]
+    },
+    {
+      "id": "chandogya-upanishad",
+      "book": {
+        "title": "Chandogya Upanishad",
+        "translator": "Swami Swahananda",
+        "description": "The Chandogya Upanishad is one of the largest and oldest Upanishads, belonging to the Sama Veda. It consists of eight chapters and contains important dialogues and instructions on spiritual knowledge. Famous for its Mahavakyas (great sayings) such as 'Tat Tvam Asi' (That Thou Art), it presents profound teachings through stories and conversations. The Upanishad covers various spiritual practices, the nature of reality, and the identity of the individual self with Brahman. It includes the teachings of Uddalaka to his son Shvetaketu, which form a significant portion of the text.",
+        "coverImage": "https://example.com/images/chandogya-upanishad-cover.jpg",
+        "meta": {
+          "genre": "Vedanta Philosophy",
+          "language": "Sanskrit/English",
+          "pages": "450",
+          "publisher": "Sri Ramakrishna Math",
+          "price": "₹450.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Sama Vedic Seers",
+        "image": "https://example.com/images/sama-vedic-seers.jpg",
+        "description": "The Chandogya Upanishad emerged from the Sama Vedic tradition, which specialized in melodic chanting and spiritual knowledge.||The rishis who composed this Upanishad were both ritualists and philosophers who understood the deeper meaning behind rituals.||They used dialogues between teachers and students to convey profound metaphysical truths in an accessible manner."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Brihadaranyaka Upanishad",
+          "coverImage": "https://example.com/images/brihadaranyaka-cover.jpg",
+          "description": "The largest Upanishad with extensive philosophical discussions"
+        },
+        {
+           "id":"",
+          "title": "Uddhava Gita",
+          "coverImage": "https://example.com/images/uddhava-gita-cover.jpg",
+          "description": "Krishna's final teachings to Uddhava in the Bhagavata Purana"
+        }
+      ]
+    },
+    {
+      "id": "brihadaranyaka-upanishad",
+      "book": {
+        "title": "Brihadaranyaka Upanishad",
+        "translator": "Swami Madhavananda",
+        "description": "The Brihadaranyaka Upanishad is one of the oldest and largest Upanishads, forming part of the Shatapatha Brahmana of the Shukla Yajurveda. The name means 'Great Forest Treatise', indicating both its size and the setting of its teachings. It contains extensive philosophical discussions, including the famous dialogues between Yajnavalkya and his wives Maitreyi and Gargi. The Upanishad explores the nature of reality, the self, and Brahman, and contains important Mahavakyas like 'Aham Brahmasmi' (I am Brahman). It addresses fundamental questions about creation, consciousness, and the ultimate reality.",
+        "coverImage": "https://example.com/images/brihadaranyaka-upanishad-cover.jpg",
+        "meta": {
+          "genre": "Vedanta Philosophy",
+          "language": "Sanskrit/English",
+          "pages": "520",
+          "publisher": "Advaita Ashrama",
+          "price": "₹500.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Yajnavalkya and other Vedic Seers",
+        "image": "https://example.com/images/yajnavalkya.jpg",
+        "description": "The Brihadaranyaka Upanishad is primarily associated with the sage Yajnavalkya, one of the greatest philosophers of the Upanishadic period.||Yajnavalkya was known for his brilliant debates and profound insights into the nature of reality.||He taught that the true self (Atman) is identical with the ultimate reality (Brahman) and that realizing this identity leads to liberation."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Chandogya Upanishad",
+          "coverImage": "https://example.com/images/chandogya-cover.jpg",
+          "description": "Large Upanishad containing important dialogues and teachings"
+        },
+        {
+           "id":"",
+          "title": "Yoga Vasistha",
+          "coverImage": "https://example.com/images/yoga-vasistha-cover.jpg",
+          "description": "Philosophical text discussing non-dualism through stories"
+        }
+      ]
+    },
+    {
+      "id": "taittiriya-upanishad",
+      "book": {
+        "title": "Taittiriya Upanishad",
+        "translator": "Swami Gambhirananda",
+        "description": "The Taittiriya Upanishad belongs to the Krishna Yajurveda and is divided into three sections: Siksha Valli (on phonetics and discipline), Brahmananda Valli (on bliss of Brahman), and Bhrigu Valli (on realization through austerity). It presents the concept of koshas (five sheaths covering the soul) and describes Brahman as the source of infinite bliss. The Upanishad contains practical instructions for students, ethical teachings, and metaphysical insights. It emphasizes the importance of right conduct, teacher-strelationship, and gradual progression in spiritual understanding.",
+        "coverImage": "https://example.com/images/taittiriya-upanishad-cover.jpg",
+        "meta": {
+          "genre": "Vedanta Philosophy",
+          "language": "Sanskrit/English",
+          "pages": "180",
+          "publisher": "Advaita Ashrama",
+          "price": "₹250.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Tittiri Rishis",
+        "image": "https://example.com/images/tittiri-rishis.jpg",
+        "description": "The Taittiriya Upanishad comes from the Taittiriya school of the Krishna Yajurveda.||The rishis of this tradition were known for their systematic approach to both ritual and philosophical knowledge.||They developed comprehensive educational systems that integrated ethical discipline with metaphysical inquiry, emphasizing the holistic development of students."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Shikshavalli",
+          "coverImage": "https://example.com/images/shikshavalli-cover.jpg",
+          "description": "Text on Vedic phonetics and student discipline"
+        },
+        {
+           "id":"",
+          "title": "Panchikaranam",
+          "coverImage": "https://example.com/images/panchikaranam-cover.jpg",
+          "description": "Adi Shankara's text on the five elements and their combination"
+        }
+      ]
+    },
+    {
+      "id": "aitareya-upanishad",
+      "book": {
+        "title": "Aitareya Upanishad",
+        "translator": "Swami Sarvananda",
+        "description": "The Aitareya Upanishad belongs to the Rigveda and is one of the oldest Upanishads. It consists of three chapters that discuss the creation of the universe, the nature of the self, and the process of rebirth. The first chapter presents a cosmological account of creation, describing how the Supreme Self created the world and entered into it as the individual soul. The second chapter deals with the three births of a human being, and the third chapter discusses the nature of consciousness and the self's journey after death. It emphasizes that consciousness is the essence of the self and the source of all faculties.",
+        "coverImage": "https://example.com/images/aitareya-upanishad-cover.jpg",
+        "meta": {
+          "genre": "Vedanta Philosophy",
+          "language": "Sanskrit/English",
+          "pages": "96",
+          "publisher": "Sri Ramakrishna Math",
+          "price": "₹170.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Mahidasa Aitareya",
+        "image": "https://example.com/images/mahidasa-aitareya.jpg",
+        "description": "The Aitareya Upanishad is attributed to Mahidasa Aitareya, a renowned sage of the Rigvedic tradition.||According to tradition, he was the son of Itara and was named Aitareya after his mother.||He was a profound thinker who systematized the philosophical teachings embedded in the Rigveda, particularly those related to creation and the nature of consciousness."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Rigveda Samhita",
+          "coverImage": "https://example.com/images/rigveda-samhita-cover.jpg",
+          "description": "The oldest Veda containing hymns to various deities"
+        },
+        {
+           "id":"",
+          "title": "Creation Hymns of the Vedas",
+          "coverImage": "https://example.com/images/creation-hymns-cover.jpg",
+          "description": "Collection of Vedic hymns dealing with cosmic creation"
+        }
+      ]
+    }
+  ]
+}

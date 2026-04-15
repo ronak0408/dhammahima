@@ -1,0 +1,121 @@
+{
+  "itihasa": [
+    {
+      "id": "ramayana",
+      "book": {
+        "title": "Ramayana (रामायण)",
+        "translator": "Bibek Debroy",
+        "description": "The Ramayana is one of the two great epics of ancient India, composed by the sage Valmiki in Sanskrit. It narrates the life of Prince Rama of Ayodhya, his exile, the abduction of his wife Sita by the demon king Ravana, and his eventual victory with the help of an army of monkeys. More than just an epic story, it represents the ideals of dharma, righteousness, and duty. The text consists of 24,000 verses divided into seven books (kandas) and is considered the adi-kavya (first poem) in Sanskrit literature. It has profoundly influenced Indian culture, art, and values for millennia.",
+        "coverImage": "https://example.com/images/ramayana-cover.jpg",
+        "meta": {
+          "genre": "Epic Poetry / Itihasa",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "1200",
+          "publisher": "Penguin Classics",
+          "price": "₹999.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Valmiki",
+        "image": "https://example.com/images/valmiki.jpg",
+        "description": "Valmiki is celebrated as the first poet (adi kavi) in Sanskrit literature.||According to tradition, he was a robber who transformed into a sage through divine intervention.||He composed the Ramayana after witnessing the sorrow of a female bird whose mate was killed by a hunter, which inspired his first poetic utterance.||He provided shelter to Sita during her exile and taught the Ramayana to Rama's sons, Lava and Kusha."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Uttara Ramayana",
+          "coverImage": "https://example.com/images/uttara-ramayana-cover.jpg",
+          "description": "The later section of Ramayana dealing with events after Rama's coronation"
+        },
+        {
+           "id":"",
+          "title": "Ramcharitmanas",
+          "coverImage": "https://example.com/images/ramcharitmanas-cover.jpg",
+          "description": "Tulsidas's Awadhi version of the Ramayana"
+        }
+      ]
+    },
+    {
+      "id": "mahabharata",
+      "book": {
+        "title": "Mahabharata (महाभारत)",
+        "translator": "Kisari Mohan Ganguli",
+        "description": "The Mahabharata is the longest epic poem in world literature, consisting of over 100,000 shlokas (verses). Attributed to the sage Vyasa, it narrates the conflict between the Pandavas and Kauravas, cousin princes vying for the throne of Hastinapura. The epic encompasses philosophical and devotional material, including the Bhagavad Gita. It addresses the four goals of human life: dharma (duty), artha (prosperity), kama (pleasure), and moksha (liberation). The text is not merely a story but an encyclopedia of ancient Indian wisdom, containing narratives, discourses, and teachings on various subjects including politics, ethics, warfare, and spirituality.",
+        "coverImage": "https://example.com/images/mahabharata-cover.jpg",
+        "meta": {
+          "genre": "Epic Poetry / Itihasa",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "3600",
+          "publisher": "Munshiram Manoharlal",
+          "price": "₹2,800.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Maharishi Vyasa",
+        "image": "https://example.com/images/vyasa.jpg",
+        "description": "Vyasa, also known as Krishna Dvaipayana, is a central and revered figure in Hindu tradition.||He is credited with compiling the Vedas and composing the Mahabharata, Puranas, and Brahma Sutras.||According to the epic itself, Vyasa is both author and character – he is the grandfather of the Pandavas and Kauravas.||He dictated the epic to Lord Ganesha, who served as his scribe."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Bhagavad Gita",
+          "coverImage": "https://example.com/images/bhagavad-gita-cover.jpg",
+          "description": "The philosophical core of the Mahabharata"
+        },
+        {
+           "id":"",
+          "title": "Shrimad Bhagavatam",
+          "coverImage": "https://example.com/images/bhagavatam-cover.jpg",
+          "description": "Vyasa's devotional masterpiece focusing on Krishna's life"
+        }
+      ]
+    },
+    {
+      "id": "bhagavad-gita",
+      "book": {
+        "title": "Bhagavad Gita (भगवद्गीता)",
+        "translator": "Swami Prabhupada",
+        "description": "The Bhagavad Gita is a 700-verse Hindu scripture that is part of the Mahabharata (Bhishma Parva, chapters 23–40). It presents a conversation between Prince Arjuna and Lord Krishna, who serves as his charioteer. Set on the battlefield of Kurukshetra, the Gita addresses Arjuna's moral dilemma about fighting his relatives and teachers. Krishna's teachings encompass various yogic and Vedantic philosophies, discussing duty without attachment, the nature of reality, the self, and the Supreme. The text integrates different paths to spiritual realization – Karma Yoga (path of action), Jnana Yoga (path of knowledge), and Bhakti Yoga (path of devotion).",
+        "coverImage": "https://example.com/images/bhagavad-gita-cover.jpg",
+        "meta": {
+          "genre": "Philosophical Scripture / Yoga Shastra",
+          "language": "Sanskrit/English/Hindi",
+          "pages": "550",
+          "publisher": "Bhaktivedanta Book Trust",
+          "price": "₹350.00"
+        },
+        "purchaseLinks": {
+          "amazon": "#",
+          "flipkart": "#"
+        }
+      },
+      "author": {
+        "name": "Lord Krishna through Vyasa",
+        "image": "https://example.com/images/krishna.jpg",
+        "description": "The Bhagavad Gita is the divine discourse of Lord Krishna, the eighth avatar of Vishnu.||While Vyasa is the compiler, the teachings are directly from Krishna to Arjuna on the battlefield of Kurukshetra.||Krishna is worshipped as the Supreme Personality of Godhead in Vaishnavism and is revered as a teacher, friend, and divine guide.||His teachings in the Gita synthesize various philosophical traditions and provide a practical guide to spiritual life."
+      },
+      "relatedBooks": [
+        {
+           "id":"",
+          "title": "Gita Rahasya",
+          "coverImage": "https://example.com/images/gita-rahasya-cover.jpg",
+          "description": "Bal Gangadhar Tilak's commentary on the Bhagavad Gita"
+        },
+        {
+           "id":"",
+          "title": "Gita Press Gita",
+          "coverImage": "https://example.com/images/gita-press-cover.jpg",
+          "description": "The widely popular Hindi edition with commentary"
+        }
+      ]
+    }
+  ]
+}

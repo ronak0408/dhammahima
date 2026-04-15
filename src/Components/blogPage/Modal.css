@@ -1,0 +1,70 @@
+/* --- Modal Styles --- */
+@keyframes zenitsu-modal-anim {
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
+}
+
+.zenitsu-modal-backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(5px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    padding: 20px;
+}
+
+.zenitsu-modal {
+    background: #ffffff;
+    padding: 2rem;
+    border-radius: 12px;
+    width: 80%;
+    max-width: 800px;
+    max-height: 90vh;
+    overflow-y: auto;
+    position: relative;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    animation: zenitsu-modal-anim 0.4s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+
+.zenitsu-modal__close-btn {
+    position: absolute; top: 1rem; right: 1rem; font-size: 2rem;
+    color: #aaa; background: none; border: none; cursor: pointer;
+    transition: color 0.2s;
+}
+.zenitsu-modal__close-btn:hover { color: #3A3A3A; }
+
+.zenitsu-modal__title { margin-top: 0; color: #3A3A3A; font-size: 2rem; }
+
+.zenitsu-carousel {
+    width: 100%; padding-top: 56.25%; position: relative;
+    margin: 1.5rem 0; border-radius: 12px;
+    overflow: hidden; background: #e0e0e0;
+}
+.zenitsu-carousel__image {
+    position: absolute; inset: 0; width: 100%; height: 100%;
+    object-fit: cover; opacity: 0; transition: opacity 1s ease-in-out;
+}
+.zenitsu-carousel__image--active { opacity: 1; }
+
+.zenitsu-infobox {
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;
+    background-color: #f4f2f7; padding: 1.5rem;
+    border-radius: 12px; margin-bottom: 2rem;
+}
+.zenitsu-infobox__item { line-height: 1.5; }
+.zenitsu-infobox__item--full-width { grid-column: 1 / -1; }
+.zenitsu-infobox__item strong { color: #3A3A3A; }
+
+.zenitsu-description { border-top: 1px solid #e8e8e8; padding-top: 1rem; }
+.zenitsu-description__category h4 { color: #6C63FF; margin-bottom: 0.5rem; }
+.zenitsu-description__category p { line-height: 1.7; margin-top: 0; }
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+    .zenitsu-infobox { grid-template-columns: 1fr; }
+    .zenitsu-modal { width: 95%; padding: 1.5rem; }
+    .zenitsu-modal__title { font-size: 1.6rem; }
+}

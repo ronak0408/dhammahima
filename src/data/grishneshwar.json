@@ -1,0 +1,158 @@
+{
+  "templeName": "Grishneshwar",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c5/Grishneshwar_temple%2C_Ellora.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e0/Grishneshwar_Jyotirlinga_Temple%2C_Aurangabad.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3d/Grishneshwar_Temple_at_Ellora.jpg"
+    ],
+    "quotes": [
+      "The final of the twelve Jyotirlingas, a culmination of the sacred pilgrimage.",
+      "Grishneshwar: A testament to a devotee's unwavering faith and the Lord's compassion.",
+      "Located near the magnificent Ellora Caves, where spirituality is carved in stone."
+    ],
+    "quoteIcon": "🕉️"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Grishneshwar Jyotirlinga Temple" },
+        { "label": "Location", "value": "Verul, Near Aurangabad, Maharashtra" },
+        { "label": "Deity", "value": "Lord Shiva as Grishneshwar (Lord of Compassion)" },
+        { "label": "Significance", "value": "The 12th and final Jyotirlinga" },
+        { "label": "Temple Type", "value": "Jyotirlinga" },
+        { "label": "Proximity", "value": "Less than a kilometer from the Ellora Caves (UNESCO World Heritage Site)" },
+        { "label": "Best Time to Visit", "value": "June to March" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Kakad Aarti", "value": "4:00 AM" },
+        { "label": "Mangal Aarti", "value": "5:30 AM" },
+        { "label": "Maha Puja", "value": "7:00 AM" },
+        { "label": "Shejarti Aarti", "value": "10:00 PM" }
+      ],
+      "note": "Similar to Nageshwar, male devotees are permitted to enter the main sanctum bare-chested to perform Abhishek on the lingam.",
+      "quote": {
+        "text": "“After marveling at the rock-cut Kailasa temple at Ellora, visiting Grishneshwar feels like seeing the living form of the same divine energy.”",
+        "author": "— An Art Historian"
+      },
+      "description": "The temple is an important pilgrimage site, often visited along with the Ellora and Ajanta Caves."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Grishneshwar Temple",
+    "titleIcon": "🕉️",
+    "floatingIcons": ["🔱", "🌺"],
+    "overview": {
+      "title": "Overview",
+      "text": "Grishneshwar Jyotirlinga, located near the renowned Ellora Caves, is the last of the 12 sacred Jyotirlingas mentioned in the Shiva Purana. The temple is a beautiful example of Maratha architecture and holds deep spiritual significance as the culminating point of the Jyotirlinga pilgrimage."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "The temple's origin is linked to a devout woman named Kusuma. She would create and immerse a Shiva lingam daily in a tank as part of her worship. Her husband's first wife, jealous of her piety, killed Kusuma's son. Grief-stricken but with unshaken faith, Kusuma continued her ritual. Pleased by her devotion, Lord Shiva resurrected her son and manifested himself as the Grishneshwar Jyotirlinga at that spot."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "The current temple was rebuilt in the 18th century by Maharani Ahilyabai Holkar of Indore, a great patron of Hindu temples.",
+        "It is constructed from red rock and features a five-tiered shikhara (spire).",
+        "The temple walls are adorned with intricate carvings of various gods and goddesses.",
+        "The main hall is supported by 24 beautifully carved pillars, depicting scenes from Hindu mythology.",
+        "It is one of the smallest Jyotirlinga temples in terms of area."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "It is revered as the 12th and final Jyotirlinga, marking the completion of the pilgrimage.",
+        "A visit to Grishneshwar is believed to bestow the benefits of visiting all 12 Jyotirlingas.",
+        "The temple's legend highlights the power of selfless devotion (bhakti) and divine compassion.",
+        "Its proximity to the Ellora Caves, especially the Kailasa Temple (Cave 16), creates a powerful spiritual circuit."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "13th-14th Century", "event": "The temple was destroyed during the Delhi Sultanate period." },
+        { "period": "16th Century", "event": "Rebuilt by Maloji Bhosale of Verul, grandfather of Shivaji." },
+        { "period": "18th Century", "event": "The current structure was rebuilt by Ahilyabai Holkar after being destroyed again." }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "🙏", "text": "A darshan at Grishneshwar is believed to fulfill all desires and remove obstacles from life." },
+        { "icon": "💧", "text": "The water from the temple tank is considered holy and purifying." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "Grishneshwar Jyotirlinga is a serene and beautiful temple that stands as a symbol of pure devotion and divine grace. Its location near the artistic marvels of Ellora makes it a perfect conclusion to a journey that combines history, art, and profound spirituality.",
+      "website": "https://shrigrishneshwarjyotirling.org/"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Maha Shivratri – The main festival, celebrated with a grand fair and night-long prayers.",
+        "Shravan Maas – The holy month sees a large influx of devotees for special pujas."
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Ellora Caves – A UNESCO World Heritage site with monumental rock-cut caves.",
+        "Daulatabad Fort – A magnificent and historic fort.",
+        "Ajanta Caves – Another UNESCO World Heritage site, famous for its ancient murals.",
+        "Bibi Ka Maqbara – A beautiful mausoleum often called the 'Taj of the Deccan'."
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Grishneshwar is well-connected by road to Aurangabad (30 km). Regular buses and taxis are available." },
+      { "title": "By Helicopter", "description": "Not available." },
+      { "title": "Nearest Railway", "description": "Aurangabad Railway Station (AWB) is the nearest major railhead." },
+      { "title": "Nearest Airport", "description": "Aurangabad Airport (IXU) is the closest, approximately 37 km away." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "Located in the village of Verul, less than a kilometer from the Ellora Caves, near Aurangabad in Maharashtra.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3748.604340794831!2d75.16756537500302!3d20.025113981384788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7cf00159a2661%3A0x918a34510b2408f0!2sShri%20Ghrishneshwar%20Jyotirlinga!5e0!3m2!1sen!2sin!4v1757961851516!5m2!1sen!2sin"
+  },
+  "blogSection": {
+    "title": "Blogs & Experiences",
+    "posts": [
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Grishneshwar_temple%2C_Ellora.jpg",
+        "title": "A Day of Art and Divinity",
+        "intro": "Combining the spiritual journey to Grishneshwar with the artistic marvel of the Ellora Caves.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Grishneshwar_Jyotirlinga_Temple%2C_Aurangabad.jpg",
+        "title": "The Compassionate Lord: Legend of Kusuma",
+        "intro": "Delving into the story of unwavering faith that led to the manifestation of the Jyotirlinga.",
+        "link": "#"
+      }
+    ]
+  }
+}

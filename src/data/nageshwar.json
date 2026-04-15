@@ -1,0 +1,156 @@
+{
+  "templeName": "Nageshwar",
+  "hero": {
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b9/Nageshwar_Jyotirlinga.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/59/Nageshwar_Jyotirlinga_Temple_Dwarka.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1a/82_feet_high_Lord_Shiva_Statue_at_Nageshwar_Jyotirling_Temple.jpg"
+    ],
+    "quotes": [
+      "Where Lord Shiva resides as the protector from all poisons and evils.",
+      "Nageshwar: The divine lord of the Nagas.",
+      "A shrine of immense faith, marked by a magnificent statue of a meditating Shiva."
+    ],
+    "quoteIcon": "🕉️"
+  },
+  "verticalInfoCards": [
+    {
+      "title": "Basic Information",
+      "icon": "📍",
+      "details": [
+        { "label": "Temple Name", "value": "Nageshwar Jyotirlinga Temple" },
+        { "label": "Location", "value": "Near Dwarka, Gujarat" },
+        { "label": "Deity", "value": "Lord Shiva as Nageshwar (Lord of Serpents)" },
+        { "label": "Significance", "value": "Believed to protect from all types of poisons" },
+        { "label": "Temple Type", "value": "Jyotirlinga" },
+        { "label": "Statue", "value": "Features a giant 82-foot statue of Lord Shiva" },
+        { "label": "Best Time to Visit", "value": "October to March" }
+      ]
+    },
+    {
+      "title": "Rituals and Aarti",
+      "icon": "🛐",
+      "timings": [
+        { "label": "Morning Puja", "value": "6:00 AM" },
+        { "label": "Abhishek", "value": "6:00 AM to 12:30 PM" },
+        { "label": "Evening Aarti", "value": "7:00 PM" },
+        { "label": "Shringar Darshan", "value": "5:00 PM" }
+      ],
+      "note": "Male devotees can perform Abhishek in the main sanctum by wearing a dhoti, which is provided by the temple.",
+      "quote": {
+        "text": "“The giant statue of Shiva in deep meditation exudes a powerful aura of peace that stills the mind.”",
+        "author": "— A Visitor's Reflection"
+      },
+      "description": "The temple is located on the route between Dwarka city and Bet Dwarka island, making it a key stop for pilgrims."
+    }
+  ],
+  "aboutTemple": {
+    "title": "About Nageshwar Temple",
+    "titleIcon": "🕉️",
+    "floatingIcons": ["🔱", "🐍"],
+    "overview": {
+      "title": "Overview",
+      "text": "Nageshwar Jyotirlinga, located near the holy city of Dwarka in Gujarat, is one of the 12 revered Jyotirlinga shrines. The temple is dedicated to Lord Shiva as the 'Lord of Serpents' and is believed to offer protection from all forms of poison, negativity, and evil."
+    },
+    "mythology": {
+      "title": "Mythological Origin",
+      "icon": "🧘‍♂️",
+      "text": "The legend tells of a demon named Daruka who imprisoned a Shiva devotee named Supriya. Supriya chanted the Shiva mantra 'Om Namah Shivaya' relentlessly. Pleased, Lord Shiva appeared, vanquished the demon, and resided here in the form of a Jyotirlinga, taking the name Nageshwar."
+    },
+    "architecture": {
+      "title": "Architectural Highlights",
+      "icon": "🛕",
+      "points": [
+        "The current temple is a modern reconstruction, built with pink stone.",
+        "The most prominent feature is the giant 82-foot-tall seated statue of Lord Shiva in a meditative pose.",
+        "The main sanctum (garbhagriha) is located underground.",
+        "The architecture is simple and elegant, designed to accommodate a large number of devotees.",
+        "A large pond is located near the temple, adding to the serene atmosphere."
+      ]
+    },
+    "significance": {
+      "title": "Spiritual Significance",
+      "icon": "📿",
+      "points": [
+        "Worshipping at Nageshwar is believed to neutralize the effects of all poisons, both physical and spiritual.",
+        "It is considered a powerful place for protection against negative energies and evil forces.",
+        "The location near Dwarka, the kingdom of Lord Krishna, marks a significant confluence of Shaivism and Vaishnavism."
+      ]
+    },
+    "timeline": {
+      "title": "Historical Timeline",
+      "icon": "📜",
+      "events": [
+        { "period": "Ancient", "event": "The site's origin is detailed in the Shiva Purana." },
+        { "period": "Modern Era", "event": "The present temple structure and the giant Shiva statue were built and funded by the T-Series music label owner, Gulshan Kumar." }
+      ]
+    },
+    "beliefs": {
+      "title": "Notable Beliefs & Legends",
+      "icon": "✨",
+      "items": [
+        { "icon": "🙏", "text": "A darshan here is believed to grant a poison-free and fearless life." },
+        { "icon": "🐍", "text": "The temple is considered a powerful center for devotees suffering from 'Sarpa Dosha' (astrological affliction related to serpents)." }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "icon": "🧾",
+      "text": "Nageshwar Jyotirlinga offers a unique spiritual experience, highlighted by its powerful legend of protection and the magnificent, calming statue of Lord Shiva. It stands as a modern pilgrimage center built upon an ancient foundation of faith.",
+      "website": "https://www.dwarkadish.org/nageshwar-jyotirlinga/"
+    }
+  },
+  "aboutPostCards": [
+    {
+      "title": "Major Festivals",
+      "icon": "🎉",
+      "items": [
+        "Maha Shivratri – The main festival, celebrated with special pujas and a large fair.",
+        "Nag Panchami – An important day to worship the 'Lord of Serpents'."
+      ]
+    },
+    {
+      "title": "Nearby Attractions",
+      "icon": "🙏",
+      "items": [
+        "Dwarkadhish Temple – One of the Char Dham sites, dedicated to Lord Krishna.",
+        "Bet Dwarka – An island believed to be the original residence of Lord Krishna.",
+        "Gopi Talav – A pond associated with the Gopis of Vrindavan.",
+        "Rukmini Devi Temple – A temple dedicated to Lord Krishna's chief consort."
+      ]
+    }
+  ],
+  "finalInfoCard": {
+    "title": "How to Reach",
+    "icon": "🗺️",
+    "methods": [
+      { "title": "By Road", "description": "Nageshwar is about 17 km from Dwarka city. Dwarka is well-connected by road to major cities in Gujarat." },
+      { "title": "By Helicopter", "description": "Not available." },
+      { "title": "Nearest Railway", "description": "Dwarka Railway Station (DWK) is the nearest railhead." },
+      { "title": "Nearest Airport", "description": "Jamnagar Airport (JGA) is the closest, approximately 137 km away." }
+    ]
+  },
+  "mapSection": {
+    "title": "Temple Location",
+    "icon": "📍",
+    "description": "Located on the coast of Saurashtra in Gujarat, on the route between Dwarka city and Bet Dwarka island.",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.465087078008!2d69.08443957507053!3d22.336061179660852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395698184969bf63%3A0xa6d636401fda39fc!2sNageshwar%20Jyotirling%20temple!5e0!3m2!1sen!2sin!4v1757961666106!5m2!1sen!2sin"
+  },
+  "blogSection": {
+    "title": "Blogs & Experiences",
+    "posts": [
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/82_feet_high_Lord_Shiva_Statue_at_Nageshwar_Jyotirling_Temple.jpg",
+        "title": "Meditating with the Giant Shiva",
+        "intro": "The serene and powerful experience of sitting before the 82-foot statue.",
+        "link": "#"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Nageshwar_Jyotirlinga.jpg",
+        "title": "A Pilgrim's Guide to Dwarka and Nageshwar",
+        "intro": "Combining the pilgrimage of Krishna and Shiva in one sacred journey.",
+        "link": "#"
+      }
+    ]
+  }
+}
